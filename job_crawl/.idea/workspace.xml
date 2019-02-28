@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07b3d133-626f-4737-8b8e-a923a30f9335" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/job_crawl/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/job_crawl/spiders/careerbuilder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="479">
+              <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>https://vieclam24h.vn/viec-lam-lao-dong-pho-thong</find>
+      <find>https://vieclam24h.vn/lao-dong-pho-thong-c26.html</find>
+      <find>https://vieclam24h.vn/quan-tri-kinh-doanh-c14.html</find>
+      <find>title_text_line</find>
+      <find>VIỆC LÀM NGÀNH QUẢN TRỊ KINH DOANH</find>
+      <find>&quot;https://vieclam24h.vn/khach-san-nha-hang/le-tan-nu-biet-tieng-anh-c84p0id3025041.html&quot;</find>
+      <find>https://vieclam24h.vn/nong-lam-ngu-nghiep/nhan-vien-moi-truong-c17p0id3019586.html</find>
+      <find>https://vieclam24h.vn/nghe-thuat-dien-anh/chuyen-vien-quay-phim-dung-phim-c62p0id3023814.html</find>
+      <find>https://vieclam24h.vn/nong-lam-ngu-nghiep/adi-nhan-vien-thi-truong-c17p0id3019388.html</find>
+      <find>https://vieclam24h.vn/tu-van/nhan-vien-ban-hang-san-bay-tan-son-nhat-biet-tieng-anh-c37p0id2205193.html</find>
+      <find>https://vieclam24h.vn/marketing-pr/marketing-c53p0id3027375.html</find>
+      <find>https://vieclam24h.vn/nhan-su/truong-phong-hanh-chinh-nhan-su-c59p0id3027269.html&quot;, &quot;t</find>
+      <find>https://vieclam24h.vn/van-tai-lai-xe/nhan-vien-lai-may-xuc-c39p0id2943864.html</find>
+      <find>Request</find>
+      <find>response.follow</find>
+      <find>https://vieclam24h.vn/nhan-vien-kinh-doanh/nhan-vien-kinh-doanh-duoc-my-pham-c96p0id3022987.html</find>
+      <find>error</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/job_crawl/spiders/vieclam24h.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/data1.json" />
+        <option value="$PROJECT_DIR$/job_crawl/settings.py" />
+        <option value="$PROJECT_DIR$/convert_json_to_csv.py" />
+        <option value="$PROJECT_DIR$/data.csv" />
+        <option value="$PROJECT_DIR$/data.json" />
+        <option value="$PROJECT_DIR$/job_crawl/spiders/vieclam24h.py" />
+        <option value="$PROJECT_DIR$/job_crawl/items.py" />
+        <option value="$PROJECT_DIR$/job_crawl/pipelines.py" />
+        <option value="$PROJECT_DIR$/job_crawl/spiders/careerbuilder.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="job_crawl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="job_crawl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="job_crawl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="job_crawl" type="462c0819:PsiDirectoryNode" />
+              <item name="job_crawl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="job_crawl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="job_crawl" type="462c0819:PsiDirectoryNode" />
+              <item name="job_crawl" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="test.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/job_crawl/test.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.test.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07b3d133-626f-4737-8b8e-a923a30f9335" name="Default Changelist" comment="" />
+      <created>1551206123102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551206123102</updated>
+      <workItem from="1551206124712" duration="5227000" />
+      <workItem from="1551231270104" duration="9844000" />
+      <workItem from="1551241337586" duration="52000" />
+      <workItem from="1551242508842" duration="1452000" />
+      <workItem from="1551245099528" duration="606000" />
+      <workItem from="1551250885650" duration="1461000" />
+      <workItem from="1551255300505" duration="537000" />
+      <workItem from="1551266283943" duration="3101000" />
+      <workItem from="1551273542626" duration="23175000" />
+      <workItem from="1551297787833" duration="43000" />
+      <workItem from="1551317718442" duration="4841000" />
+      <workItem from="1551325342223" duration="2317000" />
+      <workItem from="1551331583656" duration="857000" />
+      <workItem from="1551336093317" duration="1775000" />
+      <workItem from="1551339378492" duration="2156000" />
+      <workItem from="1551344059383" duration="827000" />
+      <workItem from="1551362910889" duration="8482000" />
+      <workItem from="1551374665124" duration="362000" />
+      <workItem from="1551377263696" duration="4000" />
+      <workItem from="1551377285955" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="67129000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20201342" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067115" side_tool="true" weight="0.21648045" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49932885" visible="true" weight="0.21648045" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32960895" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24966443" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.19463088" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3295302" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/scrapy/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="88" column="30" lean-forward="true" selection-start-line="88" selection-start-column="30" selection-end-line="88" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html" />
+    <entry file="file://$PROJECT_DIR$/data3.json" />
+    <entry file="file://$PROJECT_DIR$/data4.json" />
+    <entry file="file://$PROJECT_DIR$/data2.json" />
+    <entry file="file://$PROJECT_DIR$/data1.json" />
+    <entry file="file://$PROJECT_DIR$/convert_json_to_csv.py" />
+    <entry file="file://$PROJECT_DIR$/data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="2922" column="61" lean-forward="true" selection-start-line="2922" selection-start-column="61" selection-end-line="2922" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job_crawl/spiders/vieclam24h.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1204">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="e#16#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job_crawl/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1340" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="1478" column="46" selection-start-line="1478" selection-start-column="46" selection-end-line="1478" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job_crawl/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job_crawl/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-745">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file.log">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="128" column="56" selection-start-line="128" selection-start-column="56" selection-end-line="128" selection-end-column="56" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-277292" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job_crawl/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/careerbuilder.json">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="530" column="7" selection-start-line="530" selection-start-column="7" selection-end-line="530" selection-end-column="7" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="267">
+          <caret line="521" column="95" selection-start-line="521" selection-start-column="95" selection-end-line="521" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job_crawl/spiders/careerbuilder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
