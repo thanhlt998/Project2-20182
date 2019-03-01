@@ -33,7 +33,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/job_crawl/spiders/careerbuilder.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="479">
@@ -41,6 +41,15 @@
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/careerbuilder.json">
+          <provider selected="true" editor-type-id="LargeFileEditor">
+            <state relative-caret-position="236">
+              <caret line="192" column="42" lean-forward="true" selection-start-line="192" selection-start-column="42" selection-end-line="192" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -68,6 +77,9 @@
       <find>error</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/job_crawl/spiders/vieclam24h.py" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -91,34 +103,16 @@
     <option name="width" value="980" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="job_crawl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="job_crawl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="job_crawl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="job_crawl" type="462c0819:PsiDirectoryNode" />
-              <item name="job_crawl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="job_crawl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="job_crawl" type="462c0819:PsiDirectoryNode" />
-              <item name="job_crawl" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -179,16 +173,18 @@
       <workItem from="1551374665124" duration="362000" />
       <workItem from="1551377263696" duration="4000" />
       <workItem from="1551377285955" duration="10000" />
+      <workItem from="1551407465007" duration="1034000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67129000" />
+    <option name="totallyTimeSpent" value="68163000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20201342" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20469798" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -202,7 +198,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067115" side_tool="true" weight="0.21648045" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49932885" visible="true" weight="0.21648045" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49932885" visible="true" weight="0.21648045" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32960895" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -288,18 +284,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/careerbuilder.json">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="530" column="7" selection-start-line="530" selection-start-column="7" selection-end-line="530" selection-end-column="7" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="267">
-          <caret line="521" column="95" selection-start-line="521" selection-start-column="95" selection-end-line="521" selection-end-column="95" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/job_crawl/spiders/careerbuilder.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="479">
@@ -307,6 +291,18 @@
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/careerbuilder.json">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="530" column="7" selection-start-line="530" selection-start-column="7" selection-end-line="530" selection-end-column="7" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="236">
+          <caret line="192" column="42" lean-forward="true" selection-start-line="192" selection-start-column="42" selection-end-line="192" selection-end-column="42" />
         </state>
       </provider>
     </entry>
