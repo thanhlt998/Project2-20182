@@ -8,6 +8,7 @@
 #     https://doc.scrapy.org/en/latest/topics/settings.html
 #     https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://doc.scrapy.org/en/latest/topics/spider-middleware.html
+from scrapy.settings.default_settings import ITEM_PIPELINES
 
 BOT_NAME = 'job_crawl'
 
@@ -20,6 +21,14 @@ NEWSPIDER_MODULE = 'job_crawl.spiders'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
+
+# Mongo DB
+ITEM_PIPELINES = {
+    'job_crawl.pipelines.MongoPipeline': 300
+}
+MONGO_URI = 'mongodb://localhost:27017/'
+MONGO_DATABASE = 'recruitment_information'
+MONGO_COLLECTION = 'job_information'
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 # CONCURRENT_REQUESTS = 32

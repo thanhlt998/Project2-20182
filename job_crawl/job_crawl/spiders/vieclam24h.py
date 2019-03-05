@@ -2,40 +2,17 @@
 import scrapy
 from scrapy import Request
 from job_crawl.items import JobItem
+import pymongo
+from ..remove_similar_data.remove_similar_data import DataReduction
 
 
-class VieclLam24hSpider(scrapy.Spider):
+class Vieclam24hSpider(scrapy.Spider):
     name = "vieclam24h"
     start_urls = [
-        "https://vieclam24h.vn"
-    ]
-
-    cookies = [
-        {
-            'gate_nganh': 14,
-            '_gid': 'GA1.2.188974254.1551174426',
-            '_ga': 'GA1.2.1690984599.1551174426',
-            'gate': 'vlql'
-        },
-        {
-            'gate_nganh': 14,
-            '_gid': 'GA1.2.188974254.1551174426',
-            '_ga': 'GA1.2.1690984599.1551174426',
-            'gate': 'vlcm'
-        },
-        {
-            'gate_nganh': 14,
-            '_gid': 'GA1.2.188974254.1551174426',
-            '_ga': 'GA1.2.1690984599.1551174426',
-            'gate': 'ldpt'
-        },
-        {
-            'gate_nganh': 14,
-            '_gid': 'GA1.2.188974254.1551174426',
-            '_ga': 'GA1.2.1690984599.1551174426',
-            'gate': 'sv'
-        }
-
+        "https://vieclam24h.vn/viec-lam-quan-ly",
+        "https://vieclam24h.vn/viec-lam-chuyen-mon",
+        "https://vieclam24h.vn/viec-lam-lao-dong-pho-thong",
+        "https://vieclam24h.vn/viec-lam-sinh-vien-ban-thoi-gian"
     ]
 
     selectors = {
@@ -64,23 +41,37 @@ class VieclLam24hSpider(scrapy.Spider):
         }
     }
 
+    mongo_uri = 'mongodb://localhost:27017/'
+    mongo_database = 'recruitment_information'
+    mongo_collection = 'job_information'
+    collection = pymongo.MongoClient(mongo_uri)[mongo_database][mongo_collection]
+    data_reduction = DataReduction(3, [[job['title'], job['company'], job['address']] for job in list(
+        collection.find({}, {'title': 1, 'company': 1, 'address': 1, '_id': 0}))])
+    no_added_items = 0
+
+    def start_requests(self):
+        for i, url in enumerate(self.start_urls):
+            yield Request(url=url, meta={'cookiejar': i, 'dont_merge_cookies': True}, callback=self.parse)
+
     def parse(self, response):
-        # for cookie in self.cookies:
         yield Request(
             url="https://vieclam24h.vn/tim-kiem-viec-lam-nhanh/?hdn_nganh_nghe_cap1=&hdn_dia_diem=&hdn_tu_khoa=&hdn_hinh_thuc=&hdn_cap_bac=",
-            callback=self.parse_job_urls, cookies=self.cookies[3])
+            meta={'cookiejar': response.meta['cookiejar'], 'dont_merge_cookies': True}, callback=self.parse_job_urls)
 
     def parse_job_urls(self, response):
         job_urls = [(response.urljoin(job_url), job_url)["vieclam24h" in job_url] for job_url in
                     response.css(self.selectors['job_url']).getall()]
         next_page = response.css(self.selectors['next_page']).get()
+        cookiejar = response.meta['cookiejar']
 
         for job_url in job_urls:
-            yield Request(url=job_url, callback=self.parse_job_detail)
+            yield Request(url=job_url, meta={'cookiejar': cookiejar, 'dont_merge_cookies': True},
+                          callback=self.parse_job_detail)
 
         if next_page is not None:
             next_page = response.urljoin(next_page)
-            yield Request(url=next_page, callback=self.parse_job_urls)
+            yield Request(url=next_page, meta={'cookiejar': cookiejar, 'dont_merge_cookies': True},
+                          callback=self.parse_job_urls)
 
     def parse_job_detail(self, response):
         self.item = JobItem()
@@ -90,12 +81,27 @@ class VieclLam24hSpider(scrapy.Spider):
         self.item['url'] = response.request.url
 
         # Title
-        self.item['title'] = response.css(job_selector['title']).get()
+        title = response.css(job_selector['title']).get()
+        self.item['title'] = title
         if self.item['title'] is None:
             return
 
         # Company
-        self.item['company'] = response.css(job_selector['company']).get()
+        company = response.css(job_selector['company']).get()
+        self.item['company'] = company
+
+        # Address
+        addresses = response.css(job_selector['address']).getall()
+        address = ', '.join(
+            [address.replace("Việc làm", "").replace("TP.HCM", "Hồ Chí Minh").strip() for address in addresses])
+        self.item['address'] = address
+
+        # Check duplicate
+        if self.data_reduction.is_match([title, company, address]):
+            return
+
+        self.no_added_items += 1
+        print('Added ', self.no_added_items, ' items.')
 
         # Salary
         self.item['salary'] = response.css(job_selector['salary']).get()
@@ -111,9 +117,6 @@ class VieclLam24hSpider(scrapy.Spider):
 
         # Career
         self.item['career'] = ', '.join(response.css(job_selector['career']).getall())
-
-        # Address
-        self.item['address'] = response.css(job_selector['address']).get()
 
         # Position
         self.item['position'] = response.css(job_selector['position']).get()
