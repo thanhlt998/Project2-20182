@@ -1,6 +1,10 @@
 # -*- coding: utf-8 -*-
 
+<<<<<<< HEAD
 # Define here the models1 for your scraped items
+=======
+# Define here the models for your scraped items
+>>>>>>> f38684dd49bf46158a1ee1bc4f10185034cc3b32
 #
 # See documentation in:
 # https://doc.scrapy.org/en/latest/topics/items.html

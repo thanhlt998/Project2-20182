@@ -2,11 +2,15 @@ import scrapy
 from scrapy import Request
 from job_crawl.items import JobItem
 import pymongo
+<<<<<<< HEAD
 import re
 from ..remove_similar_data.remove_similar_data import DataReduction
 from ..dict.load_dict import load_dict
 from lxml import etree
 import json
+=======
+from ..remove_similar_data.remove_similar_data import DataReduction
+>>>>>>> f38684dd49bf46158a1ee1bc4f10185034cc3b32
 
 
 class CareerBuilderSpider(scrapy.Spider):
@@ -43,23 +47,36 @@ class CareerBuilderSpider(scrapy.Spider):
         }
     }
 
+<<<<<<< HEAD
     address_dict = load_dict('address')
     career_dict = load_dict('career')
 
+=======
+>>>>>>> f38684dd49bf46158a1ee1bc4f10185034cc3b32
     mongo_uri = 'mongodb://localhost:27017/'
     mongo_database = 'recruitment_information'
     mongo_collection = 'job_information'
     collection = pymongo.MongoClient(mongo_uri)[mongo_database][mongo_collection]
+<<<<<<< HEAD
     data_reduction = DataReduction(3, [[job['title'], job['company'], ', '.join(job['address'])] for job in list(
         collection.find({}, {'title': 1, 'company': 1, 'address': 1, '_id': 0}))])
     no_duplicated_items = 0
+=======
+    data_reduction = DataReduction(3, [[job['title'], job['company'], job['address']] for job in list(
+        collection.find({}, {'title': 1, 'company': 1, 'address': 1, '_id': 0}))])
+    no_duplicate_items = 0
+>>>>>>> f38684dd49bf46158a1ee1bc4f10185034cc3b32
 
     def parse(self, response):
         job_urls = response.xpath(self.selectors['job_url']).getall()
         next_page = response.xpath(self.selectors['next_page']).get()
         for job_url in job_urls:
+<<<<<<< HEAD
             # yield Request(url=job_url, callback=self.parse_job)
             yield Request(url=job_url, callback=self.parse_json)
+=======
+            yield Request(url=job_url, callback=self.parse_job)
+>>>>>>> f38684dd49bf46158a1ee1bc4f10185034cc3b32
 
         if next_page is not None:
             yield Request(url=next_page, callback=self.parse)
@@ -71,6 +88,7 @@ class CareerBuilderSpider(scrapy.Spider):
 
         # Title
         title = response.xpath(job_selector['title']).get()
+<<<<<<< HEAD
         if title is None:
             return
 
@@ -94,20 +112,51 @@ class CareerBuilderSpider(scrapy.Spider):
         # Salary
         salary = response.xpath(job_selector['salary']).getall()
         self.item['salary'] = self.normalize_salary(salary)
+=======
+        self.item['title'] = title
+        if title is None:
+            return
+
+        # Company
+        company = response.xpath(job_selector['company']).get()
+        self.item['company'] = company if company is not None else title
+
+        # Address
+        address = response.xpath(job_selector['address']).get()
+        self.item['address'] = address
+
+        # Check duplicate
+        if self.data_reduction.is_match([title, company, address]):
+            self.no_duplicate_items += 1
+            print(self.no_duplicate_items, ' items found.')
+            return
+
+        # Salary
+        self.item['salary'] = response.xpath(job_selector['salary']).get()
+>>>>>>> f38684dd49bf46158a1ee1bc4f10185034cc3b32
 
         # Experience
         experience = response.xpath(job_selector['experience']).get()
         self.item['experience'] = experience.strip() if experience is not None else "Không yêu cầu"
 
         # Career
+<<<<<<< HEAD
         careers = [career.strip() for career in response.xpath(job_selector['career']).getall()]
         self.item['career'] = self.normalize_career(careers)
+=======
+        careers = response.xpath(job_selector['career']).getall()
+        self.item['career'] = ' '.join(careers)
+>>>>>>> f38684dd49bf46158a1ee1bc4f10185034cc3b32
 
         # Description
         descriptions = response.xpath(job_selector['description']).getall()
         self.item['description'] = ' '.join([description.replace('-', '').strip() for description in descriptions])
 
+<<<<<<< HEAD
         # Benefits
+=======
+        # Benifits
+>>>>>>> f38684dd49bf46158a1ee1bc4f10185034cc3b32
         benefits = response.xpath(job_selector['benefits']).getall()
         self.item['benefits'] = ', '.join(benefits).strip()
 
@@ -161,6 +210,7 @@ class CareerBuilderSpider(scrapy.Spider):
             self.item['sex'] = sex
 
         yield self.item
+<<<<<<< HEAD
 
     def close(self, spider, reason):
         print("Number of duplicated items: ", self.no_duplicated_items)
@@ -214,3 +264,5 @@ class CareerBuilderSpider(scrapy.Spider):
 
             except json.encoder.JSONEncoder:
                 pass
+=======
+>>>>>>> f38684dd49bf46158a1ee1bc4f10185034cc3b32

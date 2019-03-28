@@ -3,6 +3,7 @@ import scrapy
 from scrapy import Request
 from job_crawl.items import JobItem
 import pymongo
+<<<<<<< HEAD
 import json
 import re
 from ..remove_similar_data.remove_similar_data import DataReduction
@@ -10,6 +11,9 @@ from ..dict.load_dict import load_dict
 # from job_crawl.fields_list import FIELDS
 from lxml import etree
 import json
+=======
+from ..remove_similar_data.remove_similar_data import DataReduction
+>>>>>>> f38684dd49bf46158a1ee1bc4f10185034cc3b32
 
 
 class Vieclam24hSpider(scrapy.Spider):
@@ -47,18 +51,27 @@ class Vieclam24hSpider(scrapy.Spider):
         }
     }
 
+<<<<<<< HEAD
     # save_data_file = {field: open(f'data/{field}.txt', mode='a', encoding='utf8') for field in FIELDS}
 
     address_dict = load_dict('address')
     career_dict = load_dict('career')
 
+=======
+>>>>>>> f38684dd49bf46158a1ee1bc4f10185034cc3b32
     mongo_uri = 'mongodb://localhost:27017/'
     mongo_database = 'recruitment_information'
     mongo_collection = 'job_information'
     collection = pymongo.MongoClient(mongo_uri)[mongo_database][mongo_collection]
+<<<<<<< HEAD
     data_reduction = DataReduction(3, [[job['title'], job['company'], ','.join(job['address'])] for job in list(
         collection.find({}, {'title': 1, 'company': 1, 'address': 1, '_id': 0}))])
     no_duplicated_items = 0
+=======
+    data_reduction = DataReduction(3, [[job['title'], job['company'], job['address']] for job in list(
+        collection.find({}, {'title': 1, 'company': 1, 'address': 1, '_id': 0}))])
+    no_added_items = 0
+>>>>>>> f38684dd49bf46158a1ee1bc4f10185034cc3b32
 
     def start_requests(self):
         for i, url in enumerate(self.start_urls):
@@ -76,10 +89,15 @@ class Vieclam24hSpider(scrapy.Spider):
         cookiejar = response.meta['cookiejar']
 
         for job_url in job_urls:
+<<<<<<< HEAD
             # yield Request(url=job_url, meta={'cookiejar': cookiejar, 'dont_merge_cookies': True},
             #               callback=self.parse_job_detail)
             yield Request(url=job_url, meta={'cookiejar': cookiejar, 'dont_merge_cookies': True},
                           callback=self.parse_json)
+=======
+            yield Request(url=job_url, meta={'cookiejar': cookiejar, 'dont_merge_cookies': True},
+                          callback=self.parse_job_detail)
+>>>>>>> f38684dd49bf46158a1ee1bc4f10185034cc3b32
 
         if next_page is not None:
             next_page = response.urljoin(next_page)
@@ -95,6 +113,7 @@ class Vieclam24hSpider(scrapy.Spider):
 
         # Title
         title = response.css(job_selector['title']).get()
+<<<<<<< HEAD
         if title is None:
             return
 
@@ -120,6 +139,31 @@ class Vieclam24hSpider(scrapy.Spider):
         # Salary
         salary = response.css(job_selector['salary']).get()
         self.item['salary'] = self.normalize_salary(salary)
+=======
+        self.item['title'] = title
+        if self.item['title'] is None:
+            return
+
+        # Company
+        company = response.css(job_selector['company']).get()
+        self.item['company'] = company
+
+        # Address
+        addresses = response.css(job_selector['address']).getall()
+        address = ', '.join(
+            [address.replace("Việc làm", "").replace("TP.HCM", "Hồ Chí Minh").strip() for address in addresses])
+        self.item['address'] = address
+
+        # Check duplicate
+        if self.data_reduction.is_match([title, company, address]):
+            return
+
+        self.no_added_items += 1
+        print('Added ', self.no_added_items, ' items.')
+
+        # Salary
+        self.item['salary'] = response.css(job_selector['salary']).get()
+>>>>>>> f38684dd49bf46158a1ee1bc4f10185034cc3b32
 
         # Experience
         self.item['experience'] = response.css(job_selector['experience']).get()
@@ -131,8 +175,12 @@ class Vieclam24hSpider(scrapy.Spider):
         self.item['amount'] = int(response.css(job_selector['amount']).get())
 
         # Career
+<<<<<<< HEAD
         careers = [career.strip() for career in response.css(job_selector['career']).getall()]
         self.item['career'] = self.normalize_career(careers)
+=======
+        self.item['career'] = ', '.join(response.css(job_selector['career']).getall())
+>>>>>>> f38684dd49bf46158a1ee1bc4f10185034cc3b32
 
         # Position
         self.item['position'] = response.css(job_selector['position']).get()
@@ -175,6 +223,7 @@ class Vieclam24hSpider(scrapy.Spider):
         self.item['created'] = response.css(job_selector['created']).get().split(':')[1].strip()
 
         yield self.item
+<<<<<<< HEAD
 
     def close(self, spider, reason):
         print("Number of duplicated items: ", self.no_duplicated_items)
@@ -224,3 +273,5 @@ class Vieclam24hSpider(scrapy.Spider):
             except json.encoder.JSONEncoder:
                 pass
 
+=======
+>>>>>>> f38684dd49bf46158a1ee1bc4f10185034cc3b32

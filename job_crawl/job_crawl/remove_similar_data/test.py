@@ -29,7 +29,11 @@ class DataReduction:
         for i in range(no_fields):
             self.Y_index.append(self.invert_index(Y_fields[i]))
 
+<<<<<<< HEAD
         # Soft TF/IDF models1
+=======
+        # Soft TF/IDF models
+>>>>>>> f38684dd49bf46158a1ee1bc4f10185034cc3b32
         self.soft_tf_idf = []
         for i in range(no_fields):
             self.soft_tf_idf.append(SoftTfIdf(Y_fields[i]))
