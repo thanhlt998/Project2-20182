@@ -1,0 +1,621 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Nhân Viên Giao Nhận Xuất Nhập Khẩu",
+    "description": "- Liên hệ đại lý, hãng tàu lấy lệnh.\r\n- Mở tờ khai hải quan ở cảng,, sân bay, \r\n- Đăng ký C / O, Đăng ký KDTV, KTCL,",
+    "jobBenefits": "- Được hưởng BHYT, BHXH, phép năm,\r\n- Tiền thưởng các ngày lễ, thưởng tháng, tiền khoán theo tưng lô.\r\n- Được đào tạo nghiệp vụ thường xuyên, tạo điều kiện để phát triển nghề nghiệp",
+    "skills": "- Nhanh nhẹn, có sức khoẻ, chịu khó, biết sử dụng thành thạo vi tính, email, internet\r\n- Ưu tiên cho người có kinh nghiệm\r\n- Ưu tiên cho hồ sơ đến sớm\r\n- Nộp hồ sơ qua email, đợi ngày phỏng vấn",
+    "qualifications": "Trung cấp",
+    "experienceRequirements": "Dưới 1 năm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Công Ty TNHH TM DV XNK MTD VINA",
+      "value": "3317986"
+    },
+    "datePosted": "2019-03-19",
+    "validThrough": "2019-03-30",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Công Ty TNHH TM DV XNK MTD VINA",
+      "sameAs": "https://vieclam24h.vn/danh-sach-tin-tuyen-dung-cong-ty-tnhh-tm-xnk-mtd-vina-ntd3317986p1.html",
+      "logo": "https://vieclam24h.vn/upload/files_cua_nguoi_dung/logo/2018/03/22/1521704127_LOGO_MTD_1.png"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "48 Đường số 1, Phường 4, Quận 4",
+        "addressRegion": "TP.HCM",
+        "postalCode": "700000",
+        "addressCountry": "VN",
+        "addressLocality": "48 Đường số 1, Phường 4, Quận 4"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": 5000000,
+      "maxValue": 6999999,
+      "unitText": "MONTH"
+    }
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Quản Sinh Ký Túc Xá",
+    "description": "Sắp xếp chỗ ở cho học viên; \r\nQuản lý học viên\r\nĐiều hành hoạt động quản lý tại Ký túc xá \r\nQuản lý, điều hành các điều kiện hoạt động của Ký túc xá.",
+    "jobBenefits": "Thời gian làm việc từ T2- T7.\r\nLương thỏa thuận\r\nĐược hỗ trợ ở lại trung tâm\r\nChế độ: bảo hiểm theo quy định; du lịch; phụ cấp; thưởng lễ; đào tạo; tăng lương; công tác phí; chế độ nghỉ phép. Và các chế độ khác theo quy định của công ty và tuân thủ Luật Lao động.",
+    "skills": "Số lượng: 01 nam\r\nĐộ tuổi: 26 tuổi trở lên\r\nƯu tiên bộ đội xuất ngũ hoặc có kinh nghiệm làm quản sinh.\r\nTính cách: Nghiêm khác, kỷ luật, trung thực, nhanh nhẹn, chịu khó.\r\nTrình độ tiếng Nhật:  từng là Tu nghiệp sinh tại Nhật.",
+    "qualifications": "Trung học",
+    "experienceRequirements": "Chưa có kinh nghiệm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CÔNG TY CP TƯ VẤN VÀ THƯƠNG MẠI KIẾN VÀNG",
+      "value": "5400480"
+    },
+    "datePosted": "2019-03-18",
+    "validThrough": "2019-03-30",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CÔNG TY CP TƯ VẤN VÀ THƯƠNG MẠI KIẾN VÀNG",
+      "sameAs": "https://vieclam24h.vn/danh-sach-tin-tuyen-dung-cong-ty-cp-tu-van-va-thuong-mai-kien-vang-ntd5400480p1.html",
+      "logo": "https://vieclam24h.vn/upload/files_cua_nguoi_dung/logo/2019/03/20/1553070061_logo_trn_1.png"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "116/52 Thiên Phước, Phường 9, Quận Tân Bình Thành phố Hồ Chí Minh",
+        "addressRegion": "TP.HCM",
+        "postalCode": "700000",
+        "addressCountry": "VN",
+        "addressLocality": "116/52 Thiên Phước, Phường 9, Quận Tân Bình Thành phố Hồ Chí Minh"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": 7000000,
+      "maxValue": 9999999,
+      "unitText": "MONTH"
+    }
+  },
+  {
+    "address": "Bà Rịa - Vũng Tàu\n                                            ,\n\n                                            Thành phố Vũng Tàu",
+    "addressLocality": "Thành phố Vũng Tàu",
+    "baseSalary": {
+      "unitText": "MONTH",
+      "value": "Thương lượng"
+    },
+    "datePosted": "2019-03-15",
+    "description": [
+      "Found in 2004 by group experienced engineers, with an absolute commitment to outstanding quality, reliability and competitive price has assisted our successes in supplying tool, equipments and related services in Vietnam and nearby region, particularly in high-risk environments such as Oil & Gas, Chemical Petrochemical, Steel and Power Industries. We have a core team of high skilled engineers with experiences in the other industries to repair, maintain supplied tool and equipments and carry out all services after sales",
+      "- Thực hiện các công việc cài đặt máy tính, máy in, thiết bị ngoại vi, và phần mềm cho nhân viên các bộ phận bên trong công ty.- Hỗ trợ các vấn đề liên quan đến truy cập mạng, email cho các bộ phận trong Công ty- Thực hiện các công việc bảo hệ thống camera, tổng đài điện thoại analog- Thực hiện các công việc liên quan đến quản lý websilte của công ty- Đảm bảo các yêu cầu hỗ trợ được giải quyết hoặc được xử lý sớm nhất- Làm các tài liệu và quy trình liên quan đến công việc- Thực hiện các công việc khác theo sự phân công của Trưởng bộ phận và Ban lãnh Đạo công ty."
+    ],
+    "educationRequirements": "Cao đẳng",
+    "employmentType": "Toàn thời gian cố định",
+    "experienceRequirements": "2-5 năm kinh nghiệm",
+    "hiringOrganization": [
+      {
+        "name": "CÔNG TY TNHH HẢI ĐÔNG"
+      },
+      {
+        "name": "CÔNG TY TNHH HẢI ĐÔNG"
+      },
+      {
+        "name": "CÔNG TY TNHH HẢI ĐÔNG"
+      },
+      "CÔNG TY TNHH HẢI ĐÔNG\n    \n\n\n                            \n                        \n                                                    \n                                www.easternsea.com.vn\n                            \n                                            \n\n                    \n                        \n                            Số nhân viên:\n\n                            \n                                                                    25-99                                                            \n                        \n                        \n                            Tên liên hệ:\n                            CÔNG TY TNHH HẢI ĐÔNG\n                        \n                    \n\n                    \n                        Found in 2004 by group experienced engineers, with an absolute commitment to outstanding quality, reliability and competitive price has assisted our successes in supplying tool, equipments and related services in Vietnam and nearby region, particularly in high-risk environments such as Oil & Gas, Chemical Petrochemical, Steel and Power Industries. We have a core team of high skilled engineers with experiences in the other industries to repair, maintain supplied tool and equipments and carry out all services after sales\n                    \n\n                    \n                    \n    Việc làm từ Công ty này\n\n    \n                \n            \n                \n                Giám Đốc Kinh Doanh – Phát Triển Hãng Đại Diện\n            \n        \n                \n            \n                \n                GIÁM ĐỐC ĐIỀU HÀNH DỰ ÁN DU LỊCH SINH THÁI TÂM LINH\n            \n        \n                \n            \n                \n                Trưởng Phòng Kinh Doanh\n            \n        \n                \n            \n                \n                MARKETING EXCUTIVE\n            \n        \n                \n            \n                \n                Nhân Viên Kinh Doanh ( Có Kinh Nghiệm Chào Thầu Thương Mại )\n            \n        \n            \n\n    \n        Việc làm khác từ Công ty này >>"
+    ],
+    "jobLocation": {
+      "address": {
+        "addressCountry": "Việt Nam",
+        "addressLocality": ", Thành phố Vũng Tàu",
+        "addressRegion": "Bà Rịa - Vũng Tàu",
+        "streetAddress": "72 Phạm Ngọc Thạch, Phường 9, TP. Vũng Tàu"
+      }
+    },
+    "occupationalCategory": [
+      "CNTT - Phần mềm",
+      "CNTT - Phần cứng / Mạng"
+    ],
+    "qualifications": "Cấp bậc:\n\n                                                            Nhân viên",
+    "skills": "- Tốt nghiệp Cao đẳng trở lên chuyên ngành Liên quan đến Công nghệ thông tin- Ưu tiên có kinh nghiệm liên quan đến hạ tầng mạng, camera, tổng đài điện thoại analog- Có trên 03 năm kinh nghiệm làm hỗ trợ kỹ thuật IT",
+    "title": "Nhân Viên Hỗ Trợ IT",
+    "url": "www.easternsea.com.vn",
+    "validThrough": "2019-04-14T24:00+07:00"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "JobPosting",
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "USD",
+      "minValue": "1000",
+      "maxValue": "1500"
+    },
+    "jobBenefits": "Máy tính xách tay, Bảo hiểm theo quy định, Du Lịch, Đồng phục, Thưởng, Chăm sóc sức khỏe, Đào tạo, Tăng lương, Công tác phí, Chế độ nghỉ phép",
+    "datePosted": "27/03/2019",
+    "validThrough": "27/03/2019",
+    "occupationalCategory": "CNTT - Phần mềm",
+    "description": "  JOB DESCRIPTION   The role of a mobile developer at Kootoro is to:   Craft quality code (Android, Java), not simply for the app to work but for the next developer who will maintain it    Analyze, specify, design, plan, write code and tests, raise issues, suggest ideas, try new technologies  Battle for the project &amp; team success, do what it takes to get it done, on-time, using Scrum or Kanban  Train others, share best practices (pair programming, code reviews, cross-presentations)   At Kootoro, we love technically challenging projects, delivered to our customers in an Agile way, with CI and automation. Our startup environment emphasizes on team-play, continuous learning, and technology.   YOUR RESPONSIBILITIES    Design and build advanced applications for the iOS platform  Collaborate with cross-functional teams to define, design, and ship new features  Work on bug fixing and improving application performance  Ensure the performance, quality, and responsiveness of applications  Continuously discover, evaluate, and implement new technologies to maximize development efficiency  ",
+    "experienceRequirements": "  YOUR SKILLS AND EXPERIENCE    iOS, Swift, MVC/MVP/MVVM  Familiarity with RESTful APIs to connect iOS applications to back-end services  Tools: Slack, GitLab, Jenkins, Crashlytic, Fastlane  Practices: Pair Programming, Unit Tests, Continuous Integration, XP  Books that have impacted us: Clean Code, The Software Craftsman, Clean Coder  Our Influencers: Uncle Bob, Sandro Mancuso, Vasco Duarte, Kent Beck   To be successful at Kootoro, you should:   Have a good understanding of OOP, design patterns, SOLID principles  Be passionate, willing to learn and to contribute to the Software community  Knowing a  cross-platform framework  (React Native, Xamarin) is a plus    WHY YOU'LL LOVE WORKING HERE    Modern office and great working environment  Yearly team building and regular team outings  Yearly salary review  Opportunities to learn (discussions with tech-passionate people about code practices)  Employee stock option plan  Open atmosphere  Open communication  Working time Monday to Friday  ",
+    "educationRequirements": "Đại học",
+    "qualifications": "Đại học",
+    "employmentType": "Nhân viên chính thức",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Công Ty TNHH Kootoro Việt Nam"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "3 Quốc Hương, P. Thảo Điền, Q. 2, TP. HCM",
+        "addressLocality": "3 Quốc Hương, P. Thảo Điền, Q. 2, TP. HCM",
+        "addressRegion": " Hồ Chí Minh",
+        "addressCountry": "Việt Nam",
+        "postalCode": "70000"
+      }
+    },
+    "title": "Mobile Developer - Android/ iOS",
+    "skills": "",
+    "workHours": "Monday to Friday",
+    "url": "https://careerbuilder.vn/vi/tim-viec-lam/mobile-developer-android-ios.35B1CCDA.html"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "JobPosting",
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": "7000000",
+      "maxValue": "12000000"
+    },
+    "jobBenefits": "Bảo hiểm theo quy định, Du Lịch, Phụ cấp, Thưởng, Đào tạo, Tăng lương, Công tác phí, Chế độ nghỉ phép",
+    "datePosted": "27/03/2019",
+    "validThrough": "27/03/2019",
+    "occupationalCategory": "Kế toán / Kiểm toán, Xây dựng",
+    "description": "  Nhập xuất kho vật tư, thành phẩm- nhôm kính  Cập nhật phần mềm, báo cáo kho  Các công việc liên quan đến thủ kho (trao đổi kỹ khi phỏng vấn)  ",
+    "experienceRequirements": "  Tốt nghiệp trung cấp, CĐ kế toán, thống kê  Trung thực, chăm chỉ, cẩn thận.  Có kinh nghiệm làm thủ kho từ 1 năm trở lên  Nam/ nữ, ưu tiên nam, tuổi trên 25  Ưu tiên người ở tại Bắc Ninh, gần KCN Quế Võ  ",
+    "educationRequirements": "Trung cấp",
+    "qualifications": "Trung cấp",
+    "employmentType": "Nhân viên chính thức",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Công ty cổ phần tường kính TID"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Số 04, Liễu Giai, Ba Đình, Hà Nội",
+        "addressLocality": "Số 04, Liễu Giai, Ba Đình, Hà Nội",
+        "addressRegion": " Bắc Ninh",
+        "addressCountry": "Việt Nam",
+        "postalCode": "70000"
+      }
+    },
+    "title": "Thủ kho   (NM tại KCN Quế Võ- Bắc Ninh)",
+    "skills": "Thủ kho   NM tại KCN Quế Võ- Bắc Ninh,  Store Keeper,  Warehouse Keeper,  Warehouseman,  Tool Keeper,  Stockman,  Storeman,  Quản lý kho",
+    "workHours": "8AM-5PM",
+    "url": "https://careerbuilder.vn/vi/tim-viec-lam/thu-kho-nm-tai-kcn-que-vo-bac-ninh.35B1CC99.html"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "JobPosting",
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "value": "Cạnh tranh"
+    },
+    "jobBenefits": "",
+    "datePosted": "27/03/2019",
+    "validThrough": "27/03/2019",
+    "occupationalCategory": "Vận chuyển / Giao nhận /  Kho vận, Xuất nhập khẩu, Thu mua / Vật tư",
+    "description": " 1. Quản lý, điều hành hoạt động phòng Logistics;  2. Thiết lập, quản lý, duy trì mối quan hệ với khách hàng để cung cấp dịch vụ cho khách hàng;  3. Tổ chức đại lý khai thuê hải quan, làm các chứng từ C/O;  4. Thiết lập, duy trì mối quan hệ tốt với HQ các cửa khẩu, thông thạo các loại hình, có khả năng giải quyết các vấn đề liên quan đến quản lý hàng hóa;  5. Theo dõi tiến độ giao nhận vận chuyển, giải quyết các phát sinh trong quá trình vận chuyển hàng hóa của khách hàng;  6. Liên hệ và làm việc trực tiếp với Đại lý nước ngoài liên quan đến hàng hóa, chi phí, ….  7. Liên hệ với các bộ phận liên quan để hoàn thành yêu cầu khách hàng và các công việc liên quan đến giao nhận;  8. Thực hiện các công việc khác theo yêu cầu của Quản lý ",
+    "experienceRequirements": "  Tốt nghiệp Đại trở lên chuyên ngành Ngoại Thương, Vận tải biển, ….  Kinh nghiệm: 3- 5 năm, Có kinh nghiệm 03 năm làm quản lý trong lĩnh vực Logistics được ưu tiên.  Khả năng &nbsp;tiếng Anh tốt (speaking &amp; writing)  Sử dụng thành thạo vi tính văn phòng  Trung thực, cẩn thận, tận tâm và có tinh thần trách nhiệm cao trong công việc  Kỹ năng giao tiếp tốt;  Kỹ năng tổ chức sắp xếp và quản lý thời gian  ",
+    "educationRequirements": "Đại học",
+    "qualifications": "Đại học",
+    "employmentType": "Nhân viên chính thức",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "EVERICH VIETNAM"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "302 Huỳnh Văn Bánh, Phường 11, Quận Phú Nhuận",
+        "addressLocality": "302 Huỳnh Văn Bánh, Phường 11, Quận Phú Nhuận",
+        "addressRegion": " Hồ Chí Minh",
+        "addressCountry": "Việt Nam",
+        "postalCode": "70000"
+      }
+    },
+    "title": "Logistics Operation Manager (Logistics Field)",
+    "skills": "Import Export Executive,  Export Import Executive,  Customer service executive,  Freight forwarding staff,  Freight Forwarder,  Sales Logistics,  Sales Manager,  Sales Executive",
+    "workHours": "8AM-5PM",
+    "url": "https://careerbuilder.vn/vi/tim-viec-lam/logistics-operation-manager-logistics-field.35B1CC98.html"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "JobPosting",
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "value": "Cạnh tranh"
+    },
+    "jobBenefits": "Bảo hiểm theo quy định, Du Lịch, Đồng phục, Thưởng, Chăm sóc sức khỏe, Đào tạo, Tăng lương, Chế độ nghỉ phép, Chế độ tập thể dục",
+    "datePosted": "27/03/2019",
+    "validThrough": "27/03/2019",
+    "occupationalCategory": "Cơ khí / Ô tô / Tự động hóa, Điện / Điện tử / Điện lạnh, Sản xuất / Vận hành sản xuất",
+    "description": " 2.1. Thực hiện những yêu cầu về vệ sinh, kỹ thuật của máy và cảm quan sản phẩm tại vị trí làm việc trước,  trong và sau khi sản xuất  2.2. Thực hiện chỉ tiêu KPI:  Bảo quản nguyên vật liệu trong sản xuất  Thống kê, so sánh sử dụng theo định mức  2.3. Thực hiện chương trình “bảo trì dự phòng”  Thực hiện danh sách kiểm tra máy của người vận hành  Ghi nhận tình trạng làm việc của máy vào sổ bàn giao ca  2.4. Thông tin ngay cho người quản lý trực tiếp hay những người có trách nhiệm trên dây chuyền kịp thời  xử lý những sự cố bất ngờ  2.5. Đề xuất biện pháp nâng cao năng suất lao động, cải thiện hoạt động sản xuất trên dây chuyền  2.6. Phân tích, đánh giá hoạt động sản xuất hàng ngày trong Nhóm gắn với hoạt động chung của dây chuyền  2.5. Tuân thủ và thực thi nghiêm túc đầy đủ mọi Nội quy Công ty, các hệ thống ISO, HACCP, GMP, các quy định nội bộ và hướng dẫn trong công việc; các quy định về an toàn vệ sinh lao động, các quy định về an toàn phòng cháy chữa cháy, các quy định về an toàn phòng cháy nổ và các yêu cầu, quy định, hướng dẫn liên quan khác về An toàn - Sức khỏe - Môi trường được triển khai và áp dụng trong hệ thống quản lý tại Nhà máy. ",
+    "experienceRequirements": " - Tốt nghiệp tối thiểu trung cấp/cao đẳng, chuyên ngành: Điện, Cơ khí, Công nghệ thực phẩm, Máy thực phẩm…&nbsp;  -&nbsp;&nbsp;Kỹ năng giao tiếp tốt&nbsp;  - Chấp nhận làm việc theo ca&nbsp;  -&nbsp;&nbsp;Sức khỏe tốt&nbsp;  -&nbsp;&nbsp;Có khả năng chịu áp lực cao trong công việc&nbsp;  -&nbsp;&nbsp;Ưu tiên 01 năm kinh nghiệm tại vị trí tương đương hoặc tại vị trí vận hành máy ngành FMCG.&nbsp; ",
+    "educationRequirements": "Trung cấp",
+    "qualifications": "Trung cấp",
+    "employmentType": "Nhân viên chính thức",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Suntory PepsiCo - Nhà máy Bắc Ninh"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Số 88 Hữu Nghị, KCN VSIP Từ Sơn, Bắc Ninh",
+        "addressLocality": "Số 88 Hữu Nghị, KCN VSIP Từ Sơn, Bắc Ninh",
+        "addressRegion": " Bắc Ninh",
+        "addressCountry": "Việt Nam",
+        "postalCode": "70000"
+      }
+    },
+    "title": "Kỹ thuật viên vận hành máy - Nhà máy Bắc Ninh",
+    "skills": "Kỹ thuật viên vận hành máy - Nhà máy Bắc Ninh,  Nhân viên vận hành máy,  Nhân viên lập trình máy,  Machine Programmer,  Industrial Machine Operator,  phay CNC,  ép nhựa,  Thợ lập trình và vận hành máy CNC",
+    "workHours": "8AM-5PM",
+    "url": "https://careerbuilder.vn/vi/tim-viec-lam/ky-thuat-vien-van-hanh-may-nha-may-bac-ninh.35B1CC97.html"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "JobPosting",
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "value": "Cạnh tranh"
+    },
+    "jobBenefits": "",
+    "datePosted": "27/03/2019",
+    "validThrough": "27/03/2019",
+    "occupationalCategory": "Vận chuyển / Giao nhận /  Kho vận, Hàng hải, Xuất nhập khẩu",
+    "description": "  Handle export shipment of LCL/CONSOLE  Overcome and improve all problem arise in export process  Make &amp; send booking to customer  Update rate &amp; schedule to agents/customers/sale  Update all information of shipments to agents/customers/sale  Arrange booking and update schedule with carrier  Working with agents for all LCL shipments (Nomination &amp; Freehand  Resolve related problems  Report to Manager  ",
+    "experienceRequirements": "  Bachelor degree in Business Management, Major in Economic / Foreign Trade / Maritime  At least 1 - 2 years experiences in sales or customer Service at consolidation service or master consolidator.  Knowledge of Forwarder markets, LCL Export &amp; Import Business.  Proficient with office software (Ms Office, SMS, Skype and others)  Good in communication and negotiation  Team work spirit, work under high pressure  Good in English both writing and speaking  ",
+    "educationRequirements": "Cao đẳng",
+    "qualifications": "Cao đẳng",
+    "employmentType": "Nhân viên chính thức",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "EVERICH VIETNAM"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "302 Huỳnh Văn Bánh, Phường 11, Quận Phú Nhuận",
+        "addressLocality": "302 Huỳnh Văn Bánh, Phường 11, Quận Phú Nhuận",
+        "addressRegion": " Hà Nội, Hồ Chí Minh",
+        "addressCountry": "Việt Nam",
+        "postalCode": "70000"
+      }
+    },
+    "title": "Customer Services Executive - Cargo Consoldation (Forwarding Field)",
+    "skills": "Import Export Executive,  Export Import Executive,  Customer service executive,  Sales Logistics,  Sales Executive,  Sales Manager,  Freight forwarding staff,  Freight Forwarder",
+    "workHours": "8AM-5PM",
+    "url": "https://careerbuilder.vn/vi/tim-viec-lam/customer-services-executive-cargo-consoldation-forwarding-field.35B1CC9B.html"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "JobPosting",
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "LTT",
+      "value": "Cạnh tranh"
+    },
+    "jobBenefits": "Bảo hiểm theo quy định, Du Lịch, Thưởng, Chăm sóc sức khỏe, Đào tạo, Tăng lương",
+    "datePosted": "27/03/2019",
+    "validThrough": "27/03/2019",
+    "occupationalCategory": "Kế toán / Kiểm toán, Ngân hàng",
+    "description": " - Xây dựng, triển khai và cập nhật các chính sách, quy trình, hướng dẫn an ninh thông tin và phân loại thông tin theo ISO 27001; \r\n\r\n - Triển khai an ninh thông tin cho các đơn vị nghiệp vụ trong ngân hàng như Trung tâm Thẻ, Trung tâm Thanh toán, Ban Chiến lược,…; \r\n\r\n - Đào tạo và phổ biến nâng cao nhận thức về an ninh thông tin cho các đơn vị nghiệp vụ; \r\n\r\n - Xây dựng, triển khai và cập nhật chính sách, quy trình, hướng dẫn bảo đảm hoạt động KD liên tục; \r\n\r\n - Phân tích ảnh hưởng kinh doanh đối với các dịch vụ của MSB khi có thảm họa xảy ra, phân loại mức độ ưu tiên và xây dựng yêu cầu triển khai bảo đảm hoạt động kinh doanh liên tục; \r\n\r\n - Đầu mối xây dựng, triển khai và duy trì hệ thống dự phòng đối với các dịch vụ trọng yếu của MSB; \r\n\r\n - Kiểm thử và định kỳ diễn tập bảo đảm hoạt động kinh doanh liên tục. \r\n",
+    "experienceRequirements": " - Ưu tiên có kinh nghiệm tương đương trong ngân hàng, nắm vững về các kiến thức liên quan \r\n\r\n - Tự chủ trong việc đề xuất kế hoạch hành động và quản lý tốt tiến độ công việc&nbsp; \r\n\r\n - Tinh thần trách nhiệm cao \r\n\r\n - Có khả năng nghiên cứu tốt \r\n\r\n - Thông thạo tiếng anh, giao tiếp, đọc nói tốt. \r\n",
+    "educationRequirements": "Không yêu cầu bằng cấp",
+    "qualifications": "Không yêu cầu bằng cấp",
+    "employmentType": "Nhân viên chính thức",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Công Ty CP Quản Trị Nguồn Nhân Lực M-Talent"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tầng 26, TNR Tower, 54A Nguyễn Chí Thanh, Q. Đống Đa",
+        "addressLocality": "Tầng 26, TNR Tower, 54A Nguyễn Chí Thanh, Q. Đống Đa",
+        "addressRegion": " Hà Nội",
+        "addressCountry": "Việt Nam",
+        "postalCode": "70000"
+      }
+    },
+    "title": "Chuyên viên cao cấp Giám sát rủi ro hoạt động - QLRR - MSB",
+    "skills": "Chuyên viên cao cấp Giám sát rủi ro hoạt động - QLRR - MSB",
+    "workHours": "8AM-5PM",
+    "url": "https://careerbuilder.vn/vi/tim-viec-lam/chuyen-vien-cao-cap-giam-sat-rui-ro-hoat-dong-qlrr-msb.35B1CC9E.html"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "JobPosting",
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": "8000000",
+      "maxValue": "9000000"
+    },
+    "jobBenefits": "",
+    "datePosted": "27/03/2019",
+    "validThrough": "27/03/2019",
+    "occupationalCategory": "Xuất nhập khẩu, Sản xuất / Vận hành sản xuất, Quản lý chất lượng (QA/QC)",
+    "description": " Công việc liên quan đến việc sản xuất chỉ may trong bộ phận may mặc - Theo dõi diễn biến thị trường và xem xét các chưng trình giảm giá, khuyến mãi, thay đổi giá, xóa sổ vv - Truyền đạt lại một số hướng dẫn từ văn phòng TP HCM cho các nhà máy 【Chi tiết công việc】 - Kiểm soát sản xuất 40% - Kiểm tra mẫu 20% - Sắp xếp hậu cần 20% - Kiểm tra 5% - Tạo tài liệu 5% - Người liên hệ với trụ sở Nhật Bản 5% - Xử lý sự cố 50% - Tham gia các chuyến công tác đến Nhà máy mỗi tháng bằng phương tiện công ty ",
+    "experienceRequirements": " - Trình độ tiếng Nhật: Cấp độ N2 - Tiếng Anh giao tiếp&nbsp;(Giao tiếp với các công ty Hàn Quốc, tài liệu thương mại) - Kỹ năng&nbsp;Word, Excel (Có thể sử dụng các hàm cơ bản&nbsp;và tạo bảng) ",
+    "educationRequirements": "Không yêu cầu bằng cấp",
+    "qualifications": "Không yêu cầu bằng cấp",
+    "employmentType": "Nhân viên chính thức",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Công Ty TNHH Reeracoen Việt Nam"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Room 704, 7th Floor, 54-56 Nguyen Trai Street, Ben Thanh Ward, Dist.1",
+        "addressLocality": "Room 704, 7th Floor, 54-56 Nguyen Trai Street, Ben Thanh Ward, Dist.1",
+        "addressRegion": " Hồ Chí Minh",
+        "addressCountry": "Việt Nam",
+        "postalCode": "70000"
+      }
+    },
+    "title": "Quận 1 _ Merchandiser  (Fresher, tiếng Nhật N2) _ 11104TH",
+    "skills": "Quận  _ Merchandiser  Fresher tiếng Nhật N _ TH,  Quản Lý Đơn Hàng,  Storekeeper,  Theo dõi đơn hàng,  Merchandising",
+    "workHours": "8AM-5PM",
+    "url": "https://careerbuilder.vn/vi/tim-viec-lam/quan-1-_-merchandiser-fresher-tieng-nhat-n2-_-11104th.35B1CC9A.html"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "JobPosting",
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "LTT",
+      "value": "Cạnh tranh"
+    },
+    "jobBenefits": "Máy tính xách tay, Bảo hiểm theo quy định, Du Lịch, Phụ cấp, Du lịch nước ngoài, Đồng phục, Thưởng, Đào tạo, Tăng lương, Công tác phí, Phụ cấp thâm niên, Chế độ nghỉ phép",
+    "datePosted": "27/03/2019",
+    "validThrough": "27/03/2019",
+    "occupationalCategory": "Cơ khí / Ô tô / Tự động hóa, Dịch vụ khách hàng, Điện / Điện tử / Điện lạnh",
+    "description": " \r\n\t Quản lý và điều hành mọi hoạt động của phòng Dịch vụ khách hàng và chịu trách nhiệm trước Giám đốc trong phạm vi công việc phụ trách; \r\n\t Cung cấp dịch vụ bảo hành, bảo trì định kỳ và chăm sóc khách hàng; \r\n\t Tổ chức kinh doanh và cung cấp dịch vụ khách hàng bao gồm: dịch vụ bảo dưỡng, sửa chữa, bán vật tư linh kiện thay thế; \r\n \r\n",
+    "experienceRequirements": "   Yêu cầu:   \r\n\r\n \r\n\t  Trình độ học vấn:  Tốt nghiệp Đại học một trong các chuyên ngành: Tự động hóa, Điện, Điện lạnh/ Nhiệt Lạnh, Điện công nghiệp, Cơ điện, Cơ khí, Quản lý dự án; \r\n \r\n\r\n - Ưu tiên: Có chứng chỉ, chứng nhận kiến thức, kinh nghiệm liên quan đến triển khai dự án; kỹ thuật thi công hệ thống thiết bị bếp và giặt là công nghiệp; \r\n\r\n  Kinh nghiệm:   \r\n\r\n \r\n\t Có ít nhất 03 năm kinh nghiệm làm Quản lý điều hành; hoặc \r\n\t Có ít nhất 03 năm kinh nghiệm làm Chỉ huy công trình/ Cung cấp dịch vụ kỹ thuật hoặc tương đương \r\n \r\n\r\n \r\n\t  Trình độ máy tính : Thành thạo tin học văn phòng eMail, Word, Excel…., kỹ năng tìm kiếm thông tin, Autocad; \r\n\t  Trình độ ngoại ngữ : \r\n \r\n\r\n \r\n\t Sử dụng thành thạo tiếng Anh giao tiếp và chuyên ngành kỹ thuật \r\n \r\n\r\n \r\n\t   Kỹ năng và sở trường:   \r\n \r\n\r\n \r\n\t Nhạy cảm với các vấn đề về kỹ thuật; \r\n\t Trung thực; Nhiệt huyết; Cẩn thận. \r\n \r\n\r\n   Quyền lợi được hưởng:   \r\n\r\n \r\n\t  Lương:  Thỏa thuận \r\n\t  Phụ cấp:  theo quy định Công ty \r\n\t  Thưởng : gồm thưởng tháng lương 13, thưởng doanh số, thi đua, thưởng các ngày Lễ, Tết), thưởng cổ phần nếu là Cán bộ quản lý và các cán bộ chủ chốt. \r\n\t  Phúc lợi:  \r\n\t Hưởng đầy đủ chế độ BHXH, BHYT, BHTN theo quy định. \r\n\t Được mua bảo hiểm tai nạn 24/24 và các chế độ đãi ngộ khác theo quy định của Công ty \r\n\t Chế độ sinh nhật, nghỉ mát hàng năm, chế độ dành cho con CBCNV (quốc tế thiếu nhi 1/6, trung thu, phần thưởng học sinh giỏi, tiên tiến....), ...... \r\n \r\n\r\n   Thông tin liên hệ:    \r\n\r\n \r\n\t Ms Gấm – Bộ phận tuyển dụng \r\n\t Tel: 0437.656.979 – 101/ 0904 537 128 \r\n\t Mail: tuyendung@hayencorp.vn \r\n\t Web:&nbsp; www.hayen.com.vn \r\n \r\n",
+    "educationRequirements": "Đại học",
+    "qualifications": "Đại học",
+    "employmentType": "Nhân viên chính thức",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CÔNG TY CP HÀ YẾN"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Số 3, Lô CN6, Cụm CN Vừa Và Nhỏ Từ Liêm",
+        "addressLocality": "Số 3, Lô CN6, Cụm CN Vừa Và Nhỏ Từ Liêm",
+        "addressRegion": " Hồ Chí Minh",
+        "addressCountry": "Việt Nam",
+        "postalCode": "70000"
+      }
+    },
+    "title": "Trưởng phòng Dịch vụ Khách hàng",
+    "skills": "Trưởng phòng Dịch vụ Khách hàng, Giám đốc phòng dịch vụ khách hàng, Customer service manager, Head of Customer Services, Services Manager",
+    "workHours": "8AM-5PM",
+    "url": "https://careerbuilder.vn/vi/tim-viec-lam/truong-phong-dich-vu-khach-hang.35B1CC9C.html"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Nhân viên kinh doanh thiết bị văn phòng.",
+    "description": "- Giới thiệu và tư vấn tới khách hàng các sản phẩm của Công ty.\r\n- Tìm kiếm khách hàng mới và phát triển thị trường, đại lý, nhà phân phối.\r\n- Xây dựng, duy trì, phát triển mối quan hệ với các khách hàng.\r\n- Thương lượng, đàm phán với khách hàng và làm thủ tục kí kết hợp đồng với khách hàng.\r\n- Thực hiện các công việc khác do cấp trên yêu cầu.",
+    "jobBenefits": "- Lương 7.000.000VNĐ đến 10.000.000VNĐ hoặc lương trên 10.000.000 VNĐ theo thỏa thuận.\r\n- Cơ hội thăng tiến cao\r\n- Được đóng BHYT, BHXH theo quy định của nhà nước\r\n- Được làm việc trong môi trường năng động, chuyên nghiệp và hiệu quả\r\n- Tham gia các hoạt động đào tạo, nghỉ mát theo quy định của công ty",
+    "skills": "* Nam/Nữ Yêu thích và đam mê kinh doanh.\r\n* Kỹ năng giao tiếp tốt, năng động, đàm phán và thuyết phục tốt\r\n* Có khả năng làm việc độc lập và theo nhóm, chịu được áp lực công việc\r\n* Ưu tiên những người có kinh nghiệm trong lĩnh vực thiết bị văn phòng",
+    "qualifications": "Trung cấp",
+    "experienceRequirements": "1 năm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Công Ty TNHH TM & công nghệ Việt Hưng G8 ",
+      "value": "4215401"
+    },
+    "datePosted": "2019-03-20",
+    "validThrough": "2019-04-16",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Công Ty TNHH TM & công nghệ Việt Hưng G8 ",
+      "sameAs": "https://vieclam24h.vn/danh-sach-tin-tuyen-dung-cong-ty-tnhh-tm-cong-nghe-viet-hung-g8-ntd4215401p1.html",
+      "logo": "https://vieclam24h.vn/upload/files_cua_nguoi_dung/logo/2019/03/27/1553651890_Logo.png"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "106 Đốc Ngữ, Ba Đình, Hà Nội",
+        "addressRegion": "Hà Nội",
+        "postalCode": "100000",
+        "addressCountry": "VN",
+        "addressLocality": "106 Đốc Ngữ, Ba Đình, Hà Nội"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": 7000000,
+      "maxValue": 9999999,
+      "unitText": "MONTH"
+    },
+    "occupationalCategory": [
+      "Marketing-PR",
+      "Bán hàng",
+      "Nhân viên kinh doanh"
+    ],
+    "url": "https://vieclam24h.vn/marketing-pr/nhan-vien-kinh-doanh-thiet-bi-van-phong-c53p0id3035523.html"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Nhân Viên Tư Vấn Tuyển Sinh (Nhân Viên Kinh Doanh)",
+    "description": "SCOTS English có các chi nhánh ở Hà Nội: 27 Lê Văn Lương / Linh Đàm,/ Mỹ Đình,/  Hoàng Quốc Việt / Hà Đông / Kim Giang-Thanh Xuân,/ Long Biên / Tố Hữu / Lò Đúc / Times City\r\n1.\tTư vấn, tuyển sinh các khóa đào tạo tiếng Anh tại Trung tâm.\r\n2.\tLàm việc theo nhóm triển khai các hoạt động có thể thu thập thông tin của khách hàng tại trường học, tổ chức sự kiện, liên kết các trường học (cấp 3, Đại học,…).\r\n3.\tTelesales, trao đổi  trực tiếp khách hàng khi đến Scots.\r\n4.\tTiếp cận, mời khách hàng đến trải nghiệm sản phẩm,  học thử các khóa học tiếng anh ở SCOTS.\r\n5.\tDuy trì, phát triển khách hàng tiềm năng trong lĩnh vực kinh doanh của Công ty;\r\n6.\tThực hiện các yêu cầu khác dựa trên sự chỉ đạo của cấp trên trực tiếp;",
+    "jobBenefits": "- Làm việc theo ca: ca sáng: 8h30-17h30 hoặc  ca chiều: 13h00-21h30 .\r\n- Sau 3 tháng xét tăng lương, thăng tiến lên trưởng nhóm hoặc trưởng phòng tư vấn, nâng cao chuyên môn và nghiệp vụ trong môi trường giáo dục.\r\n- Cơ hội làm việc ở môi trường chuyên nghiệp\r\n- Các chế độ khác theo quy định của công ty và Luật Lao động.\r\n- Được hướng dẫn đào tạo về sản phẩm, các  khóa học tiếng anh (ielts, GE, kindy, kid..)\r\n- CB được học các  khóa học  tiếng anh tại SCOTS với ưu đãi 50-100%\r\n- Sinh viên mới ra trường được tư vấn thêm về kỹ năng viết CV,  trao đổi nhiều hơn với NTD nếu quan tâm.",
+    "skills": "-Làm việc nhóm / làm việc độc lập.\r\n-Có khả năng chịu được áp lực.\r\n-Ưu tiên có kinh nghiệm ở vị trí tương đương đã từng làm trong các ngành dịch vụ như giáo dục, ngân hàng, du lịch, bảo hiểm…(có thể chấp nhận sinh viên mới tốt nghiệp nếu có tố chất phù hợp);\r\n-Khả năng giao tiếp tốt, quyết đoán, có khả năng quản lý đội nhóm, có target doanh số hàng tháng;\r\n- Đã từng làm việc tại các tổ chức đào tạo tiếng Anh trên địa bàn Hà Nội.",
+    "qualifications": "Cao đẳng",
+    "experienceRequirements": "1 năm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Công Ty Cổ Phần Scots English Australia",
+      "value": "4408304"
+    },
+    "datePosted": "2019-03-27",
+    "validThrough": "2019-04-30",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Công Ty Cổ Phần Scots English Australia",
+      "sameAs": "https://vieclam24h.vn/danh-sach-tin-tuyen-dung-cong-ty-co-phan-scots-english-viet-nam-ntd4408304p1.html",
+      "logo": "https://vieclam24h.vn/upload/files_cua_nguoi_dung/logo/2018/03/17/1521262806_Scots-Logo.png"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tầng 6, Hanoi Centerpoint, 27 Lê Văn Lương, Hà Nội",
+        "addressRegion": "Hà Nội",
+        "postalCode": "100000",
+        "addressCountry": "VN",
+        "addressLocality": "Tầng 6, Hanoi Centerpoint, 27 Lê Văn Lương, Hà Nội"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": 10000000,
+      "maxValue": 14999999,
+      "unitText": "MONTH"
+    },
+    "occupationalCategory": [
+      "Tư vấn",
+      "Bán hàng",
+      "Nhân viên kinh doanh"
+    ],
+    "url": "https://vieclam24h.vn/nhan-vien-kinh-doanh/nhan-vien-tu-van-tuyen-sinh-nhan-vien-kinh-doanh-c96p0id3038117.html"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Nhân Viên Kinh Doanh Sản Phẩm Nội Thất",
+    "description": "- Duy trì mối quan hệ, chăm sóc, hỗ trợ khách hàng hiện có của công ty để thúc đẩy doanh số\r\n- Tìm kiếm khách hàng mới và giới thiệu sản phẩm, chính sách hợp tác của công ty đến khách hàng mới\r\n- Khách hàng là các công ty kinh doanh trong lĩnh vực thiết kế thi công nội thất, kiến trúc, xây dựng.\r\n- Tư vấn, thuyết phục và hướng dẫn khách hàng sử dụng các công cụ bán hàng mà công ty hỗ trợ để khách hàng bán được sản phẩm.\r\n- Làm báo giá, hợp đồng, theo dõi tiến độ thực thi hợp đồng, quyết toán và thanh toán đối với những đơn hàng / khách hàng mà mình phụ trách\r\n- Đạt các chỉ số KPI: Doanh số, số lượng cuộc gọi, số lần đi gặp khách hàng\r\n- Một số công việc khác theo sự phân công của cấp trên",
+    "jobBenefits": "- Thu nhập gồm lương cơ bản (5 - 6 triệu) + hoa hồng từ doanh số đạt được so với KPI, sẽ trao đổi trực tiếp khi phỏng vấn. Sale có năng lực thu nhập trên 10 triệu\r\n- Được training đầy đủ kiến thức để làm việc với khách hàng\r\n- Tham gia đầy đủ bảo hiểm theo quy định của pháp luật Việt Nam\r\n- Số ngày nghỉ phép: 12 ngày / năm\r\n- Được làm việc trong môi trường thân thiện, hòa đồng, mọi người cùng nhau phát triển\r\n- Được hưởng đầy đủ các phúc lợi theo quy định của công ty: được cấp số điện thoại gọi cho khách và công ty thanh toán chi phí gọi điện thoại,...\r\n- Thưởng theo kết quả công việc, thưởng Tết theo cơ chế của công ty, cao hơn lương tháng 13\r\n- Thời gian làm việc: 8-12h, 13h30- 17h30, từ thứ 2 đến thứ 7 tại văn phòng Sài Gòn: 33 đường số 77, phường Tân Quy, quận 7, TPHCM",
+    "skills": "- Trung thực, có tinh thần ham học hỏi, kiên nhẫn và có trách nhiệm trong công việc\r\n- Thân thiện, hòa đồng và có kỹ năng giao tiếp tốt\r\n- Yêu thích công việc kinh doanh\r\n- Thành thạo vi tính văn phòng\r\n- Ưu tiên ứng viên có mong muốn công việc ổn định, gắn bó lâu dài",
+    "qualifications": "Cao đẳng",
+    "experienceRequirements": "Dưới 1 năm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Công ty cổ phần Nhi Long",
+      "value": "4731093"
+    },
+    "datePosted": "2019-03-25",
+    "validThrough": "2019-04-15",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Công ty cổ phần Nhi Long",
+      "sameAs": "https://vieclam24h.vn/danh-sach-tin-tuyen-dung-cong-ty-co-phan-nhi-long-ntd4731093p1.html",
+      "logo": "https://vieclam24h.vn/upload/files_cua_nguoi_dung/logo/2018/04/11/1523438968_Nhi-Long-logo-1-200x64.png"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "33 đường số 77 phường Tân Quy, quận 7 TPHCM",
+        "addressRegion": "TP.HCM",
+        "postalCode": "700000",
+        "addressCountry": "VN",
+        "addressLocality": "33 đường số 77 phường Tân Quy, quận 7 TPHCM"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": 7000000,
+      "maxValue": 9999999,
+      "unitText": "MONTH"
+    },
+    "occupationalCategory": [
+      "Kiến trúc-TK nội thất",
+      "Bán hàng",
+      "Nhân viên kinh doanh"
+    ],
+    "url": "https://vieclam24h.vn/nhan-vien-kinh-doanh/nhan-vien-kinh-doanh-san-pham-noi-that-di-lam-ngay-c96p0id3037324.html"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Nhân Viên Kinh Doanh Bất Động Sản Làm Việc Tại Tân Bình Lương Trên 30 Triệu",
+    "description": "- Tìm kiếm và khai thác nguồn khách hàng tiềm năng.\r\n- Hỗ trợ và tư vấn các thông tin sản phẩm địa ốc phù hợp.\r\n- Trực nhà mẫu và dự án theo sự phân công của cấp trên.\r\n- Chăm sóc khách hàng và khai thác khách hàng mới.\r\n- Báo cáo tình hình kinh doanh và thực hiện các công việc khác theo sự phân công của cấp trên.",
+    "jobBenefits": "- Lương căn bản: Từ 5,8 triệu đồng / tháng.\r\n- Hỗ trợ chi phí Marketing\r\n- Được hỗ trợ công cụ tìm kiếm khách hàng.\r\n- Được hỗ trợ chăm sóc khách hàng từ phòng nghiệp vụ.\r\n- Hoa hồng hấp dẫn: 15.000.000 - 30.000.000 VNĐ / sản phẩm\r\n- TỔNG THU NHẬP lên đến 30.000.000 - 60.000.000 VNĐ / tháng.\r\n- Được tham gia đầy đủ các chế độ BHXH, BHYT, BHTN 24h….\r\n- Du lịch hàng năm.\r\n- Tham gia các hoạt động thể thao, từ thiện công ty tổ chức...\r\n- Thường xuyên được đào tạo nâng cao kỹ năng trong công việc.\r\n- Nhiều cơ hội thăng tiến do Công ty đang trên đà phát triển, mở rộng (trưởng nhóm kinh doanh, trưởng phòng kinh doanh,…)\r\n- Các chế độ đãi ngộ hấp dẫn khác .",
+    "skills": "- Giao tiếp tốt\r\n- Đam mê kinh doanh đặc biệt kinh doanh bất động sản\r\n- Có kinh nghiệm bán hàng ở lĩnh vực khác\r\n- Nhiệt tình, hòa đồng, ham học hỏi, cầu tiến trong công việc.\r\n- Khả năng làm việc nhóm\r\n- Thông minh, hoạt bát và trung thực\r\n- Đam mê, có khả năng phân tích và tổng hợp thông tin, nhạy bén với các xu hướng của thị trường bất động sản,\r\n- Có khả năng tác nghiệp với các đồng nghiệp, làm việc tích cực, chịu khó, biết lắng nghe, phân tích, xử lý linh hoạt.\r\n- Có tinh thần cầu tiến, tham vọng.\r\n- Cần cù, kiên trì và chịu được áp lực cao.\r\n- Mong muốn kiếm thật nhiều tiền và khẳng định giá trị.",
+    "qualifications": "Trung học",
+    "experienceRequirements": "Dưới 1 năm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Công Ty CP Dịch Vụ - Thương Mại Và Xây Dựng Địa Ốc Kim Oanh",
+      "value": "2768347"
+    },
+    "datePosted": "2019-03-15",
+    "validThrough": "2019-04-06",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Công Ty CP Dịch Vụ - Thương Mại Và Xây Dựng Địa Ốc Kim Oanh",
+      "sameAs": "https://vieclam24h.vn/danh-sach-tin-tuyen-dung-cong-ty-co-phan-dich-vu-thuong-mai-xay-dung-va-dia-oc-kim-oanh-ntd2768347p1.html",
+      "logo": "https://vieclam24h.vn/upload/files_cua_nguoi_dung/logo/2019/03/15/1552619562_ef670d23361ad844810b.jpg"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "608 - 610 Cộng Hòa, P.13, Q. Tân Bình, Tp.HCM",
+        "addressRegion": "TP.HCM",
+        "postalCode": "700000",
+        "addressCountry": "VN",
+        "addressLocality": "608 - 610 Cộng Hòa, P.13, Q. Tân Bình, Tp.HCM"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": 30000000,
+      "maxValue": 39999999,
+      "unitText": "MONTH"
+    },
+    "occupationalCategory": [
+      "KD bất động sản",
+      "Nhân viên kinh doanh"
+    ],
+    "url": "https://vieclam24h.vn/kd-bat-dong-san/nhan-vien-kinh-doanh-bat-dong-san-lam-viec-tai-tan-binh-luong-tren-15-trieu-c81p0id3033910.html"
+  }
+]

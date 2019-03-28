@@ -1,0 +1,395 @@
+[
+  {
+    "@id": "_:Nfdcaf1a4394541bda35cfd03af9be8c6",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/numberOfEmployees": [
+      {
+        "@language": "vi",
+        "@value": "\n                                                                    10-24                                                            "
+      }
+    ]
+  },
+  {
+    "@id": "_:Nb5ccabffc27b4a82a240cc1e663a1428",
+    "@type": [
+      "http://schema.org/JobPosting"
+    ],
+    "http://schema.org/address": [
+      {
+        "@language": "vi",
+        "@value": "\n                                    \n                                        H\u1ed3 Ch\u00ed Minh\n                                    ,\n\n                                    Qu\u1eadn 10\n                                "
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "vi",
+        "@value": "Qu\u1eadn 10"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@id": "file://mapping/tim-viec-lam-tai/ho-chi-minh/HCM"
+      }
+    ],
+    "http://schema.org/baseSalary": [
+      {
+        "@id": "_:Nd992a6778f2946bfb7991bc1588a5efa"
+      }
+    ],
+    "http://schema.org/datePosted": [
+      {
+        "@language": "vi",
+        "@value": "2019-03-14"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "vi",
+        "@value": "\n                        Infinite is a media company that specialize in planning\n                            and executing marketing and social media marketing campaigns for clients.\n\n                        Currently, due to expanding market demand, we are\n                            looking for candidates who are truly serious and suitable to work in our company.\n                        \n                    "
+      },
+      {
+        "@language": "vi",
+        "@value": "\n                        - Khai th\u00e1c th\u00f4ng tin, vi\u1ebft b\u00e0i/ tin t\u1ee9c cho l\u0129nh v\u1ef1c b\u00f3ng \u0111\u00e1.\n\n                        - D\u1ecbch tin t\u1ee9c b\u00f3ng \u0111\u00e1 qu\u1ed1c t\u1ebf t\u1eeb c\u00e1c website n\u01b0\u1edbc ngo\u00e0i\n\n                        - Vi\u1ebft b\u00e0i nh\u1eadn \u0111\u1ecbnh, ph\u00e2n t\u00edch s\u1ef1 ki\u1ec7n/ nh\u00e2n v\u1eadt b\u00f3ng \u0111\u00e1\n\n                        - Vi\u1ebft b\u00e0i nh\u1eadn \u0111\u1ecbnh tr\u1eadn \u0111\u1ea5u c\u1ee7a c\u00e1c gi\u1ea3i \u0111\u1ea5u di\u1ec5n ra trong ng\u00e0y\n\n                        - Tham gia l\u00e0m vi\u1ec7c nh\u00f3m, th\u1ea3o lu\u1eadn th\u00f4ng tin, tri\u1ec3n khai k\u1ebf ho\u1ea1ch l\u00e0m\n                            vi\u1ec7c h\u00e0ng tu\u1ea7n v\u1edbi nh\u00f3m\n\n                        - Li\u00ean k\u1ebft l\u00e0m vi\u1ec7c v\u1edbi c\u00e1c b\u1ed9 ph\u1eadn kh\u00e1ch nh\u01b0: SEO, Social v\u00e0\n                            Design \u0111\u1ec3 t\u0103ng hi\u1ec7u qu\u1ea3 c\u00f4ng vi\u1ec7c.\n\n                        - C\u00f3 th\u1ec3 l\u00e0m xoay ca \u0111\u00eam v\u00e0 l\u00e0m th\u00eam Th\u1ee9 7 & Ch\u1ee7\n                            nh\u1eadt\u00a0 \u0111\u1ec3 tr\u1ef1c tin.\n                    "
+      }
+    ],
+    "http://schema.org/educationRequirements": [
+      {
+        "@language": "vi",
+        "@value": "\n                                    Cao \u0111\u1eb3ng\n                                "
+      }
+    ],
+    "http://schema.org/employmentType": [
+      {
+        "@language": "vi",
+        "@value": "\n                                                                    To\u00e0n th\u1eddi gian c\u1ed1 \u0111\u1ecbnh                                                            "
+      }
+    ],
+    "http://schema.org/experienceRequirements": [
+      {
+        "@language": "vi",
+        "@value": "\n                                1-2 n\u0103m kinh nghi\u1ec7m\n                            "
+      }
+    ],
+    "http://schema.org/hiringOrganization": [
+      {
+        "@language": "vi",
+        "@value": "\n                    \n                    \n                    \n                        \n                            \n                                \n    \n        INFINITE DIGITAL MEDIA SERVICES LTD., CO\n    \n\n\n                            \n                        \n                    \n\n                    \n                        \n                            S\u1ed1 nh\u00e2n vi\u00ean:\n\n                            \n                                                                    10-24                                                            \n                        \n                        \n                            T\u00ean li\u00ean h\u1ec7:\n                            Ms Th\u1ea3o\n                        \n                    \n\n                    \n                        Infinite is a media company that specialize in planning\n                            and executing marketing and social media marketing campaigns for clients.\n\n                        Currently, due to expanding market demand, we are\n                            looking for candidates who are truly serious and suitable to work in our company.\n                        \n                    \n\n\n                    Vi\u1ec7c l\u00e0m t\u1eeb C\u00f4ng ty n\u00e0y\n\n                    \n                        \n                            \n                                \n                                Nh\u00e2n vi\u00ean SEO Website\n                            \n                        \n                    \n\n                    \n                        Vi\u1ec7c l\u00e0m kh\u00e1c t\u1eeb C\u00f4ng ty\n                            n\u00e0y >>\n                    \n\n                "
+      },
+      {
+        "@id": "_:N2659759a113e4e69a5665a439913a35f"
+      },
+      {
+        "@id": "_:N47f198670bf04bba9dbce9b779e6c80e"
+      },
+      {
+        "@id": "_:N16d8838d56b34c178f1e979c3289822f"
+      }
+    ],
+    "http://schema.org/jobLocation": [
+      {
+        "@id": "_:Nbf6074e15759487c96b99e7250d2b6c5"
+      },
+      {
+        "@id": "_:Neb2c7f63af4a4aacb52c4470af7aeb73"
+      },
+      {
+        "@id": "_:Nfa0e786da12e46f3b6c46c713dd95277"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@language": "vi",
+        "@value": "\n                    "
+      }
+    ],
+    "http://schema.org/occupationalCategory": [
+      {
+        "@language": "vi",
+        "@value": "\n                                                B\u00e1o ch\u00ed / Bi\u00ean t\u1eadp vi\u00ean / Xu\u1ea5t b\u1ea3n\n                                            "
+      }
+    ],
+    "http://schema.org/qualifications": [
+      {
+        "@language": "vi",
+        "@value": "\n                            C\u1ea5p b\u1eadc:\n\n                            Nh\u00e2n vi\u00ean\n                        "
+      }
+    ],
+    "http://schema.org/skills": [
+      {
+        "@language": "vi",
+        "@value": "\n                        - Gi\u1edbi t\u00ednh: Nam/N\u1eef (\u01b0u ti\u00ean Nam)\n\n                        - Tr\u00ecnh \u0111\u1ed9: T\u1ed1t nghi\u1ec7p \u0110\u1ea1i h\u1ecdc/ Cao \u0111\u1eb3ng chuy\u00ean ng\u00e0nh B\u00e1o ch\u00ed/\n                            Bi\u00ean t\u1eadp vi\u00ean/ PR/ Ng\u00f4n ng\u1eef/ Ngo\u1ea1i ng\u1eef\n\n                        - C\u00f3 k\u1ef9 n\u0103ng vi\u1ebft b\u00e0i, bi\u00ean t\u1eadp b\u00e0i vi\u1ebft theo chu\u1ea9n SEO\n\n                        - C\u00f3 k\u1ef9 n\u0103ng khai th\u00e1c th\u00f4ng tin t\u1eeb facebook, twitter v\u00e0 c\u00e1c\n                            website li\u00ean quan \u0111\u1ebfn b\u00f3ng \u0111\u00e1\u2026\n\n                        - S\u1eed d\u1ee5ng th\u00e0nh th\u1ea1o Office, bi\u1ebft ch\u1ec9nh s\u1eeda \u1ea3nh b\u1eb1ng PowerPoint, Photoshop ho\u1eb7c\n                            Illustrator\u2026\n\n                        - Ham h\u1ecdc h\u1ecfi, ch\u1ecbu kh\u00f3 trong c\u00f4ng vi\u1ec7c, ho\u00e0n th\u00e0nh b\u00e0i\n                            vi\u1ebft \u0111\u00fang deadline y\u00eau c\u1ea7u..\n\n                        - C\u00f3 s\u1ee9c kh\u1ecfe t\u1ed1t \u0111\u1ec3 c\u00f3 th\u1ec3 theo d\u00f5i c\u00e1c tr\u1eadn \u0111\u1ea5u, l\u00e0m ca\n                            \u0111\u00eam n\u1ebfu c\u1ea7n thi\u1ebft\u2026\n                    "
+      }
+    ],
+    "http://schema.org/title": [
+      {
+        "@language": "vi",
+        "@value": "\n    NH\u00c2N VI\u00caN VI\u1ebeT B\u00c0I (CONTENT)\n"
+      }
+    ],
+    "http://schema.org/validThrough": [
+      {
+        "@language": "vi",
+        "@value": "2019-04-13T24:00+07:00"
+      }
+    ]
+  },
+  {
+    "@id": "_:N2659759a113e4e69a5665a439913a35f",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "vi",
+        "@value": "\n        INFINITE DIGITAL MEDIA SERVICES LTD., CO\n    "
+      }
+    ]
+  },
+  {
+    "@id": "_:Nbf6074e15759487c96b99e7250d2b6c5",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:N1b4e5ce4421e40d5a38138d4f8082db2"
+      }
+    ]
+  },
+  {
+    "@id": "_:N1b4e5ce4421e40d5a38138d4f8082db2",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "vi",
+        "@value": "Vi\u1ec7t Nam"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "vi",
+        "@value": "\n                                                    181 Cao Th\u0103\u0301ng, ph\u01b0\u1eddng 12\n                                                "
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "vi",
+        "@value": ",\n                                                        Qu\u1eadn 10,H\u1ed3 Ch\u00ed Minh"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nd992a6778f2946bfb7991bc1588a5efa",
+    "@type": [
+      "http://schema.org/MonetaryAmount"
+    ],
+    "http://schema.org/unitText": [
+      {
+        "@language": "vi",
+        "@value": "MONTH"
+      }
+    ],
+    "http://schema.org/value": [
+      {
+        "@language": "vi",
+        "@value": "\n                                        Th\u01b0\u01a1ng l\u01b0\u1ee3ng                                    "
+      }
+    ]
+  },
+  {
+    "@id": "_:N47f198670bf04bba9dbce9b779e6c80e",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "vi",
+        "@value": "\n        INFINITE DIGITAL MEDIA SERVICES LTD., CO\n    "
+      }
+    ]
+  },
+  {
+    "@id": "_:Neb2c7f63af4a4aacb52c4470af7aeb73",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:N75562f162e7c4b068d5c70ed8602fd07"
+      }
+    ]
+  },
+  {
+    "@id": "_:N75562f162e7c4b068d5c70ed8602fd07",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "vi",
+        "@value": "\n                        Vi\u1ec7t Nam"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "vi",
+        "@value": "\n                            , Qu\u1eadn 10\n                        "
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "vi",
+        "@value": "H\u1ed3 Ch\u00ed Minh"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "vi",
+        "@value": "181 Cao Th\u0103\u0301ng, ph\u01b0\u1eddng 12"
+      }
+    ]
+  },
+  {
+    "@id": "_:N16d8838d56b34c178f1e979c3289822f",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "vi",
+        "@value": "\n        INFINITE DIGITAL MEDIA SERVICES LTD., CO\n    "
+      }
+    ]
+  },
+  {
+    "@id": "_:Nfa0e786da12e46f3b6c46c713dd95277",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:N1070b67c055041dba6e06070188da136"
+      }
+    ]
+  },
+  {
+    "@id": "_:N1070b67c055041dba6e06070188da136",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "vi",
+        "@value": "\n                        Vi\u1ec7t Nam"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "vi",
+        "@value": "\n                            , Qu\u1eadn 10\n                        "
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "vi",
+        "@value": "H\u1ed3 Ch\u00ed Minh"
+      }
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "vi",
+        "@value": "181 Cao Th\u0103\u0301ng, ph\u01b0\u1eddng 12"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nc4917f3e468e496a907fe0ac7d1727f5",
+    "@type": [
+      "http://schema.org/BreadcrumbList"
+    ],
+    "http://schema.org/itemListElement": [
+      {
+        "@id": "_:Nd133d9a83cc34b30a7b1a8a2f02bcd24"
+      },
+      {
+        "@id": "_:N029fbe8036ad44ddafedde07451c7d29"
+      },
+      {
+        "@id": "_:N6f7bdd4ef8584f25ace2b10c40dbc0af"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nd133d9a83cc34b30a7b1a8a2f02bcd24",
+    "@type": [
+      "http://schema.org/ListItem"
+    ],
+    "http://schema.org/item": [
+      {
+        "@id": "https://www.careerlink.vn/tim-viec-lam/nhan-vien-viet-bai-content/1459332"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "vi",
+        "@value": "NH\u00c2N VI\u00caN VI\u1ebeT B\u00c0I (CONTENT)"
+      }
+    ],
+    "http://schema.org/position": [
+      {
+        "@language": "vi",
+        "@value": "3"
+      }
+    ]
+  },
+  {
+    "@id": "_:N029fbe8036ad44ddafedde07451c7d29",
+    "@type": [
+      "http://schema.org/ListItem"
+    ],
+    "http://schema.org/item": [
+      {
+        "@id": "https://www.careerlink.vn/tim-viec-lam-nhanh"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "vi",
+        "@value": "T\u00ecm Vi\u1ec7c L\u00e0m"
+      }
+    ],
+    "http://schema.org/position": [
+      {
+        "@language": "vi",
+        "@value": "2"
+      }
+    ]
+  },
+  {
+    "@id": "_:N6f7bdd4ef8584f25ace2b10c40dbc0af",
+    "@type": [
+      "http://schema.org/ListItem"
+    ],
+    "http://schema.org/item": [
+      {
+        "@id": "file://mapping/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "vi",
+        "@value": "CareerLink"
+      }
+    ],
+    "http://schema.org/position": [
+      {
+        "@language": "vi",
+        "@value": "1"
+      }
+    ]
+  }
+]

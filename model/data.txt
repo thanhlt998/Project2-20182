@@ -1,0 +1,186 @@
+/nguoi-tim-viec/ho-so/moi	Tạo hồ sơ xin việc mới
+/nha-tuyen-dung	Cho nhà tuyển dụng
+/nguoi-tim-viec/dang-ky	Đăng ký
+/vi/jobseeker/to-login	Đăng nhập
+/tim-viec-lam/nhan-vien-ke-toan-ban-hang-thu-ngan-lam-viec-tai-giai-phong-hoang-mai/1467310	NHÂN VIÊN KẾ TOÁN BÁN HÀNG - THU NGÂN (Làm việc tại Giải Phóng, Hoàng Mai)
+/viec-lam-cua/cong-ty-tnhh-kowon/178171	Công Ty TNHH Kowon
+/tim-viec-lam-tai/ha-noi/HN	Hà Nội
+/tim-viec-lam/tai-xe/1467309	Tài Xế
+/viec-lam-cua/cong-ty-tnhh-tu-van-diem-manh-power-point-consulting-co.-ltd/166422	Công Ty TNHH Tư Vấn Điểm Mạnh (POWER POINT CONSULTING CO.,LTD)
+/tim-viec-lam-tai/ho-chi-minh/HCM	Hồ Chí Minh
+/tim-viec-lam/nhan-vien-ke-toan-ban-hang/1454684	Nhân Viên Kế Toán Bán Hàng
+/viec-lam-cua/cong-ty-cp-ky-thuat-va-o-to-truong-long/156819	Công Ty CP Kỹ Thuật Và Ô Tô Trường Long
+/tim-viec-lam-tai/ho-chi-minh/HCM	Hồ Chí Minh
+/tim-viec-lam/nhan-vien-spec-giay-da/1467303	NHÂN VIÊN SPEC (GIÀY DA)
+/viec-lam-cua/cong-ty-tnhh-haksan-vi-na/135647	CÔNG TY TNHH HAKSAN VI NA
+/tim-viec-lam-tai/binh-duong/BD	Bình Dương
+/tim-viec-lam/nhan-vien-ky-thuat-thi-cong/1462921	Nhân Viên Kỹ Thuật Thi Công
+/viec-lam-cua/dubbing-plaster-chemicals-co.-ltd/178252	DUBBING PLASTER & CHEMICALS CO., LTD
+/tim-viec-lam-tai/da-nang/DN	Đà Nẵng
+/tim-viec-lam/nhan-vien-chung-tu-xuat-nhap-khau-hai-quan/1455723	NHÂN VIÊN CHỨNG TỪ XUẤT NHẬP KHẨU / HẢI QUAN
+/viec-lam-cua/gd-trans-joint-venture-company-limited/84931	GD-TRANS JOINT VENTURE COMPANY LIMITED
+/tim-viec-lam-tai/binh-duong/BD	Bình Dương
+/tim-viec-lam/giam-sat-ban-hang-retail-supervisor/1450389	GIÁM SÁT BÁN HÀNG (RETAIL SUPERVISOR)
+/viec-lam-cua/cong-ty-tnhh-thuong-mai-duy-anh/170722	CÔNG TY TNHH THƯƠNG MẠI DUY ANH
+/tim-viec-lam-tai/ho-chi-minh/HCM	Hồ Chí Minh
+/tim-viec-lam/05-nhan-vien-ban-hang-%E2%80%93-san-bay-da-n%E1%BA%B4ng/1450388	05 NHÂN VIÊN BÁN HÀNG – SÂN BAY  ĐÀ NẴNG
+/viec-lam-cua/cong-ty-tnhh-thuong-mai-duy-anh/170722	CÔNG TY TNHH THƯƠNG MẠI DUY ANH
+/tim-viec-lam-tai/da-nang/DN	Đà Nẵng
+/tim-viec-lam/operations-manager-retail-hospitality-ha-noi/1450387	OPERATIONS MANAGER (RETAIL/HOSPITALITY) HÀ NỘI
+/viec-lam-cua/cong-ty-tnhh-thuong-mai-duy-anh/170722	CÔNG TY TNHH THƯƠNG MẠI DUY ANH
+/tim-viec-lam-tai/ha-noi/HN	Hà Nội
+/tim-viec-lam/operation-staff/1447596	Operation Staff
+/viec-lam-cua/seiwa-kaiun-international-freight-viet-nam-co.-ltd./191877	Seiwa Kaiun International Freight Viet Nam Co., Ltd.
+/tim-viec-lam-tai/ho-chi-minh/HCM	Hồ Chí Minh
+/tim-viec-lam/php-programmer/1450836	PHP Programmer
+/viec-lam-cua/vpdd-c-unit-square-co.-ltd-tai-tp-hcm/174574	VPĐD C-UNIT SQUARE CO., LTD TẠI TP HCM
+/tim-viec-lam-tai/ho-chi-minh/HCM	Hồ Chí Minh
+/tim-viec-lam/%5Bha-noi%5D-truong-nhom-marketing/1456219	[Hà Nội] TRƯỞNG NHÓM MARKETING
+/viec-lam-cua/trung-tam-ngoai-ngu-va-tu-van-du-hoc-ils-vietnam/149759	Trung Tâm Ngoại Ngữ Và Tư Vấn Du Học ILS Vietnam
+/tim-viec-lam-tai/ha-noi/HN	Hà Nội
+/tim-viec-lam/%5Bha-noi%5D-quan-ly-truong-hoc-lien-ket/1461017	[Hà Nội] QUẢN LÝ TRƯỜNG HỌC LIÊN KẾT
+/viec-lam-cua/trung-tam-ngoai-ngu-va-tu-van-du-hoc-ils-vietnam/149759	Trung Tâm Ngoại Ngữ Và Tư Vấn Du Học ILS Vietnam
+/tim-viec-lam-tai/ha-noi/HN	Hà Nội
+/tim-viec-lam/nhan-vien-kinh-doanh-bds-tai-q7-thu-nhap-tu-20tr-den-50tr-thang/1448571	Nhân Viên Kinh Doanh BĐS Tại Q7 - Thu Nhập Từ 20Tr Đến 50Tr / Tháng
+/viec-lam-cua/cong-ty-tnhh-bat-dong-san-annam-land/162371	Công Ty Bất Động Sản Annam Land
+/tim-viec-lam-tai/ho-chi-minh/HCM	Hồ Chí Minh
+/tim-viec-lam/nhan-vien-ie/1467293	NHÂN VIÊN IE
+/viec-lam-cua/taekwang-vina-industrial/48025	Taekwang Vina Industrial
+/tim-viec-lam-tai/dong-nai/DNI	Đồng Nai
+/tim-viec-lam/giam-doc-kinh-doanh-%E2%80%93-phat-trien-hang-dai-dien/1467292	Giám Đốc Kinh Doanh – Phát Triển Hãng Đại Diện
+/viec-lam-cua/cong-ty-tnhh-hai-dong/162454	CÔNG TY TNHH HẢI ĐÔNG
+/tim-viec-lam-tai/ba-ria-vung-tau/BRVT	Bà Rịa - Vũng Tàu
+/tim-viec-lam/nhan-vien-thiet-ke-trang-tri-thoi-trang-nu/1458097	NHÂN VIÊN THIẾT KẾ TRANG TRÍ THỜI TRANG NỮ
+/viec-lam-cua/cong-ty-tnhh-thoi-trang-viet-an-phong/184085	Công Ty TNHH Thời Trang Việt An Phong
+/tim-viec-lam-tai/ho-chi-minh/HCM	Hồ Chí Minh
+/tim-viec-lam/nhan-vien-qc-may-mac-hang-thoi-trang-nu/1458081	NHÂN VIÊN QC MAY MẶC HÀNG THỜI TRANG NỮ
+/viec-lam-cua/cong-ty-tnhh-thoi-trang-viet-an-phong/184085	Công Ty TNHH Thời Trang Việt An Phong
+/tim-viec-lam-tai/ho-chi-minh/HCM	Hồ Chí Minh
+/tim-viec-lam/tho-dien-o-to-%5Bkhong-yeu-cau-kinh-nghiem%5D/1457350	THỢ ĐIỆN Ô TÔ [KHÔNG YÊU CẦU KINH NGHIỆM]
+/viec-lam-cua/cong-ty-cp-ky-thuat-va-o-to-truong-long/156819	Công Ty CP Kỹ Thuật Và Ô Tô Trường Long
+/tim-viec-lam-tai/ho-chi-minh/HCM	Hồ Chí Minh
+/tim-viec-lam/bac-sy-bac-sy-y-te-du-phong-lam-viec-tai-my-tho-tien-giang/1467291	Bác Sỹ/ Bác Sỹ Y Tế Dự Phòng (Làm Việc Tại Mỹ Tho, Tiền Giang)
+/viec-lam-cua/taekwang-vina-industrial/48025	Taekwang Vina Industrial
+/tim-viec-lam-tai/tien-giang/TG	Tiền Giang
+/tim-viec-lam/tho-may-m%E1%BA%AAu/1458075	THỢ MAY MẪU
+/viec-lam-cua/cong-ty-tnhh-thoi-trang-viet-an-phong/184085	Công Ty TNHH Thời Trang Việt An Phong
+/tim-viec-lam-tai/ho-chi-minh/HCM	Hồ Chí Minh
+/tim-viec-lam/customer-service-executive/1467289	Customer Service Executive
+/viec-lam-cua/sing-industrial-gas-vietnam-co.-ltd/174522	Sing Industrial Gas Vietnam Co.,Ltd
+/tim-viec-lam-tai/binh-duong/BD	Bình Dương
+/tim-viec-lam/k%E1%BB%B8-su-thiet-ke-co-khi-o-to-02-nguoi/1449282	KỸ SƯ THIẾT KẾ CƠ KHÍ Ô TÔ (02 người)
+/viec-lam-cua/cong-ty-cp-ky-thuat-va-o-to-truong-long/156819	Công Ty CP Kỹ Thuật Và Ô Tô Trường Long
+/tim-viec-lam-tai/ho-chi-minh/HCM	Hồ Chí Minh
+/tim-viec-lam/chuyen-vien-kinh-doanh-dich-vu/1453689	Chuyên Viên Kinh Doanh Dịch Vụ
+/viec-lam-cua/cong-ty-cp-ky-thuat-va-o-to-truong-long/156819	Công Ty CP Kỹ Thuật Và Ô Tô Trường Long
+/tim-viec-lam-tai/ho-chi-minh/HCM	Hồ Chí Minh
+/tim-viec-lam/nhan-vien-quay-dung-phim/1467284	Nhân Viên Quay Dựng Phim
+/viec-lam-cua/tap-doan-sci/174132	Tập Đoàn SCI
+/tim-viec-lam-tai/ha-noi/HN	Hà Nội
+/tim-viec-lam/sale-admin-tai-ha-noi/1467283	Sale Admin Tại Hà Nội
+/viec-lam-cua/tap-doan-sci/174132	Tập Đoàn SCI
+/tim-viec-lam-tai/ha-noi/HN	Hà Nội
+/tim-viec-lam/tho-dien-dien-lanh/1467279	THỢ ĐIỆN - ĐIỆN LẠNH
+/viec-lam-cua/cong-ty-tnhh-quoc-te-hai-long/96053	Công ty TNHH Quốc Tế Hải Long
+/tim-viec-lam-tai/ha-noi/HN	Hà Nội
+/tim-viec-lam/giam-sat-ban-le-fmcg-tai-hcm/1467278	Giám Sát Bán Lẻ - FMCG Tại HCM
+/viec-lam-cua/cong-ty-tnhh-quoc-te-hai-long/96053	Công ty TNHH Quốc Tế Hải Long
+/tim-viec-lam-tai/ho-chi-minh/HCM	Hồ Chí Minh
+/tim-viec-lam/quan-ly-hang-hoa-dieu-phoi-hang-hoa-tai-hcm/1467276	Quản Lý Hàng Hóa / Điều Phối Hàng Hóa Tại HCM
+/viec-lam-cua/cong-ty-tnhh-quoc-te-hai-long/96053	Công ty TNHH Quốc Tế Hải Long
+/tim-viec-lam-tai/ho-chi-minh/HCM	Hồ Chí Minh
+/tim-viec-lam/pho-phong-thuong-mai-dien-tu/1467275	Phó Phòng Thương Mại Điện Tử
+/viec-lam-cua/cong-ty-tnhh-quoc-te-hai-long/96053	Công ty TNHH Quốc Tế Hải Long
+/tim-viec-lam-tai/ha-noi/HN	Hà Nội
+/tim-viec-lam/tho-dien-ky-thuat/1467274	Thợ Điện Kỹ Thuật
+/viec-lam-cua/cong-ty-tnhh-quoc-te-hai-long/96053	Công ty TNHH Quốc Tế Hải Long
+/tim-viec-lam-tai/ha-noi/HN	Hà Nội
+/tim-viec-lam/kien-truc-su-cong-nghiep-dan-dung/1467273	Kiến Trúc Sư Công Nghiệp Dân Dụng
+/viec-lam-cua/cong-ty-tnhh-quoc-te-hai-long/96053	Công ty TNHH Quốc Tế Hải Long
+/tim-viec-lam-tai/ha-noi/HN	Hà Nội
+/tim-viec-lam/tho-kim-hoan-chi-nhanh-quang-ninh/1460973	THỢ KIM HOÀN (CHI NHÁNH QUẢNG NINH)
+/viec-lam-cua/tap-doan-vang-bac-da-quy-doji/21398	Tập Đoàn Vàng Bạc Đá Quý DOJI
+/tim-viec-lam-tai/quang-ninh/QNH	Quảng Ninh
+/tim-viec-lam/tho-kim-hoan-ha-noi/1460972	THỢ KIM HOÀN (Hà Nội)
+/viec-lam-cua/tap-doan-vang-bac-da-quy-doji/21398	Tập Đoàn Vàng Bạc Đá Quý DOJI
+/tim-viec-lam-tai/ha-noi/HN	Hà Nội
+/tim-viec-lam/tho-kim-hoan-chi-nhanh-thai-nguyen/1460971	THỢ KIM HOÀN (CHI NHÁNH THÁI NGUYÊN)
+/viec-lam-cua/tap-doan-vang-bac-da-quy-doji/21398	Tập Đoàn Vàng Bạc Đá Quý DOJI
+/tim-viec-lam-tai/thai-nguyen/TNN	Thái Nguyên
+/tim-viec-lam/tho-kim-hoan-chi-nhanh-thanh-hoa/1460970	THỢ KIM HOÀN  (CHI NHÁNH THANH HÓA)
+/viec-lam-cua/tap-doan-vang-bac-da-quy-doji/21398	Tập Đoàn Vàng Bạc Đá Quý DOJI
+/tim-viec-lam-tai/thanh-hoa/THH	Thanh Hóa
+/tim-viec-lam/truong-phong-thiet-ke-trang-suc-vang-tay/1462010	TRƯỞNG PHÒNG THIẾT KẾ TRANG SỨC VÀNG TÂY
+/viec-lam-cua/tap-doan-vang-bac-da-quy-doji/21398	Tập Đoàn Vàng Bạc Đá Quý DOJI
+/tim-viec-lam-tai/ha-noi/HN	Hà Nội
+/tim-viec-lam/chuyen-vien-thiet-ke-quang-cao/1462011	CHUYÊN VIÊN THIẾT KẾ QUẢNG CÁO
+/viec-lam-cua/tap-doan-vang-bac-da-quy-doji/21398	Tập Đoàn Vàng Bạc Đá Quý DOJI
+/tim-viec-lam-tai/ha-noi/HN	Hà Nội
+/tim-viec-lam/cong-nhan-lao-dong-pho-thong/1458213	CÔNG NHÂN LAO ĐỘNG PHỔ THÔNG
+/viec-lam-cua/cong-ty-tnhh-sohuco/192153	CÔNG TY TNHH SOHUCO
+/tim-viec-lam-tai/bac-ninh/BN	Bắc Ninh
+/tim-viec-lam/nhan-vien-lai-xe-hanh-chinh-dai-son-group-da-n%E1%BA%B4ng/1467264	NHÂN VIÊN LÁI XE HÀNH CHÍNH - ĐẠI SƠN GROUP - ĐÀ NẴNG
+/viec-lam-cua/cong-ty-co-phan-quoc-te-dai-son/169249	CÔNG TY CỔ PHẦN QUỐC TẾ ĐẠI SƠN
+/tim-viec-lam-tai/da-nang/DN	Đà Nẵng
+/tim-viec-lam/trinh-duoc-vien-nv-thi-truong-quang-ngai/1467263	TRÌNH DƯỢC VIÊN (NV THỊ TRƯỜNG) - QUẢNG NGÃI
+/viec-lam-cua/cong-ty-co-phan-quoc-te-dai-son/169249	CÔNG TY CỔ PHẦN QUỐC TẾ ĐẠI SƠN
+/tim-viec-lam-tai/quang-ngai/QNI	Quảng Ngãi
+/tim-viec-lam/content-manager-quan-ly-site-bao-online/1467260	CONTENT MANAGER / Quản lý Site Báo Online
+/viec-lam-cua/queen-stone-group/188406	Queen Stone Group
+/tim-viec-lam-tai/ho-chi-minh/HCM	Hồ Chí Minh
+/tim-viec-lam/trinh-duoc-vien-nv-thi-truong-binh-thuan/1457198	TRÌNH DƯỢC VIÊN  (NV THỊ TRƯỜNG) - BÌNH THUẬN
+/viec-lam-cua/cong-ty-co-phan-quoc-te-dai-son/169249	CÔNG TY CỔ PHẦN QUỐC TẾ ĐẠI SƠN
+/tim-viec-lam-tai/binh-thuan/BT	Bình Thuận
+/tim-viec-lam/trinh-duoc-vien-nv-thi-truong-binh-duong/1452226	TRÌNH DƯỢC VIÊN (NV THỊ TRƯỜNG) - BÌNH DƯƠNG
+/viec-lam-cua/cong-ty-co-phan-quoc-te-dai-son/169249	CÔNG TY CỔ PHẦN QUỐC TẾ ĐẠI SƠN
+/tim-viec-lam-tai/binh-duong/BD	Bình Dương
+/tim-viec-lam/sales-admins-at-hcmc-office/1467259	Sales Admins at HCMC office
+/viec-lam-cua/cong-ty-cp-china-steel-sumikin-viet-nam/14167	Công Ty CP China Steel Sumikin Việt Nam
+/tim-viec-lam-tai/ho-chi-minh/HCM	Hồ Chí Minh
+/tim-viec-lam/chuyen-vien-kinh-doanh-ket-cau-thep/1462334	CHUYÊN VIÊN KINH DOANH KẾT CẤU THÉP
+/viec-lam-cua/cong-ty-co-phan-tu-van-thiet-ke-xay-dung-nam-trung/182051	CÔNG TY CỔ PHẦN TƯ VẤN THIẾT KẾ & XÂY DỰNG NAM TRUNG
+/tim-viec-lam-tai/ba-ria-vung-tau/BRVT	Bà Rịa - Vũng Tàu
+/tim-viec-lam/kien-truc-su/1457593	KIẾN TRÚC SƯ
+/viec-lam-cua/cong-ty-co-phan-tu-van-thiet-ke-xay-dung-nam-trung/182051	CÔNG TY CỔ PHẦN TƯ VẤN THIẾT KẾ & XÂY DỰNG NAM TRUNG
+/tim-viec-lam-tai/ba-ria-vung-tau/BRVT	Bà Rịa - Vũng Tàu
+/tim-viec-lam/truong-phong-thiet-ke-kien-truc/1457589	Trưởng Phòng Thiết Kế Kiến Trúc
+/viec-lam-cua/cong-ty-co-phan-tu-van-thiet-ke-xay-dung-nam-trung/182051	CÔNG TY CỔ PHẦN TƯ VẤN THIẾT KẾ & XÂY DỰNG NAM TRUNG
+/tim-viec-lam-tai/ba-ria-vung-tau/BRVT	Bà Rịa - Vũng Tàu
+/tim-viec-lam/giam-doc-kinh-doanh/1457590	Giám Đốc Kinh Doanh
+/viec-lam-cua/cong-ty-co-phan-tu-van-thiet-ke-xay-dung-nam-trung/182051	CÔNG TY CỔ PHẦN TƯ VẤN THIẾT KẾ & XÂY DỰNG NAM TRUNG
+/tim-viec-lam-tai/ba-ria-vung-tau/BRVT	Bà Rịa - Vũng Tàu
+/tim-viec-lam/ky-su-xay-dung-dd-cn:-03-vi-tri/1457591	Kỹ Sư Xây Dựng DD & CN: 03 vị trí
+/viec-lam-cua/cong-ty-co-phan-tu-van-thiet-ke-xay-dung-nam-trung/182051	CÔNG TY CỔ PHẦN TƯ VẤN THIẾT KẾ & XÂY DỰNG NAM TRUNG
+/tim-viec-lam-tai/ba-ria-vung-tau/BRVT	Bà Rịa - Vũng Tàu
+#	1
+/vieclam/list?view=headline&page=2	2
+/vieclam/list?view=headline&page=3	3
+/vieclam/list?view=headline&page=4	4
+/vieclam/list?view=headline&page=5	5
+/vieclam/list?view=headline&page=6	6
+/vieclam/list?view=headline&page=7	7
+/vieclam/list?view=headline&page=342	342
+/viec-lam/ke-toan-kiem-toan/1	Việc làm Kế toán
+/viec-lam/bien-phien-dich-tieng-nhat/154	Việc làm tiếng Nhật
+/viec-lam/ngan-hang-chung-khoan/5	Việc làm Ngân hàng
+/viec-lam/cntt-phan-mem/19	Việc làm IT - Phần mềm
+/viec-lam/cntt-phan-cung-mang/130	Việc làm IT - Phần cứng / Mạng
+/tim-viec-lam-tai/ho-chi-minh/HCM	Việc làm tại TP.Hồ Chí Minh
+/tim-viec-lam-tai/ha-noi/HN	Việc làm tại Hà Nội
+/tim-viec-lam-tai/hai-phong/HP	Việc làm tại Hải Phòng
+/tim-viec-lam-tai/da-nang/DN	Việc làm tại Đà Nẵng
+/tim-viec-lam-tai/can-tho/CT	Việc làm tại Cần Thơ
+/tim-viec-lam-tai/binh-duong/BD	Việc làm tại Bình Dương
+/tim-viec-lam-tai/dong-nai/DNI	Việc làm tại Đồng Nai
+/tim-viec-lam-tai/vinh-phuc/VP	Việc làm tại Vĩnh Phúc
+/tim-viec-lam-tai/bac-ninh/BN	Việc làm tại Bắc Ninh
+/tim-viec-lam-tai/long-an/LA	Việc làm tại Long An
+/tim-viec-lam-nhanh	Tìm Việc Làm
+/ve-careerlink	Về CareerLink
+/executive-search 	Dịch vụ Nhân sự cao cấp
+/quy-che-hoat-dong	Quy chế hoạt động
+/quy-dinh-bao-mat	Quy Định Bảo Mật
+/thoa-thuan-su-dung	Thỏa Thuận Sử Dụng
+/lien-he	Liên Hệ
+/so-do-trang-web	Site Map
+http://www.careerlink.asia/vi	CareerLink.asia

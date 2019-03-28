@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6c0373c-f13a-4335-a61f-229696ea54c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job_crawl/job_crawl/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/job_crawl/job_crawl/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job_crawl/job_crawl/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/job_crawl/job_crawl/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job_crawl/job_crawl/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/job_crawl/job_crawl/models1/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job_crawl/job_crawl/models/baseSalary_currency/baseSalary_currency_nb.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/job_crawl/job_crawl/models1/baseSalary_currency/baseSalary_currency_nb.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job_crawl/job_crawl/models/baseSalary_maxValue/baseSalary_maxValue_nb.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/job_crawl/job_crawl/models1/baseSalary_maxValue/baseSalary_maxValue_nb.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job_crawl/job_crawl/models/baseSalary_unitText/baseSalary_unitText_nb.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/job_crawl/job_crawl/models1/baseSalary_unitText/baseSalary_unitText_nb.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job_crawl/job_crawl/models/description/description_nb.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/job_crawl/job_crawl/models1/description/description_nb.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job_crawl/job_crawl/models/employmentType/employmentType_nb.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/job_crawl/job_crawl/models1/employmentType/employmentType_nb.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job_crawl/job_crawl/models/experienceRequirements/experienceRequirements_nb.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/job_crawl/job_crawl/models1/experienceRequirements/experienceRequirements_nb.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job_crawl/job_crawl/models/hiringOrganization_name/hiringOrganization_name_nb.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/job_crawl/job_crawl/models1/hiringOrganization_name/hiringOrganization_name_nb.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job_crawl/job_crawl/models/jobBenefits/jobBenefits_nb.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/job_crawl/job_crawl/models1/jobBenefits/jobBenefits_nb.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job_crawl/job_crawl/models/jobLocation_address_addressCountry/jobLocation_address_addressCountry_nb.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/job_crawl/job_crawl/models1/jobLocation_address_addressCountry/jobLocation_address_addressCountry_nb.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job_crawl/job_crawl/remove_similar_data/remove_similar_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/job_crawl/job_crawl/remove_similar_data/remove_similar_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job_crawl/job_crawl/remove_similar_data/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/job_crawl/job_crawl/remove_similar_data/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/dataset/baseSalary_currency/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/model/dataset1/baseSalary_currency/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/dataset/baseSalary_maxValue/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/model/dataset1/baseSalary_maxValue/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/dataset/baseSalary_minValue/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/model/dataset1/baseSalary_minValue/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/dataset/baseSalary_unitText/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/model/dataset1/baseSalary_unitText/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/dataset/baseSalary_value/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/model/dataset1/baseSalary_value/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/dataset/datePosted/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/model/dataset1/datePosted/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/dataset/description/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/model/dataset1/description/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/dataset/employmentType/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/model/dataset1/employmentType/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/dataset/experienceRequirements/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/model/dataset1/experienceRequirements/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/dataset/hiringOrganization_name/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/model/dataset1/hiringOrganization_name/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/dataset/jobBenefits/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/model/dataset1/jobBenefits/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/dataset/jobLocation_address_addressCountry/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/model/dataset1/jobLocation_address_addressCountry/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/dataset/jobLocation_address_addressLocality/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/model/dataset1/jobLocation_address_addressLocality/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/dataset/jobLocation_address_addressRegion/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/model/dataset1/jobLocation_address_addressRegion/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/dataset/occupationalCategory/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/model/dataset1/occupationalCategory/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/dataset/qualifications/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/model/dataset1/qualifications/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/dataset/skills/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/model/dataset1/skills/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/dataset/title/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/model/dataset1/title/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/dataset/validThrough/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/model/dataset1/validThrough/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/meta_learner.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/meta_learner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/test_map.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/test_map.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/train_nb.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/train_nb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_dataset/preprocess/make_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_dataset/preprocess/make_dataset.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Project2$train_dstree.coverage" NAME="train_dstree Coverage Results" MODIFIED="1553572472583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/Project2$train.coverage" NAME="train Coverage Results" MODIFIED="1553312749176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/Project2$train_meta_learner.coverage" NAME="train_meta_learner Coverage Results" MODIFIED="1553652701507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/Project2$process.coverage" NAME="process Coverage Results" MODIFIED="1553262238263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_dataset" />
+    <SUITE FILE_PATH="coverage/Project2$make_dataset.coverage" NAME="make_dataset Coverage Results" MODIFIED="1553314733469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_dataset/preprocess" />
+    <SUITE FILE_PATH="coverage/Project2$process__1_.coverage" NAME="process (1) Coverage Results" MODIFIED="1553267487452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_dataset/preprocess" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Project2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_dataset/preprocess/attributes.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_dataset/preprocess/set_attr.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/train_dstree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/train_meta_learner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_dataset/preprocess/make_dataset.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="38" column="28" lean-forward="true" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/meta_learner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/train_nb.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/dataset1/jobLocation_address_addressLocality/data.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5593">
+              <caret line="329" column="61" selection-start-line="329" selection-start-column="61" selection-end-line="329" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_dataset/preprocess/raw_data/vieclam24h.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="3141" selection-start-line="1" selection-end-line="4" selection-end-column="3141" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Việc làm Hà Nội</find>
+      <find>Hà Nội</find>
+      <find>Việc làm</find>
+      <find>Giáo dục-Đào tạo</find>
+      <find>career</find>
+      <find>job</find>
+      <find>schema</find>
+      <find>jobposting</find>
+      <find>jobPos</find>
+      <find>jo</find>
+      <find>Nbf6074e15759487c96b99e7250d2b6c5</find>
+      <find>addressRegion</find>
+      <find>jobPosting</find>
+      <find>industry</find>
+      <find>occupationalCategory</find>
+      <find>itemid</find>
+      <find>Nd992a6778f2946bfb7991bc1588a5efa</find>
+      <find>@tyo</find>
+      <find>/ho-chi-minh/HCM</find>
+      <find>itemprop</find>
+      <find>1</find>
+      <find>1.000000000000000000e+00</find>
+      <find>addressRe</find>
+      <find>url</find>
+      <find>occu</find>
+      <find>json</find>
+      <find>occupation</find>
+      <find>VNĐ</find>
+      <find>Số 3, Lô CN6, Cụm CN Vừa Và Nhỏ Từ Liêm</find>
+      <find>CVCC Chính sách &amp; Quản lý Danh mục tín dụng Doanh nghiệp lớn và Định chế tài chính - QLRR - MSB</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/job_crawl/job_crawl/extract_dom/make_dataset.py" />
+        <option value="$PROJECT_DIR$/test_mywork.html" />
+        <option value="$PROJECT_DIR$/job_crawl/data.json" />
+        <option value="$PROJECT_DIR$/job_crawl/job_crawl/settings.py" />
+        <option value="$PROJECT_DIR$/mapping/html/test_tuyendungcom.html" />
+        <option value="$PROJECT_DIR$/mapping/html/test_careerlink.html" />
+        <option value="$PROJECT_DIR$/mapping/html/test_careerlink.txt" />
+        <option value="$PROJECT_DIR$/mapping/html/microdata.txt" />
+        <option value="$PROJECT_DIR$/job_crawl/job_crawl/test.json" />
+        <option value="$PROJECT_DIR$/job_crawl/job_crawl/attributes.txt" />
+        <option value="$PROJECT_DIR$/job_crawl/job_crawl/attributes.json" />
+        <option value="$PROJECT_DIR$/mapping/html/test.txt" />
+        <option value="$PROJECT_DIR$/test_dataset/attributes.json" />
+        <option value="$PROJECT_DIR$/mapping/html/microdata.html" />
+        <option value="$PROJECT_DIR$/test_dataset/process.py" />
+        <option value="$PROJECT_DIR$/test_dataset/preprocess/test.py" />
+        <option value="$PROJECT_DIR$/model/setting.py" />
+        <option value="$PROJECT_DIR$/mapping/html/test_mywork.txt" />
+        <option value="$PROJECT_DIR$/model/models/title/test.py" />
+        <option value="$PROJECT_DIR$/model/title/test.py" />
+        <option value="$PROJECT_DIR$/model/train.py" />
+        <option value="$PROJECT_DIR$/mapping/html/test_topcv.html" />
+        <option value="$PROJECT_DIR$/mapping/data/job.json" />
+        <option value="$PROJECT_DIR$/mapping/data/process_dât.py" />
+        <option value="$PROJECT_DIR$/mapping/data/new.json" />
+        <option value="$PROJECT_DIR$/mapping/data/job_topdev.json" />
+        <option value="$PROJECT_DIR$/mapping/data/process_data.py" />
+        <option value="$PROJECT_DIR$/mapping/data/new_topdev.json" />
+        <option value="$PROJECT_DIR$/job_crawl/job_crawl/utils/utils.py" />
+        <option value="$PROJECT_DIR$/job_crawl/job_crawl/spiders/job_crawler.py" />
+        <option value="$PROJECT_DIR$/mapping/parse.py" />
+        <option value="$PROJECT_DIR$/model/preprocess.py" />
+        <option value="$PROJECT_DIR$/mapping/html/index_vieclam24h.html" />
+        <option value="$PROJECT_DIR$/model/vietnamese-stopwords/test_map.py" />
+        <option value="$PROJECT_DIR$/model/test_map.py" />
+        <option value="$PROJECT_DIR$/model/test.py" />
+        <option value="$PROJECT_DIR$/model/vietnamese-stopwords/train_meta_learner.py" />
+        <option value="$PROJECT_DIR$/job_crawl/job_crawl/spiders/careerlink.py" />
+        <option value="$PROJECT_DIR$/job_crawl/job_crawl/spiders/utils/utils.py" />
+        <option value="$PROJECT_DIR$/test_dataset/preprocess/process.py" />
+        <option value="$PROJECT_DIR$/job_crawl/job_crawl/spiders/careerbuilder.py" />
+        <option value="$PROJECT_DIR$/job_crawl/job_crawl/spiders/vieclam24h.py" />
+        <option value="$PROJECT_DIR$/model/notebook_train_nb.ipynb" />
+        <option value="$PROJECT_DIR$/model/train_nb.py" />
+        <option value="$PROJECT_DIR$/job_crawl/test.json" />
+        <option value="$PROJECT_DIR$/test_dataset/preprocess/attributes.json" />
+        <option value="$PROJECT_DIR$/test_dataset/preprocess/set_attr.json" />
+        <option value="$PROJECT_DIR$/model/train_dstree.py" />
+        <option value="$PROJECT_DIR$/model/train_meta_learner.py" />
+        <option value="$PROJECT_DIR$/test_dataset/preprocess/make_dataset.py" />
+        <option value="$PROJECT_DIR$/model/meta_learner.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project2" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project2" type="462c0819:PsiDirectoryNode" />
+              <item name="test_dataset" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project2" type="462c0819:PsiDirectoryNode" />
+              <item name="test_dataset" type="462c0819:PsiDirectoryNode" />
+              <item name="preprocess" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project2" type="462c0819:PsiDirectoryNode" />
+              <item name="test_dataset" type="462c0819:PsiDirectoryNode" />
+              <item name="preprocess" type="462c0819:PsiDirectoryNode" />
+              <item name="raw_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last.edited.regexp" value="mot_hai ba bon" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Code\Project2\model\title" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Code\Project2\test_dataset\preprocess\raw_data" />
+      <recent name="E:\Code\Project2\job_crawl\job_crawl\spiders" />
+      <recent name="E:\Code\Project2\model" />
+      <recent name="E:\Code\Project2\job_crawl\job_crawl\models" />
+      <recent name="E:\Code\Project2\test_dataset\preprocess" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.train_meta_learner">
+    <configuration name="make_dataset" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_dataset/preprocess" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_dataset/preprocess/make_dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="process (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_dataset/preprocess" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_dataset/preprocess/process.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\Code\Project2\model\train_nb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_dstree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/train_dstree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_meta_learner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Project2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/train_meta_learner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train_meta_learner" />
+        <item itemvalue="Python.train_dstree" />
+        <item itemvalue="Python.make_dataset" />
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.process (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6c0373c-f13a-4335-a61f-229696ea54c4" name="Default Changelist" comment="" />
+      <created>1551408928784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551408928784</updated>
+      <workItem from="1551408930453" duration="4621000" />
+      <workItem from="1551417926184" duration="1002000" />
+      <workItem from="1551428744057" duration="11528000" />
+      <workItem from="1551444204204" duration="1339000" />
+      <workItem from="1551455506907" duration="10803000" />
+      <workItem from="1551499617442" duration="1300000" />
+      <workItem from="1551505322566" duration="612000" />
+      <workItem from="1551512500162" duration="4699000" />
+      <workItem from="1551539544906" duration="41000" />
+      <workItem from="1551621973661" duration="19713000" />
+      <workItem from="1551689859601" duration="7847000" />
+      <workItem from="1551702175838" duration="571000" />
+      <workItem from="1551708637454" duration="17306000" />
+      <workItem from="1551747728027" duration="3294000" />
+      <workItem from="1551751055781" duration="2667000" />
+      <workItem from="1551753849951" duration="905000" />
+      <workItem from="1551764385826" duration="2265000" />
+      <workItem from="1551768495920" duration="3450000" />
+      <workItem from="1551774677286" duration="6210000" />
+      <workItem from="1551782097376" duration="491000" />
+      <workItem from="1551791606717" duration="4088000" />
+      <workItem from="1551795724975" duration="4973000" />
+      <workItem from="1551802663209" duration="1863000" />
+      <workItem from="1551897563798" duration="1454000" />
+      <workItem from="1551937187075" duration="79000" />
+      <workItem from="1551940510973" duration="1406000" />
+      <workItem from="1551945471287" duration="728000" />
+      <workItem from="1551948915184" duration="595000" />
+      <workItem from="1551967873603" duration="145000" />
+      <workItem from="1551985619322" duration="2699000" />
+      <workItem from="1552014907412" duration="11000" />
+      <workItem from="1552029177313" duration="734000" />
+      <workItem from="1552043125528" duration="154000" />
+      <workItem from="1552058558769" duration="8608000" />
+      <workItem from="1552104625381" duration="4874000" />
+      <workItem from="1552128848961" duration="4546000" />
+      <workItem from="1552139005250" duration="15233000" />
+      <workItem from="1552265711238" duration="1458000" />
+      <workItem from="1552281987905" duration="1132000" />
+      <workItem from="1552288955467" duration="82000" />
+      <workItem from="1552303675603" duration="5565000" />
+      <workItem from="1552312984554" duration="13192000" />
+      <workItem from="1552353539344" duration="5996000" />
+      <workItem from="1552396883864" duration="8897000" />
+      <workItem from="1552418138928" duration="4718000" />
+      <workItem from="1552489547576" duration="39000" />
+      <workItem from="1552618008383" duration="2091000" />
+      <workItem from="1552987039624" duration="1157000" />
+      <workItem from="1552988311220" duration="79000" />
+      <workItem from="1552988469901" duration="2128000" />
+      <workItem from="1552991045660" duration="117000" />
+      <workItem from="1553013400705" duration="2644000" />
+      <workItem from="1553048796980" duration="3494000" />
+      <workItem from="1553093903217" duration="15436000" />
+      <workItem from="1553132792665" duration="4082000" />
+      <workItem from="1553138111378" duration="4207000" />
+      <workItem from="1553158453592" duration="762000" />
+      <workItem from="1553173018944" duration="13625000" />
+      <workItem from="1553218269769" duration="8648000" />
+      <workItem from="1553244869030" duration="1306000" />
+      <workItem from="1553259625396" duration="16284000" />
+      <workItem from="1553306342875" duration="850000" />
+      <workItem from="1553307489725" duration="9451000" />
+      <workItem from="1553352878753" duration="9148000" />
+      <workItem from="1553415363063" duration="2312000" />
+      <workItem from="1553457374804" duration="547000" />
+      <workItem from="1553458462604" duration="1707000" />
+      <workItem from="1553486686760" duration="353000" />
+      <workItem from="1553487104436" duration="297000" />
+      <workItem from="1553519901573" duration="12989000" />
+      <workItem from="1553565646114" duration="7214000" />
+      <workItem from="1553580698330" duration="6000" />
+      <workItem from="1553582764186" duration="2997000" />
+      <workItem from="1553588787782" duration="6537000" />
+      <workItem from="1553606912553" duration="1357000" />
+      <workItem from="1553614839621" duration="10082000" />
+      <workItem from="1553651025541" duration="1964000" />
+      <workItem from="1553653026697" duration="6976000" />
+      <workItem from="1553671048859" duration="261000" />
+      <workItem from="1553695471356" duration="16538000" />
+      <workItem from="1553738046623" duration="1744000" />
+      <workItem from="1553754756498" duration="139000" />
+      <workItem from="1553755731506" duration="59000" />
+      <workItem from="1553759460613" duration="87000" />
+      <workItem from="1553760337114" duration="23000" />
+      <workItem from="1553770768124" duration="47000" />
+      <workItem from="1553771664979" duration="551000" />
+      <workItem from="1553772298383" duration="1967000" />
+      <workItem from="1553775647055" duration="213000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="366409000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.2785235" />
+      <window_info id="Structure" order="1" sideWeight="0.50139666" side_tool="true" weight="0.18255034" />
+      <window_info id="Favorites" order="2" sideWeight="0.50139666" side_tool="true" weight="0.18255034" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32960895" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39944133" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32960895" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.30865923" />
+      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.35893854" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" x="741" y="142" width="491" height="480" id="SciView" order="3" weight="0.3295302" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3295302" />
+      <window_info anchor="right" x="0" y="0" width="337" height="648" id="Documentation" order="5" side_tool="true" weight="0.25637585" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mapping/data/new.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job_crawl/job_crawl/spiders/job_crawler.py" />
+    <entry file="file://$PROJECT_DIR$/mapping/html/index_vieclam24h.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="57" lean-forward="true" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#noscript#0;n#head#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#41652#41658#1" expanded="true" />
+            <element signature="e#41887#41893#1" expanded="true" />
+            <element signature="e#42241#42247#1" expanded="true" />
+            <element signature="e#62104#62130#0" expanded="true" />
+            <element signature="e#66948#66974#0" expanded="true" />
+            <element signature="e#70083#70111#0" expanded="true" />
+            <element signature="e#73669#73675#1" expanded="true" />
+            <element signature="e#74449#74455#1" expanded="true" />
+            <element signature="e#78302#78322#0" expanded="true" />
+            <element signature="e#85691#85714#0" expanded="true" />
+            <element signature="e#91716#91793#0" expanded="true" />
+            <element signature="e#93341#93404#0" expanded="true" />
+            <element signature="e#93498#93561#0" expanded="true" />
+            <element signature="e#115979#116005#0" expanded="true" />
+            <element signature="e#120245#120271#0" expanded="true" />
+            <element signature="e#121442#121463#0" expanded="true" />
+            <element signature="e#128540#128566#0" expanded="true" />
+            <element signature="e#186868#186919#0" expanded="true" />
+            <element signature="e#187022#187085#0" expanded="true" />
+            <element signature="e#187131#187156#0" expanded="true" />
+            <element signature="e#187329#187358#0" expanded="true" />
+            <element signature="e#187659#187835#0" expanded="true" />
+            <element signature="e#192943#192966#0" expanded="true" />
+            <element signature="e#197641#197665#0" expanded="true" />
+            <element signature="e#249809#249836#0" expanded="true" />
+            <element signature="e#249943#249950#1" expanded="true" />
+            <element signature="e#250039#250084#0" expanded="true" />
+            <element signature="e#250140#250169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mapping/data/new_topdev.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="164" column="54" selection-start-line="164" selection-start-column="54" selection-end-line="164" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/test_map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/dataset/title/meta_learner_data1.txt" />
+    <entry file="file://$PROJECT_DIR$/model/dataset/title/data1.txt" />
+    <entry file="file://$PROJECT_DIR$/mapping/html/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/preprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1802">
+          <caret line="112" column="18" selection-start-line="112" selection-start-column="18" selection-end-line="112" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/sklearn/linear_model/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3961">
+          <caret line="255" selection-start-line="255" selection-end-line="255" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/sklearn/utils/extmath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="139" selection-start-line="139" selection-end-line="139" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="1134" selection-start-line="1134" selection-end-line="1134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/dataset/title/meta_learner_data.txt" />
+    <entry file="file://$PROJECT_DIR$/model/dataset/baseSalary_currency/meta_learner_data.txt" />
+    <entry file="file://$PROJECT_DIR$/model/dataset/experienceRequirements/meta_learner_data.txt" />
+    <entry file="file://$PROJECT_DIR$/model/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1639">
+          <caret line="14872" column="46" selection-start-line="14872" selection-start-column="27" selection-end-line="14872" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job_crawl/job_crawl/dict/load_dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job_crawl/job_crawl/extract_dom/fields_list.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job_crawl/job_crawl/extract_dom/make_dataset.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mapping/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mapping/html/test_topcv.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11101">
+          <caret line="653" column="28" selection-start-line="653" selection-start-column="28" selection-end-line="653" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job_crawl/job_crawl/spiders/vietnamworks.py" />
+    <entry file="file://$PROJECT_DIR$/mapping/html/test_careerbuilder.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1088">
+          <caret line="2669" selection-start-line="2669" selection-end-line="2669" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job_crawl/job_crawl/spiders/utils/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-148">
+          <caret line="45" column="51" selection-start-line="45" selection-start-column="51" selection-end-line="45" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/dictionary/hiringOrganization_name/dictionary.txt" />
+    <entry file="file://$PROJECT_DIR$/model/dataset1/occupationalCategory/data.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-1144">
+          <caret line="10745" column="49" lean-forward="true" selection-start-line="10745" selection-start-column="49" selection-end-line="10745" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_dataset/preprocess/raw_data/careerlink.json">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="2952" selection-start-line="24" selection-start-column="2949" selection-end-line="24" selection-end-column="2952" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="134">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/dictionary/baseSalary_currency/dictionary.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-99473" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/notebook_train_nb.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/dataset1/baseSalary_currency/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="43058" column="3" selection-start-line="43058" selection-end-line="43058" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/dictionary/baseSalary_maxValue/dictionary.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-62157" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job_crawl/job_crawl/spiders/careerlink.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job_crawl/job_crawl/spiders/careerbuilder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3434">
+          <caret line="210" column="39" selection-start-line="210" selection-start-column="39" selection-end-line="210" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job_crawl/job_crawl/spiders/vieclam24h.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3621">
+          <caret line="223" selection-start-line="223" selection-end-line="223" />
+          <folding>
+            <element signature="e#16#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_dataset/preprocess/process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_dataset/preprocess/raw_data/careerbuilder.json">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-6490">
+          <caret line="21" column="417" selection-start-line="21" selection-start-column="415" selection-end-line="21" selection-end-column="417" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="238">
+          <caret line="14" column="4773" selection-start-line="14" selection-start-column="4629" selection-end-line="14" selection-end-column="4773" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job_crawl/test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10200">
+          <caret line="600" column="34" selection-start-line="600" selection-start-column="34" selection-end-line="600" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/job_crawl/job_crawl/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/dataset1/baseSalary_maxValue/data.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_dataset/preprocess/attributes.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_dataset/preprocess/set_attr.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/train_dstree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/train_meta_learner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/meta_learner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/train_nb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/dataset1/jobLocation_address_addressLocality/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5593">
+          <caret line="329" column="61" selection-start-line="329" selection-start-column="61" selection-end-line="329" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_dataset/preprocess/raw_data/vieclam24h.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="3141" selection-start-line="1" selection-end-line="4" selection-end-column="3141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_dataset/preprocess/make_dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="38" column="28" lean-forward="true" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

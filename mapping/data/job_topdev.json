@@ -1,0 +1,42 @@
+[
+  {
+    "@id": "_:N68fb68aebbed4af9b406e3e03662e20d",
+    "@type": [
+      "http://schema.org/JobPosting"
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "_:N7931fa26fcdf40e39b41a6bca2d35934"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "\n                                    Not A Basement Studio is mobile app company based in Ho Chi Minh City, Vietnam. We\u2019re a group of young, passionate people who love to build awesome products. We work hard to make products that are beautifully designed, fun to use, and add real value to its user\u2019s life.\n\nOver... See more \n                                    \n                                        Not A Basement Studio is mobile app company based in Ho Chi Minh City, Vietnam. We\u2019re a group of young, passionate people who love to build awesome products. We work hard to make products that are beautifully designed, fun to use, and add real value to its user\u2019s life.\n\nOver 10 millions people have downloaded our apps, and Apple featured our flagship photo app Fuzel as \u201cBest apps of 2012\u201d, \u201cEditors\u2019 Choice\u201d in 2014, and \u201cNew & Noteworthy Apps\u201d multiple times. We also appeared on Techcrunch, Wall Street Journal, TheNextWeb, Cult of Mac, CNET, Forbes Vietnam etc.\n\nWebsite:\u00a0http://www.notabasement.com\n\n                                        Less                                        \n                                    \n                                "
+      },
+      {
+        "@value": "\n                                Every day, millions of people around the world use our apps. One of the key ingredients to achieving such number and stay competitive in the global app market relies heavily on our prized developers.\n\nThey are not just coders. They are also thinkers and solution architects.\n\nIn order for us to continue providing the best experience for our ever-growing user base, we are looking for a Node.js Developer to work with our System Team to maintain and further develop our backend infrastructure.\n\nRESPONSIBILITIES\n\nAs a Node.js developer, you will be working with us to:\n\n\n Develop and maintain new systems to support different products.\n Carry out the implementation of support systems for new products.\n\n\n                            "
+      }
+    ],
+    "http://schema.org/experienceRequirements": [
+      {
+        "@value": "\n                                \n                                    \n                                        \n Ability to read/write English technical documents (required).\n Ability to work comfortably in a team-oriented yet remote environment (required).\n Experience in Node.js (required).\n Experience in all versions of ECMAScript, CommonJS, and Babel (required).\n Experience with React and Redux (required).\n Experience with common relational databases such as MySQL, PostgreSQL, MongoDB (required)\n Experience with REST and RPC APIs (required).\n Experience with Software Design Patterns (required).\n Experience with Theoretical Computer Science and common algorithms (required).\n Experience in Golang (preferred).\n Experience in Shell Script (preferred).\n Experience with CSS, HTML, and JavaScript (preferred).\n Experience with cloud infrastructures (preferred).\n\n\nFresh graduates are welcome to apply as long as you can show us any of your university\nprojects that demonstrate your competency in any of the above-mentioned requirements.\n\n                                    \n                                \n                            "
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "\n                            Not A Basement Studio\n                            "
+      }
+    ],
+    "http://schema.org/title": [
+      {
+        "@value": "Node.JS Developer (NodeJS)"
+      }
+    ]
+  },
+  {
+    "@id": "_:N7931fa26fcdf40e39b41a6bca2d35934",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ]
+  }
+]
