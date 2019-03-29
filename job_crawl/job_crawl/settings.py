@@ -23,15 +23,9 @@ NEWSPIDER_MODULE = 'job_crawl.spiders'
 ROBOTSTXT_OBEY = True
 
 # Mongo DB
-<<<<<<< HEAD
 # ITEM_PIPELINES = {
 #     'job_crawl.pipelines.MongoPipeline': 300
 # }
-=======
-ITEM_PIPELINES = {
-    'job_crawl.pipelines.MongoPipeline': 300
-}
->>>>>>> f38684dd49bf46158a1ee1bc4f10185034cc3b32
 MONGO_URI = 'mongodb://localhost:27017/'
 MONGO_DATABASE = 'recruitment_information'
 MONGO_COLLECTION = 'job_information'
@@ -42,7 +36,7 @@ MONGO_COLLECTION = 'job_information'
 # Configure a delay for requests for the same website (default: 0)
 # See https://doc.scrapy.org/en/latest/topics/settings.html#download-delay
 # See also autothrottle settings and docs
-#DOWNLOAD_DELAY = 3
+DOWNLOAD_DELAY = 0.15
 # The download delay setting will honor only one of:
 #CONCURRENT_REQUESTS_PER_DOMAIN = 16
 #CONCURRENT_REQUESTS_PER_IP = 16
@@ -105,9 +99,5 @@ MONGO_COLLECTION = 'job_information'
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
 FEED_EXPORT_ENCODING = 'utf-8'
-<<<<<<< HEAD
 # LOG_FILE = 'file.log'
-=======
-LOG_FILE = 'file.log'
->>>>>>> f38684dd49bf46158a1ee1bc4f10185034cc3b32
 # COOKIES_DEBUG = True

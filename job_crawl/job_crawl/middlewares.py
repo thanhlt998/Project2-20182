@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
 
-<<<<<<< HEAD
-# Define here the models1 for your spider middleware
-=======
 # Define here the models for your spider middleware
->>>>>>> f38684dd49bf46158a1ee1bc4f10185034cc3b32
 #
 # See documentation in:
 # https://doc.scrapy.org/en/latest/topics/spider-middleware.html
@@ -35,11 +31,7 @@ class JobCrawlSpiderMiddleware(object):
         # Called with the results returned from the Spider, after
         # it has processed the response.
 
-<<<<<<< HEAD
         # Must return an iterable of Request, dict1 or Item objects.
-=======
-        # Must return an iterable of Request, dict or Item objects.
->>>>>>> f38684dd49bf46158a1ee1bc4f10185034cc3b32
         for i in result:
             yield i
 
@@ -47,11 +39,7 @@ class JobCrawlSpiderMiddleware(object):
         # Called when a spider or process_spider_input() method
         # (from other spider middleware) raises an exception.
 
-<<<<<<< HEAD
         # Should return either None or an iterable of Response, dict1
-=======
-        # Should return either None or an iterable of Response, dict
->>>>>>> f38684dd49bf46158a1ee1bc4f10185034cc3b32
         # or Item objects.
         pass
 

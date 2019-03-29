@@ -7,11 +7,11 @@ import os
 
 
 # for directory in os.listdir('dataset1'):
-for directory in ['jobLocation_address_addressCountry']:
+for directory in ['baseSalary_currency']:
     # Data path
     path = f'dataset/{directory}/data.txt'
 
-    # Split into train and test data
+    # Split into train_nb and test data
     data = FileReader(path).load_data()
     train_data, test_data = train_test_split(data, test_size=0.3)
 
