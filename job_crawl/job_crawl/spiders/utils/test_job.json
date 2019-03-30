@@ -1,0 +1,1242 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Trợ Lý Kinh Doanh",
+    "description": "- Tiếp nhận yêu cầu đặt hàng từ các khách hàng đã có của công ty<br />- Thông báo yêu cầu nhà máy sản xuất đơn hàng.<br />- Theo dõi tiến độ sản xuất, giao hàng và báo cáo tình hình cho Trưởng phòng và khách hàng.",
+    "jobBenefits": "- Tham gia BHXH, BHYT, BHTN theo quy định của nhà nước.<br />- Được hưởng các chế độ phúc lợi theo quy định của công ty.<br />- Thưởng năng lực theo tháng.<br />- Cơ hội thăng tiến những vị trí quản lý trong tương lai nếu có khả năng chứng minh năng lực bản thân.",
+    "skills": "- Thành thạo vi tính văn phòng (Excel, Word,...)<br />- Biết cách sắp xếp công việc, làm việc nhóm và làm việc độc lập<br />- Anh văn giao tiếp<br />- Chịu áp lực công việc<br />- Có chứng chỉ TOIEC (điểm từ 500 trở lên) hoặc IELTS.",
+    "qualifications": "Cao đẳng",
+    "experienceRequirements": "Chưa có kinh nghiệm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Vietnam Paiho Ltd",
+      "value": "24387"
+    },
+    "datePosted": "2018-05-16 10:32:37",
+    "validThrough": "2018-09-06 00:00:00",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Vietnam Paiho Ltd",
+      "sameAs": "https://www.timviecnhanh.com/vietnampaiho",
+      "logo": "https://cdn.timviecnhanh.com/asset/home/img/employer/57205aad40200_1461738157.jpg"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lô 30- 32- 34 Đường Số 3, KCN Tân Tạo, P.Tân Tạo A, Q Bình Tân",
+        "addressLocality": "Lô 30- 32- 34 Đường Số 3, KCN Tân Tạo, P.Tân Tạo A, Q Bình Tân",
+        "addressRegion": "Hồ Chí Minh",
+        "postalCode": "700000",
+        "addressCountry": "VN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": "5000000",
+      "maxValue": "6999999",
+      "unitText": "MONTH"
+    },
+    "occupationalCategory": [],
+    "url": "https://www.timviecnhanh.com/vietnampaiho/tro-ly-kinh-doanh-ho-chi-minh-id4155653.html"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Nhân Viên Kinh Doanh",
+    "description": "- Thực hiện các cuộc gọi outbound và tìm kiếm khách hàng.<br />- Cung cấp, tư vấn đầy đủ và chính xác thông tin sản phẩm đáp ứng nhu cầu khách hàng.<br />- Thực hiện chỉ tiêu doanh số <a href='https://www.timviecnhanh.com/viec-lam-ban-hang-c10.html' title='bán hàng' class='job-detail-autolink'>bán hàng</a> hàng tháng/ quý / năm.<br />- Phát triển mối quan hệ khách hàng và kênh khách hàng mới.<br />- Giới thiệu khách hàng tham quan nhà mẫu.<br />- Cập nhật cho khách tiến độ thực hiện dự án. <br />- Những công việc khác theo sự phân công của quản lý trực tiếp.",
+    "jobBenefits": "- Lương: 5 - 20 triệu, Hoa Hồng cao (từ 3% - 5%) -> Thu nhập trên 30 triệu<br />- Thưởng nóng liên tục hàng tuần. Chính sách thưởng cá nhân, thưởng Team vô cùng hấp dẫn. <br />- Được hỗ trợ chi phí Marketing hàng tháng.<br />- Cam kết trả lương đúng và đủ vào ngày 10 hàng tháng.<br />- Được tham gia các khóa đào tạo từ cơ bản đến chuyên sâu trong lĩnh vực Bất Động Sản và định hướng để trở thành các chuyên viên tư vấn chuyên nghiệp.<br />- Môi trường làm việc thân thiện, trẻ, năng động, chuyên nghiệp, cơ hội thăng tiến rõ ràng.<br />- Luôn có các sản phẩm, dự án để các bạn thỏa sức đam mê.<br />- Các chế độ bảo hiểm, nghỉ phép và chế độ khác theo quy định của pháp luật.<br />- Được nhận những phần thưởng bất ngờ vào các dịp lễ, Tết, sinh nhật,...<br />- Được đi du lịch trong và ngoài nước hơn 2 lần/năm, tha hồ được mở mang tầm mắt và sự hiểu biết.<br />- Các hoạt động tập thể được Công ty tài trợ: Teambuilding, Bóng đá,...",
+    "skills": "- Có đam mê kiếm tiền, kinh doanh, nhiệt huyết và mong muốn có sự đột phá trong công việc.<br />- Nhanh nhẹn, nhạy bén trong công việc, năng động, có khả năng làm việc độc lập và theo nhóm<br />- Chịu được áp lực, chịu khó, trung thực, cẩn thận, có đạo đức tốt<br />- Gương mặt dễ nhìn, thân thiện, vui vẻ, giọng nói dễ nghe.<br />- Vi tính: thành thạo vi tính văn phòng.<br />- Có máy tính xách tay + Xe máy.<br />- Lợi thế: <br />+ Am hiểu thị trường <a href='https://www.timviecnhanh.com/viec-lam-bat-dong-san-c13.html' title='bất động sản' class='job-detail-autolink'>bất động sản</a> tại Việt Nam<br />+ Có kinh nghiệm trong ngành bất động sản, tư vấn tài chính, chứng khoán, thương mại<br />+ Kỹ năng phân tích và nghiên cứu thị trường.<br />- Sẵn sàng đào tạo các bạn chưa có kinh nghiệm chỉ cần các bạn sẵn sàng học hỏi vì có nhiều công việc thực tế cho các bạn rèn luyện bản thân.",
+    "qualifications": "Trung cấp",
+    "experienceRequirements": "Chưa có kinh nghiệm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CÔNG TY CP PHÁT TRIỂN ĐỊA ỐC VÀ ĐẦU TƯ BẾN THÀNH",
+      "value": "2617403"
+    },
+    "datePosted": "2019-03-07 16:29:11",
+    "validThrough": "2019-04-08 00:00:00",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CÔNG TY CP PHÁT TRIỂN ĐỊA ỐC VÀ ĐẦU TƯ BẾN THÀNH",
+      "sameAs": "https://www.timviecnhanh.com/cong-ty-cp-phat-trien-dia-oc-va-dau-tu-ben-thanh-tuyen-dung-2617403.html",
+      "logo": "https://cdn.timviecnhanh.com/asset/home/img/employer/5c89f87ef10d8_1552545918_140x140.png"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "30 Đường Bảy Hiền, Phường 11, Quận Tân Bình, Thành Phố Hồ Chí Minh, Việt Nam",
+        "addressLocality": "30 Đường Bảy Hiền, Phường 11, Quận Tân Bình, Thành Phố Hồ Chí Minh, Việt Nam",
+        "addressRegion": "Hồ Chí Minh",
+        "postalCode": "700000",
+        "addressCountry": "VN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": "25000000",
+      "maxValue": "29999999",
+      "unitText": "MONTH"
+    },
+    "occupationalCategory": [
+      "Kinh doanh",
+      "Bán hàng",
+      "Bất động sản"
+    ],
+    "url": "https://www.timviecnhanh.com/tuyen-nhan-vien-kinh-doanh-di-lam-ngay-ho-chi-minh-4339501.html"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Nhân Viên Kinh Doanh Cửa Cao Cấp (Amadoor)",
+    "description": "- Hiện nay để đáp ứng nhu cầu công việc, chúng tôi cần  8-10 bạn NVKD nam. <br />- Công việc của một NVKD đó là đi thị trường tích lũy khách hàng và <a href='https://www.timviecnhanh.com/viec-lam-cham-soc-khach-hang-c21.html' title='chăm sóc khách hàng' class='job-detail-autolink'>chăm sóc khách hàng</a> đã tích lũy.<br />- Hàng ngày sẽ có cuộc họp phòng vào lúc 8h sáng, (ăn bánh uống nước chè) và định hướng khách hàng, tổng kết ngày làm việc hôm trước với trưởng phòng. <br />- Sau đó các bạn sẽ bắt đầu công việc của mình.",
+    "jobBenefits": "- Bạn sẽ được <a href='https://www.timviecnhanh.com/viec-lam-giao-duc-dao-tao-thu-vien-c26.html' title='đào tạo' class='job-detail-autolink'>đào tạo</a> kỹ càng, cặn kẽ về sản phẩm, về nghành, về môi trường kinh doanh cũng như về sale<br />- Mức lương cứng hàng tháng bạn nhận được phụ thuộc vào chính bạn (sự chăm chỉ cũng như nỗ lực của bạn) <br />Lương cứng cao khởi điểm 5-7 triệu + % doanh số thương lương đảm bảo cao trên thị trường + thưởng ( thu nhập có thể lên tới 50 triệu +++)<br />-  Có % từng công trình<br />-  Được thưởng doanh số, tháng, quý, năm nếu đạt doanh số và các chỉ tiêu cty đặt ra<br />-  Được làm việc trong môi trường tốt, anh em mọi người hỗ trợ lẫn nhau và là môi trường bạn có thể phát triển bản thân được<br />- Được hưởng các chế độ xã hội nếu làm trên 1 năm và công ty thấy bạn có tiềm năng phát triển đảm nhiệm những trọng trách cao hơn<br />- Bạn sẽ được đào tạo bài bản các kiến thức về ngành, về sản phẩm, và về sales<br />- Một điểm khá đặc biệt đối với các NVKD của cty đó là lương hàng tháng của bạn thay đổi dựa trên năng lực làm việc, nếu bạn làm tốt thì bạn sẽ có lương cao và ngược lại (chưa nói đến thưởng)",
+    "skills": "- Bạn phải là một người đã trưởng thành (trong suy nghĩ cũng như trong hành động - như biết tự chủ động trong công việc, có tinh thần trách nhiệm với công việc, có tính tự giác cao không cần phải nhắc nhở nhiều, không ham chơi, lười biếng,.v....v)<br />-  Ưu tiên những bạn tự thấy mình là người có quyết tâm trong cuộc sống: Công việc gì cũng vậy, sẽ có lúc lên lúc xuống, lúc bổng lúc trầm, vì vậy chúng tôi cần những bạn có ý chí, quyết tâm cao làm được những gì mình vạch ra, không dễ từ bỏ mục tiêu<br />- Bạn phải là người thật thà: Trong nghành kinh doanh nhất là với những doanh nghiệp như chúng tôi thì chữ tín là số một vì vậy chúng tôi chỉ tuyển những bạn có đức tính thật thà (nghĩa là không gian dối-với bản thân mình cũng như với khách hàng, không chém gió nói một thành 10, không nói những gì mình không biết, ko hiểu...)<br />- Bạn phải có xe máy và không ngại di chuyển.<br />- Bạn có độ tuổi từ 18-35.",
+    "qualifications": "Trung cấp",
+    "experienceRequirements": "1 năm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Công ty Cổ Phần Đầu Tư Và Xây Dựng AMADOOR",
+      "value": "2343608"
+    },
+    "datePosted": "2019-03-18 13:04:50",
+    "validThrough": "2019-04-14 00:00:00",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Công ty Cổ Phần Đầu Tư Và Xây Dựng AMADOOR",
+      "sameAs": "https://www.timviecnhanh.com/cong-ty-co-phan-dau-tu-va-xay-dung-amadoor-tuyen-dung-2343608.html",
+      "logo": "https://cdn.timviecnhanh.com/asset/home/img/employer/570378ebd09c2_1459845355_140x140.png"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Số 8 ngõ 12 Khuất Duy Tiến - Thanh Xuân - Hà Nội",
+        "addressLocality": "Số 8 ngõ 12 Khuất Duy Tiến - Thanh Xuân - Hà Nội",
+        "addressRegion": "Hà Nội",
+        "postalCode": "100000",
+        "addressCountry": "VN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": "10000000",
+      "maxValue": "11999999",
+      "unitText": "MONTH"
+    },
+    "occupationalCategory": [
+      "Cơ khí/Kĩ thuật ứng dụng",
+      "Kinh doanh",
+      "Phát triển thị trường"
+    ],
+    "url": "https://www.timviecnhanh.com/tuyen-amadoor-nhan-vien-kinh-doanh-cua-cao-cap-di-lam-ngay-ha-noi-4344010.html"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Chuyên Viên Bán Hàng Qua Điện Thoại Thu Nhập Từ 30 - 50 Triệu / Tháng",
+    "description": "•\tGọi điện thoại giới thiệu và tư vấn sản phẩm cho Khách hàng theo Danh sách Khách hàng Công ty hỗ trợ.<br />•\tLập các kế hoạch, phương án tiếp cận, tìm kiếm khách hàng và khai thác nhu cầu Mua từ Khách hàng qua điện thoại, sau đó chuyển qua Phòng Kinh doanh..<br />•\tNâng cao kỹ năng tư vấn, giới thiệu sản phẩm, hình ảnh công ty đến khách hàng, đối tác một cách chuyên nghiệp.<br />•\tThường xuyên cập nhật thông tin thị trường <a href='https://www.timviecnhanh.com/viec-lam-bat-dong-san-c13.html' title='bất động sản' class='job-detail-autolink'>bất động sản</a>, nhanh chóng nắm bắt nhu cầu của khách hàng.<br />•\tCụ thể sẽ trao đổi kỹ trong phỏng vấn.",
+    "jobBenefits": "•\tĐến với công ty bạn sẽ được hưởng các chế độ hấp dẫn như:<br />•\tThu nhập (30 - 50 triệu/tháng) = Lương cơ bản (Từ 8 triệu đến 10 triệu/ tháng )+ Phụ cấp cơm trưa (800.000 đồng/tháng) + Hoa hồng (5 đến 10 triệu/ giao dịch thành công) + Thưởng nóng vượt chỉ tiêu.<br />•\tChính sách phúc lợi tốt: Ốm đau, hiếu hỉ, sinh nhật, thưởng lương tháng 13 và Lễ Tết, khám sức khỏe định kỳ cho nhân viên. <br />•\tMôi trường làm việc năng động, chuyên nghiệp, thân thiện và có cơ hội thăng tiến lên Trưởng phòng <a href='https://www.timviecnhanh.com/viec-lam-cham-soc-khach-hang-c21.html' title='chăm sóc khách hàng' class='job-detail-autolink'>Chăm sóc Khách hàng</a> ( Lương cơ bản 30 Triệu/ tháng).<br />•\tĐược Hỗ trợ Danh Sách Khách Hàng trị giá hơn 50 triệu / tháng.<br />•\tĐược đào tạo kỹ năng bán hàng qua điện thoại bởi Lãnh đạo Công ty.<br />•\tHỗ trợ may đồng phục cho nhân viên. Tham gia BHXH theo quy định Nhà nước.<br />•\tHoạt động ngoại khóa, company trip, team building và có cơ hội du lịch trong và ngoài nước hàng năm từ 3-4 lần: Nhật Bản, Singapore, Hồng Kông, Thái Lan...",
+    "skills": "•\tĐộ tuổi từ: 18 – 30 tuổi. Ưu tiên ứng viên có ngoại hình<br />•\tGiọng nói chuẩn, dễ nghe, thân thiện, nhiệt tình.<br />•\tMong muốn có thu nhập cao và phát triển bản thân.",
+    "qualifications": "Không yêu cầu",
+    "experienceRequirements": "Dưới 1 năm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CÔNG TY CP ĐẦU TƯ VIỆT HƯNG PHÁT",
+      "value": "2589706"
+    },
+    "datePosted": "2019-03-22 15:17:47",
+    "validThrough": "2019-04-18 00:00:00",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CÔNG TY CP ĐẦU TƯ VIỆT HƯNG PHÁT",
+      "sameAs": "https://www.timviecnhanh.com/cong-ty-cp-dau-tu-viet-hung-phat-tuyen-dung-2589706.html",
+      "logo": "https://cdn.timviecnhanh.com/asset/home/img/employer/591aa8c7a12f6_1494919367_140x140.png"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "429 Tô Hiến Thành, P.14, Q.10, TP.HCM",
+        "addressLocality": "429 Tô Hiến Thành, P.14, Q.10, TP.HCM",
+        "addressRegion": "Hồ Chí Minh",
+        "postalCode": "700000",
+        "addressCountry": "VN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": "10000000",
+      "maxValue": "11999999",
+      "unitText": "MONTH"
+    },
+    "occupationalCategory": [
+      "Bất động sản",
+      "Bán hàng",
+      "Chăm sóc khách hàng"
+    ],
+    "url": "https://www.timviecnhanh.com/tuyen-chuyen-vien-ban-hang-qua-dien-thoai-thu-nhap-cao-tu-30-50-trieu-thang-ho-chi-minh-4346416.html"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Nhân Viên Kinh Doanh (Lương Up To 30Tr)",
+    "description": "- Tư vấn cho khách hàng lựa chọn dịch vụ của công ty, đàm phán ký hợp đồng<br />- Quản lý, phát triển tệp khách hàng, tìm kiếm khách hàng tiềm năng.<br />- Thực hiện các chiến dịch truyền thông sự phân công của trưởng phòng.<br />- Thực hiện các chế độ báo cáo theo quy định công ty.",
+    "jobBenefits": "- Thu nhập: Lương cơ bản 5tr + Thưởng doanh số (thu nhập từ 10-30tr/tháng)<br />- Đầy đủ chế độ bảo hiểm theo Luật Lao động và Luật BHXH; <br />- Tham quan, <a href='https://www.timviecnhanh.com/viec-lam-du-lich-nha-hang-khach-san-c23.html' title='du lịch' class='job-detail-autolink'>du lịch</a>, nghỉ mát hàng năm;<br />- Các phúc lợi dành cho <a href='https://www.timviecnhanh.com/viec-lam-nhan-su-c40.html' title='nhân sự' class='job-detail-autolink'>nhân sự</a>: Thưởng 8/3, 20/10, thưởng lễ tết, phúc lợi cho nhân sự lập gia đình, có con <br />- Thưởng tháng lương thứ 13",
+    "skills": "- Trình độ: Tốt nghiệp trung cấp trở lên, sử dụng tốt tin học văn phòng : email, excel, lập báo cáo...<br />- Nhiệt tình, chăm chỉ, trung thực, nhanh nhẹn, có trách nhiệm và sáng tạo trong công việc.<br />- Kỹ năng giao tiếp tốt<br />- Kỹ năng đàm phán, thuyết phục tốt<br />- Kỹ năng lắng nghe, giải quyết vấn đề và chu đáo hỗ trợ khách hàng<br />- Đã có kinh nghiệm kinh doanh là 1 lợi thế.",
+    "qualifications": "Trung cấp",
+    "experienceRequirements": "Chưa có kinh nghiệm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Công ty Cổ phần Hp102 Việt Nam",
+      "value": "2991761"
+    },
+    "datePosted": "2019-03-26 16:57:20",
+    "validThrough": "2019-04-23 00:00:00",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Công ty Cổ phần Hp102 Việt Nam",
+      "sameAs": "https://www.timviecnhanh.com/cong-ty-co-phan-hp102-viet-nam-tuyen-dung-2991761.html",
+      "logo": "https://cdn.timviecnhanh.com/asset/home/img/employer/5c9b16bc2f95c_1553667772_140x140.png"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tầng 2,3 Biệt thự Liền kề Vinhomes đường Hàm Nghi, tp Hà Nội",
+        "addressLocality": "Tầng 2,3 Biệt thự Liền kề Vinhomes đường Hàm Nghi, tp Hà Nội",
+        "addressRegion": "Hà Nội",
+        "postalCode": "100000",
+        "addressCountry": "VN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": "10000000",
+      "maxValue": "11999999",
+      "unitText": "MONTH"
+    },
+    "occupationalCategory": [
+      "Kinh doanh",
+      "Bán hàng",
+      "Chăm sóc khách hàng"
+    ],
+    "url": "https://www.timviecnhanh.com/tuyen-nhan-vien-kinh-doanh-luong-up-to-30tr-ha-noi-4347905.html"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Nhân Viên Kinh Doanh Bds Nhà Phố Hoa Hồng 70-80%",
+    "description": "- Khai thác sản phẩm trên thị trường theo khu vực được giao.<br />- Tìm kiếm nguồn khách hàng có nhu cầu mua, thuê bất động sản, tìm hiểu nhu cầu của khách hàng và tư vấn và giới thiệu cho khách hàng thông tin và sản phẩm địa ốc phù hợp để có các giao dịch môi giới thành công.<br />- Thiết lập, mở rộng mối quan hệ các cá nhân, đối tác, chủ dự án, cộng tác viên để tìm kiếm nguồn bất động sản cần bán, cho thuê.<br />- Liên lạc với khách hàng thường xuyên để cập nhật thông tin bất động sản, tư vấn giá và và tạo mối quan hệ bền vững với khách hàng<br />- Quản lý giao dịch khách hàng, dẫn khách hàng đi xem bất động sản.<br />- Tham gia vào các hoạt động marketing của công ty quảng bá, xây dựng hình ảnh, thương hiệu của công ty nhằm mục đích mang lại cho khách hàng dịch vụ tốt nhất.<br />- Thời gian làm việc : 8h-17h chiều. Từ thứ 2 đến thứ 7 ( thứ 7 nghỉ nửa ngày ).",
+    "jobBenefits": "Lương căn bản 5 triệu + thưởng + chính sách + hoa hồng theo sản phẩm : từ 50-200 tr mỗi tháng.<br />- sẵn sàng cũng cấp laptop cho các bạn<br />- Làm việc trên phần mềm quản lý bất động sản landsoft<br />* Những_điều_đặc_biệt_tại_K HOMES<br />Thứ 1: Tại công ty chúng tôi bạn chẳng cần phải lăn tăn tìm nơi đăng tin, đăng bán nhà đất. CHẲNG CẦN ĐI TÌM CHI CHO MỆT. Hệ thống bán hàng tại khu vực trung tâm với những site đăng bán nhà với hàng ngàn từ khóa lên top Google. Mọi thứ công ty đã chuẩn bị cho bạn chiến đấu và <a href='https://www.timviecnhanh.com/viec-lam-cham-soc-khach-hang-c21.html' title='chăm sóc khách hàng' class='job-detail-autolink'>chăm sóc khách hàng</a>. Và những kỹ năng từ cơ bản đến nâng cao bạn cũng được chia sẻ<br />Thứ 2: Chúng tôi đã đào tạo hàng trăm <a href='https://www.timviecnhanh.com/viec-lam-kinh-doanh-c32.html' title='nhân viên kinh doanh' class='job-detail-autolink'>nhân viên kinh doanh</a> bất động sản đẳng cấp phân khúc địa ốc cao cấp trong hơn nhiều năm nay.<br />Thứ 3: Chúng tôi mong muốn các bạn thành công vì các bạn chính là nòng cốt tương lai của CÔNG TY! Chính vì thế mọi chính sách hỗ trợ, chính sách lương thưởng hoa hồng là TUYỆT VỜI và BỨC PHÁ không giới hạn bằng chính năng lực của các bạn!<br />Vậy bạn còn gì để do dự nữa mà ko nộp hồ sơ ?<br />Hãy cho bản thân mình một cơ hội để nhà tuyển dụng thấy được tiềm năng của bạn!<br />CHÚNG TÔI ĐANG CHỜ ĐỢI BẠN ĐẤY !",
+    "skills": "- Không yêu cầu kinh nghiệm, trình độ sẽ được tranning đào tạo, NHẬN THỰC TẬP SINH<br /> - Bạn chỉ cần cho chúng tôi một niềm tin, chúng tôi sẽ cho bạn cả sự nghiệp.<br />* Những Phương Tiện Cần Thiết Khi Đi Làm:<br />- Xe gắn máy để di chuyển + Smart phone để liên hệ với đông nghiệp và khách hàng.<br />- Giao tiếp tốt, có khả năng sale phone là một lợi thế.<br />- Một tinh thần đầy nhiệt huyết<br />- Một đức tính siêng năng và ham học hỏi<br />- Một ý chí làm giàu",
+    "qualifications": "Trung cấp",
+    "experienceRequirements": "Chưa có kinh nghiệm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "K-HOMES",
+      "value": "2999582"
+    },
+    "datePosted": "2019-03-11 08:00:17",
+    "validThrough": "2019-04-07 00:00:00",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "K-HOMES",
+      "sameAs": "https://www.timviecnhanh.com/cong-ty-tnhh-k-homes-tuyen-dung-2999582.html",
+      "logo": "https://cdn.timviecnhanh.com/asset/home/img/employer/5bd3bd6395e32_1540603235_140x140.png"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lầu 2 toà nhà Nhà Việt số 402 Nguyễn Kiệm quận Phú Nhuận",
+        "addressLocality": "Lầu 2 toà nhà Nhà Việt số 402 Nguyễn Kiệm quận Phú Nhuận",
+        "addressRegion": "Hồ Chí Minh",
+        "postalCode": "700000",
+        "addressCountry": "VN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": "50000000",
+      "maxValue": "199999999",
+      "unitText": "MONTH"
+    },
+    "occupationalCategory": [
+      "Kinh doanh",
+      "Bán hàng",
+      "Bất động sản"
+    ],
+    "url": "https://www.timviecnhanh.com/tuyen-nhan-vien-kinh-doanh-bds-nha-pho-hoa-hong-70-80-ho-chi-minh-4340470.html"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Nhân Viên Kinh Doanh (Không Kinh Nghiệm)",
+    "description": "Chúng tôi mong muốn gì ở ứng viên?<br />- Gặp gỡ tư vấn khách hàng cũ và mới về dự án cũ hoặc mới của Công ty<br />- Chăm sóc nguồn khách hàng sẵn có của Công ty .<br />- Tư vấn, bán hàng <a href='https://www.timviecnhanh.com/viec-lam-bat-dong-san-c13.html' title='bất động sản' class='job-detail-autolink'>Bất động sản</a> độc quyền tại Công ty",
+    "jobBenefits": "Chúng tôi luôn đặt quyền lợi của người lao động lên hàng đầu, bạn sẽ trả lương và phụ cấp cứng kể cả khi các bạn đang trong giai đoạn học việc và thử việc theo quy định của Luật Lao động. Các bạn muốn kiếm nhiều tiền. Các bạn muốn làm giàu cho chính các bạn<br />+ Lương cứng: 5 triệu/tháng KHÔNG ÁP DOANH SỐ + HOA HỒNG SAU THUẾ ĐẦU KHÁCH.<br />(Hoa hồng từ 3 - 5%/giá trị căn nhà - Hoa hồng/giá trị căn nhà của PHÙ ĐỔNG hiện đang cao nhất thị trường). <br />+ Cơ hội phát triển lên cấp quản lý nhanh và vững chắc. Chúng tôi thực hiện đào tạo, nâng cấp quản lý, Chuyên viên 1 năm 2 lần.<br />+ Được ĐÀO TẠO MIỄN PHÍ bằng Giáo án của Công ty, đảm bảo vững nghề trong vòng 3 tháng.<br />+ Được giao lưu, học hỏi những kinh nghiệm hay, những bài học thành công trong cuộc sống<br />+ Được tham gia các hoạt động thể thao, tâm linh, du lịch của công ty trong và ngoài nước",
+    "skills": "Chúng tôi không coi trọng bằng cấp, chúng tôi quan trọng hiệu năng làm việc, quyết tâm không bỏ lỡ nhân tài nên bạn chỉ cần:<br />- Có mong muốn trở thành người tài giỏi, làm giàu bằng đôi chân của mình.<br />- Có laptop, điện thoại, phương tiện chụp ảnh, xe máy cá nhân.<br />- Đặc biệt: <br />- Có chí hướng lớn lao cao thượng.<br />- Học tập luôn biết chuyên tâm ý chí.<br />- Phát triển bản thân luôn biết cố gắng vượt qua khắc khổ.<br />+ KHÔNG yêu cầu kinh nghiệm về <a href='https://www.timviecnhanh.com/viec-lam-bat-dong-san-c13.html' title='bất động sản' class='job-detail-autolink'>Bất động sản</a>.<br />+ KHÔNG giới hạn tuổi tác, trình độ chuyên môn.",
+    "qualifications": "Không yêu cầu",
+    "experienceRequirements": "Không yêu cầu kinh nghiệm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CÔNG TY CỔ PHẦN PHÙ ĐỔNG THĂNG LONG",
+      "value": "3021938"
+    },
+    "datePosted": "2019-03-23 08:22:20",
+    "validThrough": "2019-04-19 00:00:00",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CÔNG TY CỔ PHẦN PHÙ ĐỔNG THĂNG LONG",
+      "sameAs": "https://www.timviecnhanh.com/cong-ty-co-phan-phu-dong-thang-long-tuyen-dung-3021938.html",
+      "logo": "https://cdn.timviecnhanh.com/asset/home/img/kh_tvn_color-min.png"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Phạm Ngọc Thạch, Đống Đa, Hà Nội",
+        "addressLocality": "Phạm Ngọc Thạch, Đống Đa, Hà Nội",
+        "addressRegion": "Hà Nội",
+        "postalCode": "100000",
+        "addressCountry": "VN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": "15000000",
+      "maxValue": "19999999",
+      "unitText": "MONTH"
+    },
+    "occupationalCategory": [
+      "Kinh doanh",
+      "Bất động sản",
+      "Phát triển thị trường"
+    ],
+    "url": "https://www.timviecnhanh.com/tuyen-nhan-vien-kinh-doanh-di-lam-ngay-ha-noi-4346547.html"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Web Front-End (Html / Css, Bootstrap)",
+    "description": "•\tThiết kế giao diện cho các dự án phần mềm (Cộng đồng, Live Stream, ERP,…) trên nền tảng web, mobile, application<br />•\tNghiên cứu các công nghệ mới và áp dụng vào các dự án của công ty<br />•\tThời gian làm việc: thứ 2 - thứ 6<br />•\tNgày nghỉ: thứ 7, chủ nhật, Lễ, Tết, kết hôn, đau ốm, phép năm...<br />Chi tiết trao đổi khi phỏng vấn thêm",
+    "jobBenefits": "-      Lương Thỏa Thuận theo năng lực từ 12-30 triệu/ tháng, khởi điểm 12 triệu đối với kinh nghiệp 1 năm trở lên, xét cho vị trí <a href='https://www.timviecnhanh.com/viec-lam-quan-ly-dieu-hanh-c44.html' title='quản lý' class='job-detail-autolink'>quản lý</a> năng lực tốt<br />-      Thưởng KPI <br />-\tThưởng Tết<br />-\tThưởng Qúy<br />-\treview lương theo năng lực<br />-\tPantry, Team building<br />-\tBảo hiểm đóng trên tổng lương<br />-       Hỗ trợ ăn trưa<br />-\tMiễn phí gửi xe<br />-\t<a href='https://www.timviecnhanh.com/viec-lam-du-lich-nha-hang-khach-san-c23.html' title='du lịch' class='job-detail-autolink'>Du lịch</a> thường niên trong và ngoài nước",
+    "skills": "•\tKinh nghiệm: 1 năm trở lên<br />•\tĐộ tuổi: 22 - 30<br />•\tThành thạo HTML/CSS3, Responesive web, Bootstrap, Jquery<br />•\tCó kinh nghiệm và làm việc với Photoshop, Illustrator<br />•\tBiết Vue.js, AngularJs là lợi thế<br />•\tCó ít nhất 1 năm kinh nghiệm HTML/CSS3, Bootstrap, Responesive web<br />•\tLàm việc tốt trong môi trường teamwork cũng như độc lập, <a href='https://www.timviecnhanh.com/viec-lam-quan-ly-dieu-hanh-c44.html' title='quản lý' class='job-detail-autolink'>quản lý</a> deadline<br />•\tKhả năng tư duy tốt, chủ động trong công việc, có tinh thần trách nhiệm cao để hoàn thành công việc được giao",
+    "qualifications": "Không yêu cầu",
+    "experienceRequirements": "1 năm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CÔNG TY CỔ PHẦN NOPE GAME",
+      "value": "2939233"
+    },
+    "datePosted": "2019-03-18 17:47:22",
+    "validThrough": "2019-04-18 00:00:00",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CÔNG TY CỔ PHẦN NOPE GAME",
+      "sameAs": "https://www.timviecnhanh.com/cong-ty-co-phan-nope-game-tuyen-dung-2939233.html",
+      "logo": "https://cdn.timviecnhanh.com/asset/home/img/kh_tvn_color-min.png"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "125/2 Hòa Hưng, Phường 12,Quận 10, HCM",
+        "addressLocality": "125/2 Hòa Hưng, Phường 12,Quận 10, HCM",
+        "addressRegion": "Hồ Chí Minh",
+        "postalCode": "700000",
+        "addressCountry": "VN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": "25000000",
+      "maxValue": "29999999",
+      "unitText": "MONTH"
+    },
+    "occupationalCategory": [
+      "Công nghệ thông tin",
+      "Bưu chính viễn thông",
+      "Quản lý điều hành"
+    ],
+    "url": "https://www.timviecnhanh.com/tuyen-web-front-end-html-css-bootstrap-ho-chi-minh-4344273.html"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Chuyên Viên Tư Vấn BđS Cao Cấp Vinhomes – Vingroup - Mức Lương Trên 50 Triệu - [Vietstarland]",
+    "description": "*** Khi đến làm việc tại VIETSTARLAND bạn sẽ được đào tạo:<br />- Đào tạo tổng quan ngành nghề - sale <a href='https://www.timviecnhanh.com/viec-lam-bat-dong-san-c13.html' title='bất động sản' class='job-detail-autolink'>bất động sản</a> có gì, cần gì và được gì ?<br />- Quy trình bán một Bất Động Sản như thế nào? <br />- Chính sách bán hàng, quà tặng và vay vốn ngân hàng khi mua nhà.<br />- Ứng dụng Marketing tìm kiếm khách hàng, cách gọi telesales.<br />- Đào tạo và hoàn thiện kỹ năng cần có để bán Bất động sản (giao tiếp, tư vấn, thuyết phục, nắm bắt tâm lý khách hàng …)<br />- Hướng dẫn về phong thủy, nội thất, pháp lý trong Bất Động Sản.<br />- Phân tích Chuyên sâu dự án – ưu nhược điểm từng căn hộ.<br />- Thực hành tham quan dẫn khách tại dự án – nhà mẫu đang bán.<br />- Liên hệ tư vấn hẹn gặp khách hàng – đặc biệt là cách chốt deal.<br />- Xây dựng kế hoạch kinh doanh cá nhân độc lập và theo nhóm hiệu quả cao.<br />Chúng tôi sẽ đào tạo bạn trở thành chuyên gia trong lĩnh vực BĐS dù bạn chưa có kinh nghiệm, hay chỉ mới ra trường.",
+    "jobBenefits": "***TẠI SAO BẠN NÊN CHỌN VIETSTARLAND:<br />- Trở thành nhân viên Vietstarland, bạn sẽ có cơ hội được:<br />- Anh chị được học Giáo án đào tạo Môi giới <a href='https://www.timviecnhanh.com/viec-lam-bat-dong-san-c13.html' title='bất động sản' class='job-detail-autolink'>Bất động sản</a> của Công ty, do những người thành công nhất trong nghề Bất động Sản, được học kiến thức MIỄN PHÍ mà không trường lớp nào dạy. Được chỉ tay, bảo việc, học từ những thứ cơ bản nhất, tới những kiến thức Môi giới đỉnh cao của người lâu năm trong nghề.<br />- Hãy nhấc điện thoại và liên lạc với chúng tôi để có cuộc hẹn trao đổi 15 – 30 phút, để tự tạo ra cơ hội cho cuộc đời mình!<br />- Lương cơ bản: 3 - 6 tr / tháng + Hoa hồng cao giá trị nhà bán, dù 1 tỷ hay 10 tỷ, tiền nhận về ngay – Chúng tôi là đơn vị duy nhất trong ngành BĐS đảm bảo được điều này.<br />- Thu nhập 30 triệu / tháng là mức bình thường của một Môi giới Bất động sản mới vào nghề.<br />- Đảm bảo cuộc sống tối thiểu tại Thủ đô, tiến tới làm giàu chính đáng<br />- Sống nhờ lương nhưng làm giàu từ thu nhập<br />- Môi trường làm việc tạo điều kiện phát triển tối ưu khả năng của mỗi thành viên. <br />- Cơ hội giao lưu với các sàn Bất động sản khác, các giáo sư, tiến sĩ đầu ngành, các thành viên có địa vị xã hội, ưu tú trên toàn Hà Nội. Được đào tạo bài bản để trở thành một nhà Môi giới Bất Động Sản chuyên nghiệp, từ ngơ ngác tới đỉnh cao.<br />- Các chế độ phúc lợi: Thưởng, Nghỉ lễ, Tết, giải trí cuối tuần, bóng đá, bơi lội, du lịch cùng toàn Công ty miễn phí.",
+    "skills": "*** CƠ HỘI LÀM VIỆC CÙNG VIETSTARLAND RA SAO:<br />- Muốn kiếm nhiều tiền thì phải đến nơi có nhiều tiền, mọi dòng tiền lớn đều chảy qua <a href='https://www.timviecnhanh.com/viec-lam-bat-dong-san-c13.html' title='bất động sản' class='job-detail-autolink'>bất động sản</a>.<br />- Môi giới Bất động sản được làm việc với khối tài sản 5 tỷ, 10 tỷ hay 100 tỷ, làm việc với người đầu có sỏi, có tầm của thiên hạ. Hàng ngày, hàng giờ làm việc với những con người như vậy, anh / chị có muốn? có dám?<br />- Đã tốt nghiệp Cao đẳng trở lên.<br />- Đam mê kinh doanh, ham học hỏi, cầu tiến.<br />- Phương tiện làm việc và di chuyển: Xe máy, điện thoại, laptop.<br />- KHÔNG yêu cầu giới tính, TUỔI 21 – 40<br />- KHÔNG yêu cầu kinh nghiệm về Bất động sản<br />- DÁM THỬ - DÁM ĐÁNH ĐỔI – DÁM LÀM – DÁM SAI – DÁM HỌC CÁI MỚI.<br />- Làm Việc Toàn Thời Gian Với Bất Động Sản.<br />- Ưu tiên các Ứng viên có kinh nghiệm về trường đời, về Bất động sản và ngành nghề kinh doanh. <br />Các Ứng viên chưa có hay đã có kinh nghiệm về Bất động sản đều sẽ được đào tạo chuyên sâu về BĐS tại VIETSTARLAND.",
+    "qualifications": "Trung cấp",
+    "experienceRequirements": "Không yêu cầu kinh nghiệm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "DAT VIET STAR D&B CO., LTD - [ VIETSTARLAND] ",
+      "value": "3012672"
+    },
+    "datePosted": "2019-03-12 08:49:53",
+    "validThrough": "2019-04-08 00:00:00",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "DAT VIET STAR D&B CO., LTD - [ VIETSTARLAND] ",
+      "sameAs": "https://www.timviecnhanh.com/dat-viet-star-d-b-co-ltd-vietstarland-tuyen-dung-3012672.html",
+      "logo": "https://cdn.timviecnhanh.com/asset/home/img/employer/5c53cbe96b3c6_1548995561_140x140.png"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "CS1: VP Vietstarland, Tầng 6, Tòa ZenTower, 12 Khuất Duy Tiến, Thanh Xuân, Hà Nội; CS2: Tầng 1, TTGD BĐS Vinhomes Riverside, TTTM Vincom Long Biên Plaza, Hà Nội; CS3: VP Vietstarland tầng 10 toà nhà Viettel, số 386 đại lộ Lê Lợi, TP Thanh Hóa",
+        "addressLocality": "CS1: VP Vietstarland, Tầng 6, Tòa ZenTower, 12 Khuất Duy Tiến, Thanh Xuân, Hà Nội; CS2: Tầng 1, TTGD BĐS Vinhomes Riverside, TTTM Vincom Long Biên Plaza, Hà Nội; CS3: VP Vietstarland tầng 10 toà nhà Viettel, số 386 đại lộ Lê Lợi, TP Thanh Hóa",
+        "addressRegion": "Hà Nội",
+        "postalCode": "100000",
+        "addressCountry": "VN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": "50000000",
+      "maxValue": "199999999",
+      "unitText": "MONTH"
+    },
+    "occupationalCategory": [
+      "Bất động sản",
+      "Kinh doanh",
+      "Bán hàng"
+    ],
+    "url": "https://www.timviecnhanh.com/tuyen-vietstarland-chuyen-vien-tu-van-bds-cao-cap-vinhomes-vingroup-muc-luong-tren-50-trieu-ha-noi-4341063.html"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Trưởng Phòng Kinh Doanh (Lương 30-50Tr)",
+    "description": "- Tổ chức thu thập, phân tích, đánh giá thông tin thị trường, nguồn lực nhân viên<br />- Lập kế hoạch kinh doanh của phòng theo kế hoạch của công ty<br />- Phê duyệt phương án kinh doanh của nhân viên<br />- Tổ chức các hoạt động kinh doanh đảm bảo doanh số theo kế hoạch<br />- Tuyển dụng và đào tạo nhân viên<br />- Đánh giá nhân viên dưới quyền",
+    "jobBenefits": "- Thu nhập: Lương cơ bản + thưởng doanh số (thu nhập 30-50tr/tháng) trao đổi trực tiếp khi phỏng vấn. <br />- Đầy đủ chế độ bảo hiểm theo luật Lao động và luật BHXH; <br />- Tham quan, du lịch, nghỉ mát hàng năm;<br />- Các phúc lợi dành cho <a href='https://www.timviecnhanh.com/viec-lam-nhan-su-c40.html' title='nhân sự' class='job-detail-autolink'>nhân sự</a>: Thưởng 8/3, 20/10, thưởng lễ tết, phúc lợi cho nhân sự lập gia đình, có con <br />- Thưởng tháng lương thứ 13<br />- Chế độ thưởng vào tất cả các dịp lễ tết, thưởng hoàn thành xuất sắc công việc được giao<br />- Chế độ phúc lợi khác theo quy định của công ty.",
+    "skills": "- Tốt nghiệp đại học trở lên. <br />- Có ít nhất 1 năm kinh nghiệm làm quản lý kinh doanh, <a href='https://www.timviecnhanh.com/viec-lam-nhan-su-c40.html' title='nhân sự' class='job-detail-autolink'>nhân sự</a> hoặc tương đương<br />- Có kiến thức sâu rộng và năng lực thực tiễn về quản trị và điều hành.<br />- Ưu tiên người đã có thời gian hoạt động ở lĩnh vực quảng cáo, truyền thông, giáo dục, <a href='https://www.timviecnhanh.com/viec-lam-tai-chinh-ke-toan-kiem-toan-c47.html' title='tài chính' class='job-detail-autolink'>tài chính</a>, kinh doanh …",
+    "qualifications": "Đại học",
+    "experienceRequirements": "1 năm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Công ty Cổ phần Hp102 Việt Nam",
+      "value": "2991761"
+    },
+    "datePosted": "2019-03-26 17:00:32",
+    "validThrough": "2019-04-23 00:00:00",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Công ty Cổ phần Hp102 Việt Nam",
+      "sameAs": "https://www.timviecnhanh.com/cong-ty-co-phan-hp102-viet-nam-tuyen-dung-2991761.html",
+      "logo": "https://cdn.timviecnhanh.com/asset/home/img/employer/5c9b16bc2f95c_1553667772_140x140.png"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tầng 2,3 Biệt thự Liền kề Vinhomes đường Hàm Nghi, tp Hà Nội",
+        "addressLocality": "Tầng 2,3 Biệt thự Liền kề Vinhomes đường Hàm Nghi, tp Hà Nội",
+        "addressRegion": "Hà Nội",
+        "postalCode": "100000",
+        "addressCountry": "VN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": "40000000",
+      "maxValue": "49999999",
+      "unitText": "MONTH"
+    },
+    "occupationalCategory": [
+      "Kinh doanh",
+      "Bán hàng",
+      "Chăm sóc khách hàng"
+    ],
+    "url": "https://www.timviecnhanh.com/tuyen-truong-phong-kinh-doanh-luong-30-50tr-ha-noi-4347907.html"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Nhân Viên Nữ Kinh Doanh Nội Thất - Không Yêu Cầu Kinh Nghiệm",
+    "description": "- Tư vấn các khách hàng của công ty giao xuống.<br />- Tư vấn, liên hệ khách hàng theo data có sẵn công ty giao xuống.<br />- Tìm kiếm và khai thác khách hàng tiềm năng.<br />- Tư vấn, giới thiệu tới khách hàng về các sản phẩm công ty đã và đang thi công. (Căn hộ, nhà phố, villas… )<br />- <a href='https://www.timviecnhanh.com/viec-lam-cham-soc-khach-hang-c21.html' title='chăm sóc khách hàng' class='job-detail-autolink'>Chăm sóc khách hàng</a> sau <a href='https://www.timviecnhanh.com/viec-lam-ban-hang-c10.html' title='bán hàng' class='job-detail-autolink'>bán hàng</a>.<br /><br />- Thời gian làm việc : Thứ 2 - sáng thứ 7 làm từ 8h30 đến 17h30",
+    "jobBenefits": "- Lương cơ bản từ 4.800.000 đến 7.000.000 + hoa hồng + thưởng.<br />- Thu nhập từ 15.000.000 đến 20.000.000 <br />- Hoa hồng theo công trình (từ 20 triệu/công trình).<br />- Cơ hội phát triển nghề nghiệp, thăng tiến lên cấp trưởng phòng, quản lý…<br />- Ký kết HĐLĐ theo quy định của Công ty.<br />- Tham gia BHXH, BHYT, BHTN đầy đủ, Du lịch hằng năm.<br />- Chương trình Du lịch hàng năm.<br />- Các hoạt động tập thể được Công ty tài trợ: Teambuilding, Bóng đá…<br /><br />* THƯỞNG <br />- Thưởng tùy chương trình từng công trình, tháng, quý, năm…<br />- Thưởng các ngày lễ, TẾT trong năm.<br />- Quà mừng sinh nhật, lễ, tết, giải thưởng hoạt động thể thao – giải trí công ty,…",
+    "skills": "- Nữ từ 20 đến 35 tuổi <br />- Ứng viên nhɑnh nhẹn, tự tin, có khả năng làm việc độc lập.<br />- Kỹ năng: giɑo tiếp tốt.<br />- Không yêu cầu kinh nghiệm<br />- Ứng viên Biết Ngoại ngữ là 1 Lợi thế.<br />- Tinh thần bền bỉ và nghiêm túc với công việc.<br />- Có thể gắn bó lâu dài với công ty.",
+    "qualifications": "Trung cấp",
+    "experienceRequirements": "Chưa có kinh nghiệm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Hana Home - Công Ty TNHH Đầu Tư Kinh Doanh Bất Động Sản và Trang Trí Nội Thất Hana Home",
+      "value": "3012143"
+    },
+    "datePosted": "2019-03-26 09:45:22",
+    "validThrough": "2019-04-22 00:00:00",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Hana Home - Công Ty TNHH Đầu Tư Kinh Doanh Bất Động Sản và Trang Trí Nội Thất Hana Home",
+      "sameAs": "https://www.timviecnhanh.com/cong-ty-tnhh-dau-tu-kinh-doanh-bat-dong-san-va-trang-tri-noi-that-hana-home-tuyen-dung-3012143.html",
+      "logo": "https://cdn.timviecnhanh.com/asset/home/img/employer/5c46ddfad1bff_1548148218_140x140.jpg"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1453 Nguyễn Văn Linh, Khu phố Mỹ Toàn 1, Phú Mỹ Hưng, P. Tân Phong, Quận 7, Tp.HCM",
+        "addressLocality": "1453 Nguyễn Văn Linh, Khu phố Mỹ Toàn 1, Phú Mỹ Hưng, P. Tân Phong, Quận 7, Tp.HCM",
+        "addressRegion": "Hồ Chí Minh",
+        "postalCode": "700000",
+        "addressCountry": "VN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": "12000000",
+      "maxValue": "14999999",
+      "unitText": "MONTH"
+    },
+    "occupationalCategory": [
+      "Kinh doanh",
+      "Kiến trúc/Nội thất",
+      "Sinh viên/Mới tốt nghiệp/Thực tập"
+    ],
+    "url": "https://www.timviecnhanh.com/tuyen-nhan-vien-kinh-doanh-noi-that-di-lam-ngay-ho-chi-minh-4347521.html"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Nhân Viên Văn Phòng (Anh Ngữ Á Châu)",
+    "description": "- Tư vấn, giải đáp các thông tin liên quan đến các chương trình đào tạo tại Hệ thống Anh Ngữ Á Châu<br />- Chăm sóc Học viên mới, duy trì và phát triển đội ngũ Học viên cũ <br />- Cập nhật và <a href='https://www.timviecnhanh.com/viec-lam-quan-ly-dieu-hanh-c44.html' title='quản lý' class='job-detail-autolink'>quản lý</a> thông tin và chăm sóc Học viên. Theo dõi chất lượng học tập của Học viên.<br />- Các công việc khác tại văn phòng… (Sẽ trao đổi cụ thể hơn sau khi trúng tuyển)<br />ĐỊA ĐIỂM LÀM VIỆC VÀ NỘP HỐ SƠ:<br />1/. 468 Thống Nhất, Phường 16, <a href='https://www.timviecnhanh.com/tim-viec-lam/quan-go-vap-thanh-pho-ho-chi-minh' title='quận Gò Vấp' class='job-detail-autolink'>quận Gò Vấp</a>, Tp. HCM,<br />1/ 664 Thống Nhất, P.15, Q.Gò Vấp <br />2/. 54 Tô Ngọc Vân, P.Thạnh Xuân, Q.12 <br />3/. 18 Bùi Công Trừng, Xã Đông Thạnh, Huyện Hóc Môn<br />4/. 188 Gò Xoài, P.Bình Hưng Hòa A, Q.Bình Tân <br />5/. 119 Lê Văn Khương, Xã Đông Thạnh, Huyện Hóc Môn<br />6/. 34/4C Phan Văn Hớn, Xã Bà Điểm, Huyện Hóc Môn <br />7/. 59 Đặng Thúc Vịnh, Xã Đông Thạnh, Huyện Hóc Môn <br />8/. 109 Liên khu 4-5, P.Bình Hưng Hòa B, Q.Bình Tân  <br />9/.  24A Phan Văn Hớn, Xã Xuân Thới Thượng, Huyện Hóc Môn <br />10/. 91/13 Lê Lợi, Xã Tân Thới Nhì, Huyện Hóc Môn <br />11/. 3/6A  Lê Văn Khương, Đông Thạnh, Hóc Môn <br />12/. 385 Tân Sơn Nhì, P.Tân Thành, Q.Tân Phú <br />13/. 2/2 Đặng Thúc Vịnh, Đông Thạnh, Hóc Môn <br />14/145/8 Đỗ Xuân Hợp, P. Phước Long B, Q. 9 <br />15/ 159-60B Quốc lộ 22, Xã Bà Điểm, Huyện Hóc Môn <br />16/ Số E7 Quốc lộ 50, Xã Đa Phước, huyện Bình Chánh <br />17/127 Hùng Vương, Thị trấn Hòa Thành, Tây Ninh <br />18/ Đường DT4, Thị trấn Chợ Lầu, Huyện Bắc Bình, Bình Thuận<br />19/ 50 Nguyễn Công Trứ, P.1, Thành phố Vị Thanh, Hậu Giang <br />20/ 165-167 đường số 3, Khu dân cư Nam Hùng Vương, P.An Lạc, Q.Bình Tân <br />21/ Nhà 11/2 đường số 10, P.Bình Thuận, Q.7 <br />22/ 2028 Huỳnh Tấn Phát, Thị trấn Nhà Bè, Huyện Nhà Bè <br />23/ 205/11 Khu Phố 2, P. Trảng Dài, Biên Hòa, Đồng Nai <br />24/ Lô A20-21 Khu Thương Mại Hội Phú, P. Phù Đổng, TP. Pleiku, Tỉnh Gia Lai - Tel: <br />25/ Số 468, Thống Nhất, Phường 16, Quận Gò Vâp, Tp HCM",
+    "jobBenefits": "- Được đào tạo và training trong môi trường quốc tế<br />- Mức lương 5-7 triệu, có thể cao hơn, được thỏa thuận theo năng lực của ứng viên<br />- Được hưởng đầy đủ quyền lợi theo quy định Nhà nước và công ty<br />- Thưởng theo lợi nhuận, được thường xuyên đào tạo chuyên nghiệp trong hệ thống và tham dự các kỳ huấn luyện của quốc tế",
+    "skills": "- Yêu cầu ngoại hình khá.<br />- Có khả năng giao tiếp tiếng Anh, nhanh nhẹn, chủ động trong công việc, yêu thích làm việc trong môi trường quốc tế. <br />- Sử dụng thành thạo tin học văn phòng (Word, Excel.....)<br />- Cẩn thận, chu đáo, nhanh nhẹn, chịu được áp lực công việc.<br />Chú ý: Ứng cử viên ghi rõ vị trí và địa điểm chi nhánh mình mong muốn làm việc trong CV. H",
+    "qualifications": "Trung cấp",
+    "experienceRequirements": "Chưa có kinh nghiệm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "HỆ THỐNG ANH NGỮ Á CHÂU - CÔNG TY TNHH NGOẠI NGỮ QUỐC TẾ Á CHÂU",
+      "value": "2933662"
+    },
+    "datePosted": "2019-03-27 10:22:16",
+    "validThrough": "2019-04-02 00:00:00",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "HỆ THỐNG ANH NGỮ Á CHÂU - CÔNG TY TNHH NGOẠI NGỮ QUỐC TẾ Á CHÂU",
+      "sameAs": "https://www.timviecnhanh.com/he-thong-anh-ngu-a-chau-cong-ty-tnhh-ngoai-ngu-quoc-te-a-chau-tuyen-dung-2933662.html",
+      "logo": "https://cdn.timviecnhanh.com/asset/home/img/employer/5a95f25809705_1519776344_140x140.png"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "664(Số củ 506) Thống Nhất, P.15, Q. Gò Vấp",
+        "addressLocality": "664(Số củ 506) Thống Nhất, P.15, Q. Gò Vấp",
+        "addressRegion": "Hồ Chí Minh",
+        "postalCode": "700000",
+        "addressCountry": "VN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": "5000000",
+      "maxValue": "6999999",
+      "unitText": "MONTH"
+    },
+    "occupationalCategory": [
+      "Hành chính/Thư ký/Trợ lý"
+    ],
+    "url": "https://www.timviecnhanh.com/tuyen-nhan-vien-van-phong-anh-ngu-a-chau-ho-chi-minh-4348119.html"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Nhân Nhân Viên Kinh Doanh Thu Nhập Hơn 20 Triệu",
+    "description": "- Liên hệ với khách hàng theo danh sách sẵn có để tìm hiểu nhu cầu nguyện vọng của khách hàng.<br />- Tiếp nhận và xử lý thông tin, ý kiến góp ý, giải đáp thắc mắc của khách hàng qua internet / điện thoại.<br />- Chuyển thông tin nhận được cho những bộ phận có trách nhiệm giải quyết, đồng thời theo dõi kết quả của quá trình đó cho đến khi hoàn tất.<br />- Triển khai công việc tìm kiếm khách hàng.<br />- Trau dồi kỹ năng, cập nhật thường xuyên những thông tin mới nhất về thị trường nhà ở, luật và các quy định mới ảnh hưởng hoặc liên quan đến lĩnh vực <a href='https://www.timviecnhanh.com/viec-lam-bat-dong-san-c13.html' title='bất động sản' class='job-detail-autolink'>bất động sản</a>.",
+    "jobBenefits": "QUYỀN LỢI ĐƯỢC HƯỞNG- Thu nhập : Bao gồm lương cố định + hỗ trợ và hoa hồng.<br />- Lương cố định : 5.000.000đ / tháng<br />- Hỗ trợ: 3.000.000đ / tháng<br />- Hoa hồng : 45-60% doanh số (tương đương 20-30tr / hợp đồng)<br />- Đ/C : Số 72 , đường 8 , Tổ 105, KP7, Phường Hiệp Thành , Tp. TDM , Bình Dương.<br />- Đào tạo phương pháp <a href='https://www.timviecnhanh.com/viec-lam-cham-soc-khach-hang-c21.html' title='chăm sóc khách hàng' class='job-detail-autolink'>chăm sóc khách hàng</a> bài bản.<br />- Phát triển nghề nghiệp trong môi trường chuyên nghiệp, năng động và có sự tương trợ lẫn nhau giữa các đồng nghiệp và các cấp quản lý.<br />- Cơ hội tiếp cận với phần mềm chăm sóc khách hàng chuyên nghiệp hàng đầu.<br />- Lương cơ bản và lương doanh số dựa trên kết quả bán hàng của mỗi cá nhân.<br />- Quyền lợi lao động tốt: hợp đồng dài hạn, bảo hiểm xã hội, bảo hiểm khám chữa bệnh tiêu chuẩn cao, ngày nghỉ phép năm, lương tháng thứ 13.<br />*** Đào tạo miễn phí các khóa học Inbound Sales online.<br />*** Được tham gia các buổi trainning, huấn luyện bởi các lãnh đạo Công ty, chuyên gia Bất Động sản, chuyên gia Maketing nhiều kinh nghiệm.<br />*** Cơ hội thăng tiến sau 01 năm làm việc.",
+    "skills": "- Không yêu cầu kinh nghiệm<br />- Tốt nghiệp trung cấp trở lên / sinh viên mới ra trường (đang đợi cấp bằng)<br />- Giọng nói rõ ràng, dễ nghe.<br />- Kỹ năng giao tốt.<br />- Có ngoại hình là 1 lợi thế.<br />- Năng động, chăm chỉ và có chí cầu tiến.<br />- Thích nghi nhanh với môi trường, chịu được áp lực về doanh số bán hàng.<br />- Đam mê, yêu thích, mong muốn trải nghiệm với lĩnh vực Bất Động Sản.<br />Đặc biệt: gọi điện phỏng vấn nhận việc ngay, khi đi phỏng vấn không cần mang theo hồ sơ. (sau khi được nhận sẽ bổ sung sau).",
+    "qualifications": "Trung cấp",
+    "experienceRequirements": "Chưa có kinh nghiệm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Công Ty CP Phát Triển Địa Ốc Á Châu",
+      "value": "2876044"
+    },
+    "datePosted": "2019-03-20 16:45:32",
+    "validThrough": "2019-04-17 00:00:00",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Công Ty CP Phát Triển Địa Ốc Á Châu",
+      "sameAs": "https://www.timviecnhanh.com/cong-ty-cp-phat-trien-dia-oc-a-chau-tuyen-dung-2876044.html",
+      "logo": "https://cdn.timviecnhanh.com/asset/home/img/employer/5c860ee68ff6a_1552289510_140x140.jpg"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Số nhà 72, Đường số 8, Tổ 105, Khu 7, Phường Hiệp Thành, Thành phố Thủ Dầu Một, Tỉnh Bình Dương, Việt Nam",
+        "addressLocality": "Số nhà 72, Đường số 8, Tổ 105, Khu 7, Phường Hiệp Thành, Thành phố Thủ Dầu Một, Tỉnh Bình Dương, Việt Nam",
+        "addressRegion": "Bình Dương",
+        "postalCode": "590000",
+        "addressCountry": "VN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": "25000000",
+      "maxValue": "29999999",
+      "unitText": "MONTH"
+    },
+    "occupationalCategory": [
+      "Kinh doanh",
+      "Bất động sản",
+      "Phát triển thị trường"
+    ],
+    "url": "https://www.timviecnhanh.com/tuyen-nhan-nhan-vien-kinh-doanh-thu-nhap-20-trieu-binh-duong-4345369.html"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Web Back-End (Asp.Net Mvc, Php)",
+    "description": "•\tLập trình phát triển các dự án phần mềm trên nền tảng web như cộng đồng game, diễn đàn, facebook ads, payment, account…<br />•\tTham gia đầy đủ vào quy trình của dự án<br />•\tNghiên cứu các công nghệ mới và áp dụng vào các dự án của công ty<br />•\tThời gian làm việc: thứ 2 - thứ 6<br />•\tNgày nghỉ: thứ 7, chủ nhật, Lễ, Tết, kết hôn, đau ốm, phép năm...<br />chi tiết trao đổi cụ thể khi phỏng vấn",
+    "jobBenefits": "-      Lương Thỏa Thuận theo năng lực từ 12-30 triệu/ tháng, khởi điểm 12 triệu đối với kinh nghiệp 1 năm trở lên, xét cho vị trí <a href='https://www.timviecnhanh.com/viec-lam-quan-ly-dieu-hanh-c44.html' title='quản lý' class='job-detail-autolink'>quản lý</a> năng lực tốt<br />-      Thưởng KPI <br />-\tThưởng Tết<br />-\tThưởng Qúy<br />-\tReview lương theo năng lực<br />-\tPantry, Team building<br />-\tBảo hiểm đóng trên tổng lương<br />-       Hỗ trợ ăn trưa<br />-\tMiễn phí gửi xe<br />-\t<a href='https://www.timviecnhanh.com/viec-lam-du-lich-nha-hang-khach-san-c23.html' title='du lịch' class='job-detail-autolink'>Du lịch</a> thường niên trong và ngoài nước",
+    "skills": "•\tThành thạo ASP.NET MVC 5+ / SQL Server 2016+ hoặc PHP/MySQL<br />•\tCó kinh nghiệm và làm việc tốt với Jquery, Bootstrap<br />•\tBiết Vue hoặc AngularJs là lợi thế<br />•\tLàm việc tốt trong môi trường teamwork cũng như độc lập, <a href='https://www.timviecnhanh.com/viec-lam-quan-ly-dieu-hanh-c44.html' title='quản lý' class='job-detail-autolink'>quản lý</a> deadline<br />•\tKhả năng tư duy tốt, chủ động trong công việc, có tinh thần trách nhiệm cao để hoàn thành công việc được giao",
+    "qualifications": "Không yêu cầu",
+    "experienceRequirements": "1 năm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CÔNG TY CỔ PHẦN NOPE GAME",
+      "value": "2939233"
+    },
+    "datePosted": "2019-03-18 17:54:54",
+    "validThrough": "2019-04-18 00:00:00",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CÔNG TY CỔ PHẦN NOPE GAME",
+      "sameAs": "https://www.timviecnhanh.com/cong-ty-co-phan-nope-game-tuyen-dung-2939233.html",
+      "logo": "https://cdn.timviecnhanh.com/asset/home/img/kh_tvn_color-min.png"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "125/2 Hòa Hưng, Phường 12,Quận 10, HCM",
+        "addressLocality": "125/2 Hòa Hưng, Phường 12,Quận 10, HCM",
+        "addressRegion": "Hồ Chí Minh",
+        "postalCode": "700000",
+        "addressCountry": "VN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": "25000000",
+      "maxValue": "29999999",
+      "unitText": "MONTH"
+    },
+    "occupationalCategory": [
+      "Công nghệ thông tin",
+      "Bưu chính viễn thông"
+    ],
+    "url": "https://www.timviecnhanh.com/tuyen-web-back-end-asp-net-mvc-php-ho-chi-minh-4344278.html"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Nhân Viên Kinh Doanh BđS - Lương Cứng 5Tr+Hh 40% Ds",
+    "description": "- Tìm Kiếm Tư vấn cho khách hàng có nhu cầu mua căn hộ chung cư, dự án, liền kề, biệt thự, dự án công ty triển khai.<br />- Khai thác, tìm kiếm khách hàng và mở rộng thị trường bên lĩnh vực BĐS.<br />- Xây dựng chiến lược, kế hoạch phát triển hệ thống khách hàng của cá nhân, nhóm.<br />- Tham gia trực tiếp tìm kiếm, tư vấn, hỗ trợ, <a href='https://www.timviecnhanh.com/viec-lam-cham-soc-khach-hang-c21.html' title='chăm sóc khách hàng' class='job-detail-autolink'>chăm sóc khách hàng</a> về thông tin sản phẩm bất động sản của công ty.<br />- Cập nhật thông tin thị trường bất động sản, nhanh chóng nắm bắt nhu cầu của khách hàng…<br /><br />- ĐỊA ĐIỂM LÀM VIỆC TRỌN 1 TRONG 2 ĐỊA ĐIỂM NHƯ SAU:<br />- VP1: Tòa Nhà No 12 - 3 Khu Đô Thị Sài Đồng, Q, Long Biên bán các dự án tại Long Biên.<br />- VP2: Toà Sunshine garden Cạnh Times City. quận Hai bà trưng",
+    "jobBenefits": "- Thu nhập hấp dẫn bao gồm :LƯƠNG CĂN BẢN 5 Tr + PHỤ CẤP + HOA HỒNG +THƯỞNG NÓNG <br />(Note: Một nhân viên làm việc tốt ở ĐỊA ỐC HÀ NỘI thu nhập Từ 15 - 50.000.000 / tháng)<br />- Lương cơ bản: từ 5 triệu - 9 triệu / tháng + Hoa hồng từ 15-50Tr / 1 Sản phẩm + Thưởng nóng<br />- HOA HỒNG : 35-40% trên tổng doanh số<br />- Hoa hồng trong phân khúc Bất động sản (từ 15, 20, 50, triệu đồng) .<br />- Thưởng nóng hấp dẫn trên mỗi giao dịch.<br />- Môi Trường làm việc trẻ trung, hiện đại, năng động và chuyên nghiệp;<br />- Được hỗ trợ tiền truyền thông quảng cáo, làm baner miến phí.<br />- Đóng các khoản BHXH, BHYT, BHTN cho người lao động theo quy định .<br />- Nghỉ lễ, tết, du lịch, dã ngoại...hàng năm<br />- Lương Cứng 3 mức gồm (5Tr, 6 Tr, 9 Triệu) + Hoa Hồng + Thưởng Cao.<br />- Chưa có kinh nghiệm sẽ được đào tạo chuyên môn miễn phí.",
+    "skills": "- Tốt nghiệp Trung cấp trở lên.<br />- Sinh viên mới ra trường hoặc ra trường chưa có bằng và có đam mê kinh doanh sẽ được đào tạo bởi các chuyên ra bán hàng hàng đầu trong lĩnh vực về bất động sản.<br />- KHÔNG có kinh nghiệm về Bất động sản sẽ được đào tạo huấn luyện trở thành chuyên viên tư vấn về bất động sản đảm bảo mức lương không dưới 15 Tr / Tháng.<br />- Yêu thích kinh doanh, có mong muốn làm giàu cháy bỏng.<br />- Dành 100% thời gian, trí tuệ và sức lực cho công việc.<br />- Ngoại hình ưa nhìn, khả năng giao tiếp tốt, nhanh nhẹn, ham học hỏi, chịu được áp lực công việc cao.<br />- Khả năng làm việc độc lập, làm việc theo nhóm.<br />- Sử dụng thành thạo internet và tin học văn phòng.<br />- Có xe máy và laptop.<br />- Ưu tiên:<br />- Có kinh nghiệm làm Bất động sản, yêu thích Bất động sản.<br />- Kỹ năng tin học, online tốt là lợi thế<br />- Có kỹ năng đàm phán, thuyết phục.<br />- Nhanh nhẹn, nhiệt tình, có trách nhiệm với công việc và đặc biệt khát vọng làm giàu.<br />- Chấp nhận sinh viên mới ra trường hoặc ra trường chưa có bằng và có đam mê kinh doanh sẽ được đào tạo bởi các chuyên ra bán hàng hàng đầu trong lĩnh vực về bất động sản.<br />- Ham học hỏi có chí tiến thủ đam mê kinh doanh. Có kinh nghiệm online, <a href='https://www.timviecnhanh.com/viec-lam-cong-nghe-thong-tin-c17.html' title='công nghệ thông tin' class='job-detail-autolink'>công nghệ thông tin</a> là lợi thế.",
+    "qualifications": "Trung cấp",
+    "experienceRequirements": "Chưa có kinh nghiệm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CÔNG TY CP DV ĐỊA ỐC HÀ NỘI",
+      "value": "2862647"
+    },
+    "datePosted": "2019-03-27 09:05:51",
+    "validThrough": "2019-04-23 00:00:00",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CÔNG TY CP DV ĐỊA ỐC HÀ NỘI",
+      "sameAs": "https://www.timviecnhanh.com/cong-ty-cp-dv-dia-oc-ha-noi-tuyen-dung-2862647.html",
+      "logo": "https://cdn.timviecnhanh.com/asset/home/img/employer/592d1eb3b6cb3_1496129203_140x140.jpg"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tòa No12-3 Khu Đô Thị Sài Đồng, Q, Long Biên",
+        "addressLocality": "Tòa No12-3 Khu Đô Thị Sài Đồng, Q, Long Biên",
+        "addressRegion": "Hà Nội",
+        "postalCode": "100000",
+        "addressCountry": "VN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": "30000000",
+      "maxValue": "39999999",
+      "unitText": "MONTH"
+    },
+    "occupationalCategory": [
+      "Kinh doanh",
+      "Sinh viên/Mới tốt nghiệp/Thực tập",
+      "Bất động sản"
+    ],
+    "url": "https://www.timviecnhanh.com/tuyen-nhan-vien-kinh-doanh-bds-luong-cung-5tr-hh-40-ds-ha-noi-4348031.html"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Nhân Viên Sales Kinh Doanh",
+    "description": "- Tìm kiếm khách hàng tiềm năng phát triển kinh doanh thông qua DATA (có sẵn).<br />- Chủ động liên hệ khách hàng, tìm hiểu thông tin, xác định nhu cầu của khách hàng để giới thiệu và tư vấn báo giá các dịch vụ phần mềm kê khai BHXH, Thuế, Hải quan, Hóa đơn điện tử…<br />- Trực tiếp gặp gỡ, thảo luận, lập kế hoạch triển khai các hợp đồng kinh doanh.<br />- Phối hợp với các phòng ban để theo dõi tiến độ từng dự án<br />- Một số công việc khác theo phân công",
+    "jobBenefits": "- Lương: Lương cứng + Lương mềm + Thưởng theo thỏa thuận; mức lương dao động từ 7-12tr, mức lương tương xứng với năng lực<br />- Đánh giá nhân viên liên tục, có phương án review lương và năng lực tương xứng.<br />- Có cơm trưa tại nhà ăn công ty.<br />- Thanh toán 100% chi phí công tác phí khi đi công tác<br />- Đi gặp KH có xe công ty hỗ trợ.<br />- Du lịch hằng năm dành cho riêng cá nhân và miễn phí 100% cho cả gia đình<br />- Một số khoản hỗ trợ khác tùy vào vị trí công việc<br />- Được đào tạo kiến thức chuyên sâu để có nền tảng chuyên môn, phát triển nghề nghiệp có định hướng rõ ràng.<br />- Cơ hội được đào tạo và thăng tiến tốt trong công việc.<br />- Văn hóa công ty phong phú cho phép phát huy tối đa khả năng và tính sáng tạo trong công việc của ứng viên.<br />- Hưởng các chế độ bảo hiểm xã hội, <a href='https://www.timviecnhanh.com/viec-lam-y-te-c54.html' title='y tế' class='job-detail-autolink'>y tế</a> theo quy định.",
+    "skills": "- Tốt nghiệp Cao đẳng trở lên chuyên ngành Tài chính, Kế toán, Quản trị kinh doanh, <a href='https://www.timviecnhanh.com/viec-lam-ngan-hang-chung-khoan-dau-tu-c38.html' title='ngân hàng' class='job-detail-autolink'>Ngân hàng</a>, Bảo hiểm xã hội,...<br />- Thành thạo vi tính văn phòng<br />- Không yêu cầu kinh nghiệm<br />- Kỹ năng giao tiếp với khách hàng tốt<br />- Có kỹ năng làm việc độc lập và theo nhóm.<br />- Không ngại đi lại gặp gỡ khách hàng để giải quyết công việc.<br />- Ngoại hình ưa nhìn là 01 lợi thế.<br />- Độ tuổi 20-26 tuổi",
+    "qualifications": "Cao đẳng",
+    "experienceRequirements": "Không yêu cầu kinh nghiệm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Công ty TNHH phát triển công nghệ Thái Sơn",
+      "value": "2362929"
+    },
+    "datePosted": "2019-03-21 09:22:33",
+    "validThrough": "2019-04-17 00:00:00",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Công ty TNHH phát triển công nghệ Thái Sơn",
+      "sameAs": "https://www.timviecnhanh.com/cong-ty-tnhh-phat-trien-cong-nghe-thai-son-tuyen-dung-2362929.html",
+      "logo": "https://cdn.timviecnhanh.com/asset/home/img/employer/5909757ab2ad3_1493792122_140x140.png"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "HN: Số 11 Đặng Thùy Trâm-Hoàng Quốc Viêt - Cầu Giấy-Hà Nội/ HCM: 33A Cửu Long, Phường 2 Quận Tân Bình, TP.HCM",
+        "addressLocality": "HN: Số 11 Đặng Thùy Trâm-Hoàng Quốc Viêt - Cầu Giấy-Hà Nội/ HCM: 33A Cửu Long, Phường 2 Quận Tân Bình, TP.HCM",
+        "addressRegion": "Hà Nội",
+        "postalCode": "100000",
+        "addressCountry": "VN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": "10000000",
+      "maxValue": "11999999",
+      "unitText": "MONTH"
+    },
+    "occupationalCategory": [
+      "Kinh doanh",
+      "Bán hàng",
+      "Chăm sóc khách hàng"
+    ],
+    "url": "https://www.timviecnhanh.com/tuyen-nhan-vien-sales-kinh-doanh-di-lam-ngay-ha-noi-4345578.html"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Nhân Viên Thu Mua Và Phát Triển Sản Phẩm",
+    "description": "- Chịu trách nhiệm cho việc tìm kiếm nhà cung cấp ,phát triển các sản phẩm theo yêu cầu từ TBP và theo mục tiêu chung<br />- Tìm kiếm nhà cung cấp về hóa mỹ phẩm, gia công, các sản phẩm chuyên nghành về tóc và da mặt.. ,sản phẩm phù hợp cho hệ thống tại các thời điểm theo yêu cầu từ TBP.<br />- Duy trì mối quan hệ với nhà cung cấp  hiện tại ,tìm kiếm nhà cung cấp mới ,sản phẩm tiềm năng ,test ,ghi nhận thông tin ,báo cáo và đưa đề xuất các sp phù hợp tiêu chí vào hệ thống<br />Thời gian làm việc: 9h - 18h. Nghỉ chủ nhật",
+    "jobBenefits": "- Mức lương hấp dẫn: 8 - 12tr<br />- Được xét tăng lương, thăng tiến theo năng lực thực tế<br />- Môi trường làm việc trẻ trung, năng động, cạnh tranh, chuyên nghiệp và thân thiện<br />- Chế độ BHXH theo đúng quy định của nhà nước",
+    "skills": "- Nam/nữ 25 - 35t<br />-  Tốt nghiệp Đại học trở lên: Ưu Tiên các trường : Ngoại thương , xuất <a href='https://www.timviecnhanh.com/viec-lam-xuat-nhap-khau-ngoai-thuong-c53.html' title='nhập khẩu' class='job-detail-autolink'>nhập khẩu</a> ,kinh doanh thương mại ,kinh tế quốc dân.<br />- Thành thạo word, exel<br />-  Ưu tiên có kinh nghiệm tại các công ty xuất nhập khẩu, làm việc với các nhà cung cấp nước ngoài",
+    "qualifications": "Đại học",
+    "experienceRequirements": "1 năm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ 30 SHINE",
+      "value": "2956803"
+    },
+    "datePosted": "2019-03-26 08:57:53",
+    "validThrough": "2019-04-22 00:00:00",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ 30 SHINE",
+      "sameAs": "https://www.timviecnhanh.com/cong-ty-co-phan-thuong-mai-dich-vu-30-shine-tuyen-dung-2956803.html",
+      "logo": "https://cdn.timviecnhanh.com/asset/home/img/employer/5af53e515634f_1526021713_140x140.png"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Số 1, Thái Hà, Đống Đa, Hà Nội hoặc các địa điểm Salon theo yêu cầu CV",
+        "addressLocality": "Số 1, Thái Hà, Đống Đa, Hà Nội hoặc các địa điểm Salon theo yêu cầu CV",
+        "addressRegion": "Hà Nội",
+        "postalCode": "100000",
+        "addressCountry": "VN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": "10000000",
+      "maxValue": "11999999",
+      "unitText": "MONTH"
+    },
+    "occupationalCategory": [
+      "Bán hàng",
+      "Hành chính/Thư ký/Trợ lý",
+      "Kho vận/Vật tư/Thu mua"
+    ],
+    "url": "https://www.timviecnhanh.com/tuyen-nhan-vien-thu-mua-va-phat-trien-san-pham-ha-noi-4347481.html"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Nhân Viên Kinh Doanh Quà Tặng (Lương Trên 10 Triệu)",
+    "description": "•\tThời gian làm việc: Giờ hành chính (Từ thứ 2 > thứ 6 và sáng thứ 7)<br />•\tTìm kiếm và phát triển nguồn khách hàng tiềm năng ( khai thác dựa trên internet và các mối quan hệ xã hội)<br />•\t<a href='https://www.timviecnhanh.com/viec-lam-cham-soc-khach-hang-c21.html' title='chăm sóc khách hàng' class='job-detail-autolink'>Chăm sóc khách hàng</a> cũ và phát triển nguồn khách hàng hàng mới<br />•\tTư vấn, đàm phán, thương lượng, xúc tiến và ký kết hợp đồng với khách hàng<br />•\tĐảm bảo chỉ tiêu doanh số công ty đề ra<br />•\tLập kế hoạch định hướng kinh doanh theo tháng, quý, năm và báo cáo với cấp trên.",
+    "jobBenefits": "•\tMức lương – Salary Range: 5.500.000 VND + 3% hoa hồng trên từng hợp đồng. Tuy nhiên mức lương sẽ được xét tăng theo năng lực thực tế của ứng viên.<br />•\tThu nhập 10-15triệu/ tháng<br />•\tLương thỏa thuận riêng phụ thuộc vào kinh nghiệm làm việc trong lĩnh vực: In ấn và Quà tặng.<br />•\tThời gian làm việc: Trong giờ hành chính từ thứ 2 - 6 và sáng thứ 7.<br />•\tMôi trường làm việc chuyên nghiệp, nhiệt huyết.<br />•\tLương tháng 13.<br />•\tChế độ khen thưởng thường xuyên đối với cá nhân có thành tích xuất sắc.<br />•\tCơ hội thăng tiến và được đào tạo phát triển lên các vị trí cao hơn trong công ty.<br />•\tĐược tham gia bảo hiểm theo đúng quy định của luật pháp Việt Nam.<br />•\tĐược đi du lịch định kỳ cùng công ty.",
+    "skills": "•\tCó kinh nghiệm tư vấn <a href='https://www.timviecnhanh.com/viec-lam-ban-hang-c10.html' title='bán hàng' class='job-detail-autolink'>bán hàng</a><br />•\tKỹ năng giao tiếp tốt, phân tích và xử lý tình huống nhanh, khả năng đàm phán và thương lượng với khách hàng.<br />•\tNăng động, hoạt bát, tự tin và có khả năng giao tiếp, tạo mối quan hệ tốt với khách hàng.<br />•\tCó nhiệt huyết kinh doanh, không ngừng học hỏi, cầu tiến và phát triển năng lực, mở rộng mối quan hệ là một lợi thế<br />•\tCó khả năng làm việc độc lập, theo nhóm và chịu được áp lực cao<br />•\tKhai thác tốt những thông tin trên Internet và các mối quan hệ xã hội<br />•\tNhiệt tình, kiên trì, trung thực.",
+    "qualifications": "Trung cấp",
+    "experienceRequirements": "1 năm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CTY TNHH PT QT QC SONG HÀNH SÀI GÒN",
+      "value": "2963544"
+    },
+    "datePosted": "2019-03-26 08:52:13",
+    "validThrough": "2019-04-22 00:00:00",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CTY TNHH PT QT QC SONG HÀNH SÀI GÒN",
+      "sameAs": "https://www.timviecnhanh.com/cty-tnhh-pt-qt-qc-song-hanh-sai-gon-tuyen-dung-2963544.html",
+      "logo": "https://cdn.timviecnhanh.com/asset/home/img/employer/5b14e0e193a97_1528094945_140x140.png"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tầng 4, Số 47 Điện Biên Phủ, P. Đa Kao, Q.1",
+        "addressLocality": "Tầng 4, Số 47 Điện Biên Phủ, P. Đa Kao, Q.1",
+        "addressRegion": "Hồ Chí Minh",
+        "postalCode": "700000",
+        "addressCountry": "VN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": "12000000",
+      "maxValue": "14999999",
+      "unitText": "MONTH"
+    },
+    "occupationalCategory": [
+      "Kinh doanh",
+      "Bán hàng",
+      "Chăm sóc khách hàng"
+    ],
+    "url": "https://www.timviecnhanh.com/tuyen-nhan-vien-kinh-doanh-thu-nhap-tren-10-trieu-ho-chi-minh-4347476.html"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Nhân Viên Telesales Không Yêu Cầu Kinh Nghiệm",
+    "description": "Bạn là ứng viên năng động, bạn trẻ, bạn có tố chất và có khả năng phát huy sáng tạo.<br />Bạn mong muốn công việc mang lại thu nhập tốt, có tính nhân văn.<br /><br />Đến với Tìm Việc Nhanh bạn sẽ có cơ hội:<br />* Gia nhập đội ngũ nhân viên năng động, sáng tạo, công việc của các bạn không chỉ đơn thuần là sale mà các bạn sẽ trở thành người đồng hành cùng doanh nghiệp.<br />* Là cầu nối doanh nghiệp với người lao động mang lại cơ hội làm việc cho hàng chục nghìn ứng viên, giải quyết bài toán việc làm cho hàng triệu người.<br /><br />Công việc của bạn là gì?<br />- Công ty cung cấp sẵn nguồn data khách hàng đang có nhu cầu. Bạn gọi điện liên hệ tìm hiểu thông tin và tư vấn, thuyết phục Khách hàng sử dụng dịch vụ đăng tin tuyển dụng hiệu quả mà công ty cung cấp.<br />- <a href='https://www.timviecnhanh.com/viec-lam-cham-soc-khach-hang-c21.html' title='chăm sóc khách hàng' class='job-detail-autolink'>Chăm sóc khách hàng</a> sử dụng dịch vụ, hỗ trợ giải đáp những thắc mắc của khách hàng qua email, điện thoại.<br />- Thời gian làm việc: từ 8h – 17h, từ thứ 2 đến thứ 6, thứ 7 làm buổi sáng đến 12h",
+    "jobBenefits": "Chế độ dành cho bạn:<br />- Lương cứng ( không phụ thuộc doanh số): 5.000.000 + Hỗ trợ cơm trưa 40.000đ/ ngày + hỗ trợ gửi xe 10.000đ/ ngày.<br />- Hoa hồng: Từ 5-7% doanh thu hàng tháng.<br />- Thưởng ngày, tuần, tháng<br />- Thu nhập từ 7 - 9 triệu đối với nhân viên chính thức có thời gian làm việc từ 2-6 tháng, trên 6 tháng mức thu nhập từ 10 triệu trở lên<br />- Đầy đủ các chế độ bảo hiểm, phúc lợi, chế độ thai sản... theo đúng luật lao động hiện hành.<br />- Du lịch, nghỉ mát, tiệc cuối năm cùng Công ty<br /><br />Cơ hội thăng tiến:<br />- Được đào tạo bài bản về telesales<br />- Được tham gia rèn luyện và nâng cao kỹ năng tư vấn, kỹ năng kinh doanh.<br />- Cơ hội thăng tiến lên Trưởng nhóm kinh doanh với mức thu nhập rất hấp dẫn<br />- Được khẳng định và công nhận năng lực của bản thân.",
+    "skills": "- Tốt nghiệp cao đẳng, đại học.<br />- Không yêu cầu kinh nghiệm, tạo cơ hội cho các bạn trẻ, ham muốn kiếm tiền và yêu công việc kinh doanh.<br />- Có Laptop cá nhân<br />- Kỹ năng giao tiếp tốt, hoạt ngôn, vui vẻ.<br />- Có kinh nghiệm từng sales qua điện thoại hoặc đã từng làm telesale <a href='https://www.timviecnhanh.com/viec-lam-ngan-hang-chung-khoan-dau-tu-c38.html' title='ngân hàng' class='job-detail-autolink'>ngân hàng</a>, bảo hiểm, nhân sự... là 1 lợi thế<br />- Luôn cầu tiến học hỏi, tích lũy kinh nghiệm.",
+    "qualifications": "Cao đẳng",
+    "experienceRequirements": "Không yêu cầu kinh nghiệm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Tìm Việc Nhanh",
+      "value": "2961531"
+    },
+    "datePosted": "2018-11-07 17:00:38",
+    "validThrough": "2019-04-08 00:00:00",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Tìm Việc Nhanh",
+      "sameAs": "https://www.timviecnhanh.com/tim-viec-nhanh-tuyen-dung-2961531.html",
+      "logo": "https://cdn.timviecnhanh.com/asset/home/img/kh_tvn_color-min.png"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tầng 9, Hapulico Center Building, Ngã ba đường Ngụy Như Kon Tum và Vũ Trọng Phụng, Phường Thanh Xuân Trung, Quận Thanh Xuân, Hà Nội",
+        "addressLocality": "Tầng 9, Hapulico Center Building, Ngã ba đường Ngụy Như Kon Tum và Vũ Trọng Phụng, Phường Thanh Xuân Trung, Quận Thanh Xuân, Hà Nội",
+        "addressRegion": "Hà Nội",
+        "postalCode": "100000",
+        "addressCountry": "VN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": "7000000",
+      "maxValue": "9999999",
+      "unitText": "MONTH"
+    },
+    "occupationalCategory": [
+      "Kinh doanh",
+      "Chăm sóc khách hàng",
+      "Sinh viên/Mới tốt nghiệp/Thực tập"
+    ],
+    "url": "https://www.timviecnhanh.com/tuyen-nhan-vien-telesale-tai-thanh-xuan-ha-noi-4304333.html"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Chuyên Viên Tư Vấn Làm Việc Tại Văn Phòng - Không Yêu Cầu Kinh Nghiệm",
+    "description": "- Lập kế hoạch, triển khai các công tác tư vấn qua điện thoại, tư vấn trực tiếp, <a href='https://www.timviecnhanh.com/viec-lam-cham-soc-khach-hang-c21.html' title='chăm sóc khách hàng' class='job-detail-autolink'>chăm sóc khách hàng</a> qua điện thoại dựa trên nguồn khách hàng công ty hỗ trợ.<br />- Làm việc nhóm, Không áp đặt doanh số cá nhân (từ 6-8 bạn/team).<br />- Trải nghiệm các vị trí công việc theo năng lực để phát triển và hoàn thiện kỹ năng, tạo cơ hội thăng tiến nhanh (Trao đổi cụ thể khi phòng vấn).",
+    "jobBenefits": "- Lương cơ bản từ 6 - 8 triệu / tháng .Phụ cấp cơm trưa.<br />- Hỗ trợ thêm chi phí Marketing từ 5 - 7 triệu / tháng<br />- Hoa hồng 18 - 50 triệu / sản phẩm + Thưởng nóng từ 200 – 500 Đô la / sản phẩm.<br />- Được Hỗ trợ Danh Sách Khách Hàng trị giá hơn 50 triệu / tháng (luôn có data mới)<br />- Được đào tạo <a href='https://www.timviecnhanh.com/viec-lam-ban-hang-c10.html' title='bán hàng' class='job-detail-autolink'>bán hàng</a> qua điện thoại.<br />- Hỗ trợ đồng phục. Tham gia BHXH theo quy định Nhà nước.<br />- Hoạt động ngoại khóa, company trip, team building và có cơ hội du lịch trong và ngoài nước hàng năm từ 2-3 lần: Singapore, Hồng Kông, Thái Lan.<br />- Có cơ hội thăng tiến cao.",
+    "skills": "YÊU CẦU ĐẦU VÀO:<br />- Tự tin vào khả năng giao tiếp, tư vấn, thuyết phục.<br />- Chất giọng tốt (rõ ràng, dễ nghe)<br />- Nam/nữ: tuổi từ 20 – 28, ngoại hình khá.<br />YÊU CẦU TRONG QUÁ TRÌNH LÀM VIỆC:<br />- Muốn phát triển bản thân, đột phá thu nhập.<br />- Ham học hỏi, chịu khó, kiên trì.<br />- Không ngừng phấn đấu và rèn luyện bản thân.<br />- Không được ngừng đột phá giới hạn trong công việc tạo thành công và tạo thu nhập hơn mong đợi",
+    "qualifications": "Không yêu cầu",
+    "experienceRequirements": "Chưa có kinh nghiệm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CÔNG TY CP ĐẦU TƯ VIỆT HƯNG PHÁT",
+      "value": "2589706"
+    },
+    "datePosted": "2019-03-22 15:23:17",
+    "validThrough": "2019-04-21 00:00:00",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CÔNG TY CP ĐẦU TƯ VIỆT HƯNG PHÁT",
+      "sameAs": "https://www.timviecnhanh.com/cong-ty-cp-dau-tu-viet-hung-phat-tuyen-dung-2589706.html",
+      "logo": "https://cdn.timviecnhanh.com/asset/home/img/employer/591aa8c7a12f6_1494919367_140x140.png"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "429 Tô Hiến Thành, P.14, Q.10, TP.HCM",
+        "addressLocality": "429 Tô Hiến Thành, P.14, Q.10, TP.HCM",
+        "addressRegion": "Hồ Chí Minh",
+        "postalCode": "700000",
+        "addressCountry": "VN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": "10000000",
+      "maxValue": "11999999",
+      "unitText": "MONTH"
+    },
+    "occupationalCategory": [
+      "Kinh doanh",
+      "Ngân hàng/Chứng khoán/Đầu tư",
+      "PG/PB/Lễ tân"
+    ],
+    "url": "https://www.timviecnhanh.com/tuyen-chuyen-vien-tu-van-lam-viec-tai-van-phong-khong-yeu-cau-kinh-nghiem-ho-chi-minh-4346418.html"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Nhân Viên Bán Hàng Phụ Kiện Điện Thoại",
+    "description": "- Tư vấn & <a href='https://www.timviecnhanh.com/viec-lam-ban-hang-c10.html' title='bán hàng' class='job-detail-autolink'>bán hàng</a> phụ kiện điện thoại cao cấp cho Apple, Samsung<br />- Hỗ trợ & trò chuyện với khách hàng tại showroom, web chat, fanpage<br />- Tìm hiểu nhu cầu & giải quyết những vấn đề của khách hàng khi sử dụng sản phẩm<br />- Nghiên cứu cách sử dụng sản phẩm mới để hỗ trợ khách hàng<br />- Làm việc tại địa chỉ: 448/1 Trần Hưng Đạo, Phường 2, Quận 5, Tp.HCM",
+    "jobBenefits": "- Lương 6.000.000 VNĐ<br />- Thưởng doanh số 500k-1tr mỗi tháng<br />- Thưởng tác phong, nề nếp<br />- CÔNG VIỆC ỔN ĐỊNH, LÂU DÀI<br />- Môi trường làm việc thoải mái, vui vẻ, năng động, hiện đại<br />- Khả năng thăng tiến cao & nhiều cơ hội phát triển bản thân<br />- Nghỉ trưa, chiều 60 phút mỗi ngày<br />- Xét tăng lương 6 tháng mỗi lần",
+    "skills": "- Giới tính: Nữ. Ngoại hình ưa nhìn (KHÔNG TUYỂN NAM)<br />- KHÔNG NHẬN SINH VIÊN LÀM THÊM<br />- Tính cách năng động hòa đồng, cần cù, thật thà, cầu tiến trong việc<br />- Phong cách & thái độ <a href='https://www.timviecnhanh.com/viec-lam-phuc-vu-tap-vu-giup-viec-c66.html' title='phục vụ' class='job-detail-autolink'>phục vụ</a> khách hàng chuyên nghiệp -> Sẽ được hướng dẫn đầy đủ<br />- Yêu thích các sản phẩm công nghệ<br />- Thử việc 1 tháng 80% lương (nếu trong vòng 1 tháng bạn nghỉ việc), nếu công việc phù hợp với bạn & khả năng của bạn phù hợp với cửa hàng thì lương thử việc là 100%<br /><br />THỜI GIAN LÀM VIỆC<br />- Tháng được nghỉ 3 ngày<br />- Làm theo số lượng ngày giờ như sau:<br />   + Mỗi tháng làm ca 8 giờ: 14 ngày  (9h-17h) hoặc (13h-20h)<br />   + Mỗi tháng làm ca 11 giờ 14 ngày (9h-20h)<br />Nghĩa là mỗi tháng bạn phải làm 14 ngày 8 giờ & 14 ngày 11 giờ",
+    "qualifications": "Trung học",
+    "experienceRequirements": "Dưới 1 năm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Cửa Hàng iCover",
+      "value": "2640815"
+    },
+    "datePosted": "2019-03-19 14:51:36",
+    "validThrough": "2019-04-17 00:00:00",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Cửa Hàng iCover",
+      "sameAs": "https://www.timviecnhanh.com/cua-hang-icover-tuyen-dung-2640815.html",
+      "logo": "https://cdn.timviecnhanh.com/asset/home/img/kh_tvn_color-min.png"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "448/1 Trần Hưng Đạo, Phường 2, Quận 5, Tp.HCM",
+        "addressLocality": "448/1 Trần Hưng Đạo, Phường 2, Quận 5, Tp.HCM",
+        "addressRegion": "Hồ Chí Minh",
+        "postalCode": "700000",
+        "addressCountry": "VN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": "5000000",
+      "maxValue": "6999999",
+      "unitText": "MONTH"
+    },
+    "occupationalCategory": [
+      "Bán hàng",
+      "Chăm sóc khách hàng",
+      "Kinh doanh"
+    ],
+    "url": "https://www.timviecnhanh.com/tuyen-nhan-vien-ban-hang-phu-kien-dien-thoai-ho-chi-minh-4344717.html"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Nhân Viên Sales - Nghiệp Vụ Biết Tiếng Hoa",
+    "description": "-Lên kế hoạch nghiên cứu thị trường và triển khai <a href='https://www.timviecnhanh.com/viec-lam-ban-hang-c10.html' title='bán hàng' class='job-detail-autolink'>bán hàng</a> nội địa các sản phẩm về trang trí nội thất : bàn, ghế, đèn,..<br />-Tìm kiếm khách và mở rộng mạng lưới khách hàng tại thị trường Việt Nam, là người tiên phong giúp công ty sáng lập thị trường trong nước, sau này sẽ là người <a href='https://www.timviecnhanh.com/viec-lam-quan-ly-dieu-hanh-c44.html' title='quản lý' class='job-detail-autolink'>quản lý</a> đội nhóm của bộ phận sales<br />-Chi tiết công việc sẽ trao đổi cụ thể khi phỏng vấn.",
+    "jobBenefits": "- Lương cơ bản 10 triệu + hoa hồng theo doanh thu<br />- Lương và chế độ phúc lợi tốt<br />- Tham gia BHXH, BHYT, BHTN<br />- Thường xuyên cho nhân viên tham gia các khóa đào tạo nâng cao nâng lực",
+    "skills": "-Tốt nghiệp Đại học các ngành nghề<br />-Tiếng Anh hoặc tiếng Hoa nghe, nói, đọc, viết lưu loát<br />-Có kinh nghiệm làm kinh doanh từ 1-2 năm trở lên.",
+    "qualifications": "Đại học",
+    "experienceRequirements": "2 năm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "CTY TNHH CÔNG NGHIỆP KINGTEC VIỆT NAM",
+      "value": "2707056"
+    },
+    "datePosted": "2019-03-28 10:42:35",
+    "validThrough": "2019-04-24 00:00:00",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "CTY TNHH CÔNG NGHIỆP KINGTEC VIỆT NAM",
+      "sameAs": "https://www.timviecnhanh.com/cty-tnhh-cong-nghiep-kingtec-viet-nam-tuyen-dung-2707056.html",
+      "logo": "https://cdn.timviecnhanh.com/asset/home/img/employer/5c9c3ab751fb0_1553742519_140x140.png"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ĐƯỜNG NE2, KCN MỸ PHƯỚC 3, BẾN CÁT, BÌNH DƯƠNG",
+        "addressLocality": "ĐƯỜNG NE2, KCN MỸ PHƯỚC 3, BẾN CÁT, BÌNH DƯƠNG",
+        "addressRegion": "Bình Dương",
+        "postalCode": "590000",
+        "addressCountry": "VN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": "10000000",
+      "maxValue": "11999999",
+      "unitText": "MONTH"
+    },
+    "occupationalCategory": [
+      "Biên dịch/Phiên dịch",
+      "Kinh doanh",
+      "Ngoại ngữ"
+    ],
+    "url": "https://www.timviecnhanh.com/tuyen-nhan-vien-sales-nghiep-vu-biet-tieng-hoa-binh-duong-4348679.html"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Chuyên Viên Kinh Doanh Bất Động Sản Q2",
+    "description": "- Triển khai kế hoạch kinh doanh, bán hàng theo kế hoạch của công ty.<br />- Duy trì và <a href='https://www.timviecnhanh.com/viec-lam-cham-soc-khach-hang-c21.html' title='chăm sóc khách hàng' class='job-detail-autolink'>chăm sóc khách hàng</a> hiện hữu.<br />- Tìm kiếm, khai thác, mở rộng mối quan hệ khách hàng có nhu cầu về BĐS.<br />- Tư vấn sản phẩm BĐS phù hợp nhu cầu của khách hàng.<br />- Giới thiệu, hướng dẫn, đưa đón khách hàng tham quan nhà mẫu và các dự án BĐS do<br />Công ty phân phối.<br />- Cập nhật thông tin thị trường để phục vụ công tác kinh doanh.<br />- Phối hợp bộ phận Tiếp thị triển khai các chương trình bán hàng của Công ty.",
+    "jobBenefits": "1. Thu nhập hấp dẫn<br />- Lương cơ bản 6 -15 triệu/tháng.<br />- Hoa hồng cao: từ 20 triệu trở lên/sản phẩm.<br />- Thưởng doanh số theo từng dự án.<br />- Thưởng kết quà công việc theo quý/ năm.<br />- Thưởng nóng cao và cạnh tranh theo chương trình bán hàng và theo dự án.<br />- Thưởng nhân viên xuất sắt theo năm.<br />- Hỗ trợ chi phí marketing phục vụ hoạt động bán hàng.<br />- Phụ cấp: đi lại, điện thoại.<br />- Lương tháng 13 và thưởng cuối năm lên đến 06 tháng lương.<br /><br />2. Chế độ đãi ngộ<br />- Được hưởng đầy đủ các chế độ đãi ngộ theo luật lao động.<br />- Khám sức khỏe định kỳ tại các bệnh viện quốc tế.<br />- Chính sách dành cho nhân viên thâm niên.<br />- Chính sách sở hữu các căn hộ của Công ty theo hình thức trả góp với chính sách ưu đãi<br />cao.<br />- Nghỉ lễ, tết theo quy định của Pháp luật.<br />- Chương trình du lịch hàng năm và sinh hoạt đội nhóm.<br />- Thưởng các ngày lễ, Tết, sinh nhật, thăm hỏi ốm đau, hiếu hỉ<br />- Được cấp phát (đồng phục, huy hiệu...)<br /><br />3. Đào tạo và phát triển<br />- Đào tạo các kỹ năng mềm và kiến thức chuyên môn phục vụ công việc.<br />- Đào tạo công cụ Marketing Online và cách thức tìm kiếm khách hàng.<br />- Tham gia các buổi hội thảo <a href='https://www.timviecnhanh.com/viec-lam-bat-dong-san-c13.html' title='bất động sản' class='job-detail-autolink'>bất động sản</a>.<br />- Cơ hội phát triển nghề nghiệp trong bộ máy kinh doanh của Công ty.",
+    "skills": "- Tốt nghiệp Trung cấp trở lên.<br />- Kinh nghiệm ít nhất 06 tháng trong lĩnh vực kinh doanh <a href='https://www.timviecnhanh.com/viec-lam-bat-dong-san-c13.html' title='bất động sản' class='job-detail-autolink'>bất động sản</a>/bảo hiểm/ngân<br />hàng/nội thất và những ngành có liên quan.<br />- Kỹ năng giao tiếp, thương lượng và đàm phán tốt.<br />- Đam mê Bất Động Sản, có hoài bão lớn, tự tin cao.<br />- Trung thực, có trách nhiệm, chịu được áp lực cao trong công việcThành thạo internet và<br />các ứng dụng khác.",
+    "qualifications": "Trung cấp",
+    "experienceRequirements": "Dưới 1 năm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "RIO LAND - Công ty Cổ Phần Đầu Tư Bất Động Sản Rio Land",
+      "value": "2950781"
+    },
+    "datePosted": "2019-03-16 08:36:14",
+    "validThrough": "2019-04-12 00:00:00",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "RIO LAND - Công ty Cổ Phần Đầu Tư Bất Động Sản Rio Land",
+      "sameAs": "https://www.timviecnhanh.com/rio-land-cong-ty-co-phan-dau-tu-bat-dong-san-rio-land-tuyen-dung-2950781.html",
+      "logo": "https://cdn.timviecnhanh.com/asset/home/img/employer/5c8c5361aff32_1552700257_140x140.png"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "17 Nguyễn Thái Bình, Quận 1",
+        "addressLocality": "17 Nguyễn Thái Bình, Quận 1",
+        "addressRegion": "Hồ Chí Minh",
+        "postalCode": "700000",
+        "addressCountry": "VN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": "5000000",
+      "maxValue": "6999999",
+      "unitText": "MONTH"
+    },
+    "occupationalCategory": [
+      "Bất động sản",
+      "Chăm sóc khách hàng",
+      "Kinh doanh"
+    ],
+    "url": "https://www.timviecnhanh.com/tuyen-chuyen-vien-kinh-doanh-rioland-ho-chi-minh-4343321.html"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Nhân Viên Kinh Doanh Chuyển Phát 15 - 20Tr",
+    "description": "- Nghiên cứu và <a href='https://www.timviecnhanh.com/viec-lam-xay-dung-c52.html' title='xây dựng' class='job-detail-autolink'>xây dựng</a> phương pháp Marketing để phát triển thị trường đạt<br />hiệu quả cao nhất.<br />- Tiến hành thực hiện các chương trình marketing trực tiếp (tìm kiếm dữ liệu,<br />tiếp xúc, tư vấn, phát triển khách hàng…).<br />- Lập kế hoạch, xây dựng các chương trình truyền thông, CSKH,….",
+    "jobBenefits": "- Môi trường chuyên nghiệp, sáng tạo, cạnh tranh, phát triển, năng động có<br />nhiều cơ hội thăng tiến.<br />- Chính sách lương, thưởng, đãi ngộ hấp dẫn, kích thích hiệu quả công việc,<br />lương thỏa thuận khi phỏng vấn.",
+    "skills": "- Nam: dưới 30 tuổi, sức khỏe tốt.<br />- Tốt nghiệp Cao đẳng/Đại học ưu tiên chuyên ngành kinh tế.<br />- Có khả năng đàm phán và thuyết phục.<br />- Kỹ năng giao tiếp và thuyết trình, khả năng giải quyết vấn đề phát sinh.<br />- Trung thực, nhiệt tình, có nguyện vọng làm việc lâu dài.",
+    "qualifications": "Cao đẳng",
+    "experienceRequirements": "1 năm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Tổng Công Ty Cổ Phần Bưu Chính Viettel",
+      "value": "2786836"
+    },
+    "datePosted": "2019-03-18 10:33:32",
+    "validThrough": "2019-04-07 00:00:00",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Tổng Công Ty Cổ Phần Bưu Chính Viettel",
+      "sameAs": "https://www.timviecnhanh.com/tong-cong-ty-co-phan-buu-chinh-viettel-tuyen-dung-2786836.html",
+      "logo": "https://cdn.timviecnhanh.com/asset/home/img/employer/58ae462e6cd28_1487816238_140x140.png"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Tòa nhà N2, Km 2, Đại Lộ Thăng Long, Hà Nội",
+        "addressLocality": "Tòa nhà N2, Km 2, Đại Lộ Thăng Long, Hà Nội",
+        "addressRegion": "Hồ Chí Minh",
+        "postalCode": "700000",
+        "addressCountry": "VN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": "15000000",
+      "maxValue": "19999999",
+      "unitText": "MONTH"
+    },
+    "occupationalCategory": [
+      "Kinh doanh",
+      "Sinh viên/Mới tốt nghiệp/Thực tập",
+      "Phát triển thị trường"
+    ],
+    "url": "https://www.timviecnhanh.com/tuyen-nhan-vien-kinh-doanh-chuyen-phat-15-20tr-ho-chi-minh-4343897.html"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Nhân Viên Kinh Doanh Thu Nhập 15Tr - 25 Tr / Tháng",
+    "description": "Mỗi <a href='https://www.timviecnhanh.com/viec-lam-kinh-doanh-c32.html' title='nhân viên kinh doanh' class='job-detail-autolink'>nhân viên kinh doanh</a> sẽ được công ty giao cho 02 tỉnh để quản lý, hệ thống khách hàng đã được xây dựng từ nhiều năm nay, kinh doanh sẽ tiếp tục chăm sóc những khách hàng cũ, phát triển thêm những khách hàng mới.",
+    "jobBenefits": "-Lương cơ bản khi làm việc tại thị trường Hà Nội, Hải Phòng là 7tr/tháng<br /><br />-Lương doanh số: 2.5%-4.0% .(Kinh doanh khi làm chính thức thường có thu nhập từ 15tr trở lên)<br /><br />-Ngoài ra còn có thưởng quý, thi đua trong tháng quý với các phần thưởng giá trị như xe máy, ti vi, tủ lạnh, loa ...<br /><br />-Nghỉ tết âm lịch thường 12-14 ngày<br /><br />- Hàng năm được công ty tổ chức đi du lịch từ 5 ngày trên các vùng miền trên cả nước<br /><br />-Phúc lợi đầy đủ theo luật lao động Việt Nam được tham gia đóng BHXH,BHYT, nghỉ các ngày lễ theo qui định của Nhà Nước và có thưởng <br /><br />-Hàng tuần có các buổi đào tạo kỹ năng <a href='https://www.timviecnhanh.com/viec-lam-ban-hang-c10.html' title='bán hàng' class='job-detail-autolink'>bán hàng</a>, học hỏi sản phẩm từ BLĐ cty.<br /><br />-Làm giờ hành chính (nghỉ chiều thứ 7 và ngày chủ nhật)<br /><br />-Đến với chúng tôi bạn sẽ được làm việc trong môi trường thân thiện, chuyên nghiệp và có cơ hội thể hiện hết tài năng của mình,cơ hội thăng tiến cao",
+    "skills": "- Nam :tuổi từ 21 -28 tuổi<br /><br />- Tốt nghiệp cao đẳng trở lên (không yêu cầu đúng chuyên ngành kinh doanh )<br /><br />- Năng động, hoạt bát, giao tiếp tốt.<br /><br />-Thân thiện vui vẻ, hòa đồng trong tập thể<br /><br />- Có khả năng làm việc nhóm",
+    "qualifications": "Cao đẳng",
+    "experienceRequirements": "Không yêu cầu kinh nghiệm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Công Ty Cổ Phần Xnk Bảo Tín - CN Hà Nội",
+      "value": "3022742"
+    },
+    "datePosted": "2019-03-25 11:19:19",
+    "validThrough": "2019-04-21 00:00:00",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Công Ty Cổ Phần Xnk Bảo Tín - CN Hà Nội",
+      "sameAs": "https://www.timviecnhanh.com/cong-ty-co-phan-xnk-bao-tin-cn-ha-noi-tuyen-dung-3022742.html",
+      "logo": "https://cdn.timviecnhanh.com/asset/home/img/kh_tvn_color-min.png"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "168 Nguyễn Công Thái, khu đô thị Đại Kim, quận Hoàng Mai, Hà Nội",
+        "addressLocality": "168 Nguyễn Công Thái, khu đô thị Đại Kim, quận Hoàng Mai, Hà Nội",
+        "addressRegion": "Hà Nội",
+        "postalCode": "100000",
+        "addressCountry": "VN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": "20000000",
+      "maxValue": "24999999",
+      "unitText": "MONTH"
+    },
+    "occupationalCategory": [
+      "Kinh doanh",
+      "Phát triển thị trường"
+    ],
+    "url": "https://www.timviecnhanh.com/tuyen-nhan-vien-kinh-doanh-thu-nhap-15tr-25-tr-thang-ha-noi-4347106.html"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "JobPosting",
+    "title": "Họa Viên 3D - Kiến Trúc Sư 10Tr - 12Tr",
+    "description": "- Khảo sát hiện trạng.<br />- Đưa ra ý tưởng sơ bộ tại chỗ, về nhà hoàn thiện ý tưởng.<br />- Lên concep 3d, điều chỉnh trao đổi với khách hàng, hoàn thiện và vẽ bản vẽ 2d (Ưu tiên thế mạnh về diện họa 3D nội thất hiện đại và Tân cổ điển)<br />- Thực hiện các công việc khác theo sự phân công của người quản lý.<br />- Khảo sát và giao dịch với khách hàng trong quá trình thiết kế.",
+    "jobBenefits": "- Lương 7.000.000 – 12.000.000đ / tháng + % Công trình thi công.<br />- Phụ cấp ăn trưa : 25.000đ/ngày<br />- Thời gian làm việc : Sáng: 8h – 12h; Chiều 13h30-17h30<br />- Môi trường làm việc thân thiện, năng động. Được đào tạo thêm để nâng cao nghiệp vụ chuyên môn.<br />- Tăng lương theo hiệu quả công tác và cam kết đầy đủ các chế độ dành cho người lao động theo như quy định pháp luật hiện hành (BHYT, BHXH, BHTN…).<br />- Có lương tháng thứ 13 theo quy định công ty với người làm từ 1 năm ở công ty trở lên và thưởng tết 1-3 triệu với nhân viên từ 6-12 tháng <br />- Được nghỉ chiều T7 và CN và các ngày lễ theo quy định của nhà nước.<br />- Được tham gia các buổi liên hoan theo tháng và <a href='https://www.timviecnhanh.com/viec-lam-du-lich-nha-hang-khach-san-c23.html' title='du lịch' class='job-detail-autolink'>du lịch</a> định kỳ của năm.",
+    "skills": "- Tốt nghiệp Cao đẳng / Đại học chuyên ngành kiến trúc, Mỹ thuật công nghiệp, thiết kế nội thất,..<br />- Chấp nhận <a href='https://www.timviecnhanh.com/viec-lam-sinh-vien-moi-tot-nghiep-thuc-tap-c35.html' title='sinh viên' class='job-detail-autolink'>sinh viên</a> mới ra trường<br />- Có khả năng độc lập triển khai công việc<br />- Thành thạo 3dsmax và autocad (bắt buộc), Photoshop và các phần mềm khác biết là một lợi thế.<br />- Chăm chỉ, kỷ luật và trách nhiệm là đức tính được đánh giá cao, thậm chí cao hơn cả kinh nghiệm.<br />- Có tình yêu với ngành thiết kế kiến trúc, nội thất.",
+    "qualifications": "Cao đẳng",
+    "experienceRequirements": "Không yêu cầu kinh nghiệm",
+    "identifier": {
+      "@type": "PropertyValue",
+      "name": "Công Ty CP Kiến Trúc Và Đầu Tư Xây Dựng AE Việt Nam",
+      "value": "2720826"
+    },
+    "datePosted": "2019-03-25 11:16:25",
+    "validThrough": "2019-04-21 00:00:00",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": {
+      "@type": "Organization",
+      "name": "Công Ty CP Kiến Trúc Và Đầu Tư Xây Dựng AE Việt Nam",
+      "sameAs": "https://www.timviecnhanh.com/cong-ty-cp-kien-truc-va-dau-tu-xay-dung-ae-viet-nam-tuyen-dung-2720826.html",
+      "logo": "https://cdn.timviecnhanh.com/asset/home/img/employer/5720767fb1b39_1461745279_140x140.png"
+    },
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Phòng 305 chung cư CT3-Đơn Nguyên 1, KDT Trung Văn, đường Tố Hữu, Nam Từ Liêm",
+        "addressLocality": "Phòng 305 chung cư CT3-Đơn Nguyên 1, KDT Trung Văn, đường Tố Hữu, Nam Từ Liêm",
+        "addressRegion": "Hà Nội",
+        "postalCode": "100000",
+        "addressCountry": "VN"
+      }
+    },
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "VND",
+      "minValue": "10000000",
+      "maxValue": "11999999",
+      "unitText": "MONTH"
+    },
+    "occupationalCategory": [
+      "Kiến trúc/Nội thất",
+      "Thiết kế/Mỹ thuật",
+      "Xây dựng"
+    ],
+    "url": "https://www.timviecnhanh.com/tuyen-hoa-vien-3d-kien-truc-su-10tr-12tr-ha-noi-4347100.html"
+  }
+]

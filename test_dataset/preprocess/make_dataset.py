@@ -32,16 +32,16 @@ class ParserDataset:
             if not os.path.exists(f'{self.destination_dir}/dataset/{attribute}/'):
                 os.makedirs(f'{self.destination_dir}/dataset/{attribute}/')
 
-            save_file_dir[attribute] = open(f'{self.destination_dir}/dataset/{attribute}/test.txt', mode='a+', encoding='utf8')
+            save_file_dir[attribute] = open(f'{self.destination_dir}/dataset/{attribute}/test.txt', mode='w', encoding='utf8')
         for item in self.raw_data:
             for job_field, job_value in flatten_dict(item).items():
                 if job_field not in self.attributes:
                     continue
 
                 if type(job_value) is list:
-                    value_to_write = ' '.join([re.sub('\\s', ' ', str(value)) for value in job_value])
+                    value_to_write = ' '.join([re.sub('\\s+|(<.*>)', ' ', str(value)) for value in job_value])
                 else:
-                    value_to_write = re.sub('\\s', ' ', str(job_value))
+                    value_to_write = re.sub('\\s+|(<.*>)', ' ', str(job_value))
 
                 for attribute in self.attributes:
                     if str(value_to_write).strip() != '':

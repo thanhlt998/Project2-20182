@@ -17,10 +17,17 @@ def flatten_dict(d):
         if k.startswith('@'):
             continue
         if type(v) is not dict:
+            if is_url(v):
+                continue
             result[k] = v
         else:
             result = {**result, **{f'{k}_{k_}': v_ for k_, v_ in flatten_dict(v).items()}}
     return result
+
+
+def is_url(url):
+    pattern = r"^http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+] |[!*\(\), ]|(?:%[0-9a-fA-F][0-9a-fA-F]))+$"
+    return re.match(pattern, str(url)) is not None
 
 
 def format(json_object, dictionary):
@@ -72,3 +79,11 @@ def parse_json(json_list):
     jobs = [o for o in json_list if "http://schema.org/JobPosting" in o.get("@type")]
 
     return [format(job, dictionary) for job in jobs]
+
+
+def date_normalize(date):
+    year_month_date = re.split(r'\/-', date[:10])
+    if len(year_month_date[0]) == 2:
+        return '-'.join(year_month_date[::-1])
+    else:
+        return '-'.join(year_month_date)
