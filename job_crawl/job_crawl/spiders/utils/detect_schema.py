@@ -1,6 +1,6 @@
-from utils import flatten_dict, parse_attribute, date_normalize
-from model import DecisionTreeModel, NaiveBayesModel
-from preprocess import FeaturesTransformer
+from .utils import flatten_dict, parse_attribute, date_normalize
+from .model import DecisionTreeModel, NaiveBayesModel
+from .preprocess import FeaturesTransformer
 import json
 import pickle
 import re
@@ -68,8 +68,9 @@ class JobSchemaDetection:
 
         matched_tuples = self.__match_by_matrix(sum_matrix)
 
-        self.schema_mapping = {mapping_attributes[int(matched_tuple[0])]: self.standard_attributes[int(matched_tuple[1])] for
-                               matched_tuple in matched_tuples}
+        self.schema_mapping = {
+            mapping_attributes[int(matched_tuple[0])]: self.standard_attributes[int(matched_tuple[1])] for
+            matched_tuple in matched_tuples}
 
     @staticmethod
     def __create_matrix_by_matched_schema(schema, standard_attributes, mapping_attributes):
@@ -80,12 +81,16 @@ class JobSchemaDetection:
         return matrix
 
     def __mapping_schema_one(self, job):
-        mapping_schema = {**self.__match_attributes_date_type(job), **self.__match_min_max_base_salary(job)}
+        match_min_max_salary = self.__match_min_max_base_salary(job)
+        mapping_schema = {**self.__match_attributes_date_type(job), **match_min_max_salary}
 
         remaining_standard_attributes = [attribute for attribute in self.standard_attributes if
                                          attribute not in mapping_schema.values() and attribute not in self.excluded_attributes]
         remaining_mapping_attributes = [attribute for attribute in job.keys() if
                                         attribute not in mapping_schema.keys() and attribute not in self.excluded_attributes]
+
+        if len(match_min_max_salary) == 0:
+            remaining_standard_attributes.append("baseSalary_value")
 
         return {**mapping_schema,
                 **self.__decide_attribute_match(job, remaining_standard_attributes, remaining_mapping_attributes)}
@@ -96,7 +101,6 @@ class JobSchemaDetection:
         for key in remaining_mapping_attributes:
             sim_matrix.append(
                 [self.__calculate_proba(job[key], attribute) for attribute in remaining_standard_attributes])
-        # print(sim_matrix)
         mapping_tuples = self.__match_by_matrix(np.array(sim_matrix))
         for item in mapping_tuples:
             decide_mapping[remaining_mapping_attributes[int(item[0])]] = remaining_standard_attributes[int(item[1])]
@@ -108,11 +112,10 @@ class JobSchemaDetection:
         min_dim = min(matrix.shape)
 
         matched = np.empty((0, 2))
-        print(matrix)
         while matched.shape[0] < min_dim:
             max_position = np.column_stack(np.where(matrix == matrix.max()))[0]
-            matrix[:, max_position[1]] = 0
-            matrix[max_position[0], :] = 0
+            matrix[:, max_position[1]] = -1
+            matrix[max_position[0], :] = -1
             matched = np.concatenate((matched, max_position.reshape(1, 2)), axis=0)
 
         return matched
@@ -137,7 +140,7 @@ class JobSchemaDetection:
     def __match_min_max_base_salary(self, job):
         min_max_attributes = {}
         for attribute, value in job.items():
-            if self.__is_number(value):
+            if self.__is_number(value) and not self.__is_postal_code(value):
                 min_max_attributes[attribute] = value
 
         min_max_base_salary_mapping = {}
@@ -160,3 +163,24 @@ class JobSchemaDetection:
     @staticmethod
     def __is_number(attribute_value):
         return re.match(r"^((\d{1,3}([\.,]000)*)|(\d+))$", str(attribute_value)) is not None
+
+    @staticmethod
+    def __is_postal_code(attribute_value):
+        postal_codes = [880000, 790000, 960000, 260000, 230000, 220000, 930000, 820000, 590000, 830000, 800000, 970000,
+                        270000, 900000, 550000, 630000, 640000, 380000, 810000, 870000, 600000, 310000, 400000, 480000,
+                        170000, 180000, 910000, 350000, 160000, 650000, 920000, 580000, 390000, 240000, 330000, 670000,
+                        850000, 420000, 430000, 660000, 290000, 620000, 510000, 560000, 570000, 200000, 520000, 950000,
+                        360000, 840000, 410000, 250000, 530000, 860000, 940000, 300000, 890000, 280000, 320000]
+        range_codes = [(100000, 150000), (700000, 760000), (460000, 470000), (440000, 450000)]
+
+        int_value = int(attribute_value)
+
+        if int_value in postal_codes:
+            return True
+        else:
+            for range_code in range_codes:
+                if int_value in range(range_code[0], range_code[1] + 1):
+                    return True
+
+            return False
+

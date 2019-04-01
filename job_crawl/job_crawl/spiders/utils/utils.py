@@ -14,7 +14,7 @@ def parse_attribute(d):
 def flatten_dict(d):
     result = {}
     for k, v in d.items():
-        if k.startswith('@'):
+        if k.startswith('@') or k == 'identifier':
             continue
         if type(v) is not dict:
             if is_url(v):
@@ -26,7 +26,7 @@ def flatten_dict(d):
 
 
 def is_url(url):
-    pattern = r"^http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+] |[!*\(\), ]|(?:%[0-9a-fA-F][0-9a-fA-F]))+$"
+    pattern = r"^http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+$"
     return re.match(pattern, str(url)) is not None
 
 

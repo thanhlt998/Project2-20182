@@ -101,3 +101,8 @@ DOWNLOAD_DELAY = 0.15
 FEED_EXPORT_ENCODING = 'utf-8'
 # LOG_FILE = 'file.log'
 # COOKIES_DEBUG = True
+
+DUPEFILTER_CLASS = 'scrapy.dupefilters.BaseDupeFilter'
+DEPTH_PRIORITY = 1
+SCHEDULER_DISK_QUEUE = 'scrapy.squeues.PickleFifoDiskQueue'
+SCHEDULER_MEMORY_QUEUE = 'scrapy.squeues.FifoMemoryQueue'

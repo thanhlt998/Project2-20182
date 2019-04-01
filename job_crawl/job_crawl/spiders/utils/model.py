@@ -3,7 +3,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.pipeline import Pipeline
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
-from preprocess import FeaturesTransformer
+from .preprocess import FeaturesTransformer
 
 
 class NaiveBayesModel(object):

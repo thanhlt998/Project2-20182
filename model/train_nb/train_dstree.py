@@ -6,32 +6,26 @@ import time
 import os
 import pickle
 
+folder = '../dataset'
+# for directory in os.listdir(folder):
+for directory in ['title']:
+    print(time.asctime())
+    data_fn = f'{folder}/{directory}/data.txt'
+    X, y = FileReader(data_fn).load_data()
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3)
 
-def main():
-    folder = '../dataset'
-    # for directory in os.listdir(folder):
-    for directory in ['title']:
-        print(time.asctime())
-        data_fn = f'{folder}/{directory}/data.txt'
-        X, y = FileReader(data_fn).load_data()
-        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3)
+    # Fit model
+    model = DecisionTreeModel()
+    model.clf.fit(X_train, y_train)
 
-        # Fit model
-        model = DecisionTreeModel()
-        model.clf.fit(X_train, y_train)
+    # Test
+    y_pred = model.clf.predict(X_test)
+    print(model.clf.predict_proba(X_test))
+    print("Accuracy of title is %.2f %%" % (accuracy_score(y_test, y_pred) * 100))
 
-        # Test
-        y_pred = model.clf.predict(X_test)
-        print(model.clf.predict_proba(X_test))
-        print("Accuracy of title is %.2f %%" % (accuracy_score(y_test, y_pred) * 100))
+    # Saving model
+    # with open(f'models/{directory}/{directory}_nb.pickle', mode='wb') as f:
+    #     pickle.dump(model, f)
+    #     f.close()
 
-        # Saving model
-        # with open(f'models/{directory}/{directory}_nb.pickle', mode='wb') as f:
-        #     pickle.dump(model, f)
-        #     f.close()
-
-        print(time.asctime())
-
-
-if __name__ == '__main__':
-    main()
+    print(time.asctime())
