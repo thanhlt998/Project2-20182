@@ -89,8 +89,8 @@ class JobSchemaDetection:
         remaining_mapping_attributes = [attribute for attribute in job.keys() if
                                         attribute not in mapping_schema.keys() and attribute not in self.excluded_attributes]
 
-        if len(match_min_max_salary) == 0:
-            remaining_standard_attributes.append("baseSalary_value")
+        if len(match_min_max_salary) > 0:
+            remaining_standard_attributes.remove("baseSalary_value")
 
         return {**mapping_schema,
                 **self.__decide_attribute_match(job, remaining_standard_attributes, remaining_mapping_attributes)}
@@ -112,8 +112,14 @@ class JobSchemaDetection:
         min_dim = min(matrix.shape)
 
         matched = np.empty((0, 2))
-        while matched.shape[0] < min_dim:
-            max_position = np.column_stack(np.where(matrix == matrix.max()))[0]
+        i = 0
+        while i < min_dim:
+            i += 1
+            max_position = np.column_stack(np.where((matrix == matrix.max()) & (matrix > 0.5)))
+            if max_position.shape[0] == 0:
+                break
+            else:
+                max_position = max_position[0]
             matrix[:, max_position[1]] = -1
             matrix[max_position[0], :] = -1
             matched = np.concatenate((matched, max_position.reshape(1, 2)), axis=0)
@@ -140,13 +146,15 @@ class JobSchemaDetection:
     def __match_min_max_base_salary(self, job):
         min_max_attributes = {}
         for attribute, value in job.items():
-            if self.__is_number(value) and not self.__is_postal_code(value):
+            if self.__is_salary(value):
                 min_max_attributes[attribute] = value
 
         min_max_base_salary_mapping = {}
         if len(min_max_attributes) == 2:
             items = list(min_max_attributes.items())
-            if items[0][1] < items[1][1]:
+            v0 = int(re.search(r'\d+', items[0][1]).group(0))
+            v1 = int(re.search(r'\d+', items[1][1]).group(0))
+            if v0 < v1:
                 min_max_base_salary_mapping[items[0][0]] = 'baseSalary_minValue'
                 min_max_base_salary_mapping[items[1][0]] = 'baseSalary_maxValue'
             else:
@@ -160,9 +168,13 @@ class JobSchemaDetection:
             r"^(\d{4}-\d{2}-\d{2} {0,1}((\d{2}:\d{2}:\d{2})|T\d{2}:\d{2}(:\d{2})?(\+\d{2}:\d{2}))?)|(\d{2}\/\d{2}\/\d{4})|(\d{4}\/\d{2}\/\d{2})$",
             str(attribute_value)) is not None
 
+    def __is_salary(self, attribute_value):
+        return (self.__is_number(attribute_value) and not self.__is_postal_code(attribute_value)) or re.match(
+            r'^\s*(\w+\s*)?\d+\s*(triệu|tr|trieu)$', str(attribute_value)) is not None
+
     @staticmethod
     def __is_number(attribute_value):
-        return re.match(r"^((\d{1,3}([\.,]000)*)|(\d+))$", str(attribute_value)) is not None
+        return re.match(r"^(((\d{1,3}([\.,]\d{3})*)|(\d+))|(\w*\d+))$", str(attribute_value)) is not None
 
     @staticmethod
     def __is_postal_code(attribute_value):
@@ -183,4 +195,3 @@ class JobSchemaDetection:
                     return True
 
             return False
-

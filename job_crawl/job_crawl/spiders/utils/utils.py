@@ -16,12 +16,18 @@ def flatten_dict(d):
     for k, v in d.items():
         if k.startswith('@') or k == 'identifier':
             continue
-        if type(v) is not dict:
+        if type(v) is dict:
+            result = {**result, **{f'{k}_{k_}': v_ for k_, v_ in flatten_dict(v).items()}}
+        elif type(v) is list:
+            if len(v) == 1 and type(v[0]) is dict:
+                result = {**result, **{f'{k}_{k_}': v_ for k_, v_ in flatten_dict(v[0]).items()}}
+            else:
+                result[k] = v
+        else:
             if is_url(v):
                 continue
             result[k] = v
-        else:
-            result = {**result, **{f'{k}_{k_}': v_ for k_, v_ in flatten_dict(v).items()}}
+
     return result
 
 

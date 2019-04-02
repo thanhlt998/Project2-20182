@@ -1,1 +1,19 @@
-{"validThrough": "validThrough", "jobLocation_address_addressCountry": "jobLocation_address_addressCountry", "employmentType": "employmentType", "jobLocation_address_addressRegion": "jobLocation_address_addressRegion", "datePosted": "datePosted", "baseSalary_currency": "baseSalary_currency", "jobLocation_address_streetAddress": "jobLocation_address_addressLocality", "baseSalary_unitText": "baseSalary_unitText", "qualifications": "qualifications", "description": "description", "baseSalary_minValue": "baseSalary_minValue", "baseSalary_maxValue": "baseSalary_maxValue", "title": "title", "jobBenefits": "jobBenefits", "hiringOrganization_name": "hiringOrganization_name", "skills": "skills", "experienceRequirements": "experienceRequirements", "jobLocation_address_postalCode": "occupationalCategory"}
+{
+  "qualifications": "qualifications",
+  "baseSalary_currency": "baseSalary_currency",
+  "jobLocation_address_addressCountry": "jobLocation_address_addressCountry",
+  "validThrough": "validThrough",
+  "baseSalary_unitText": "baseSalary_unitText",
+  "datePosted": "datePosted",
+  "jobLocation_address_addressRegion": "jobLocation_address_addressRegion",
+  "employmentType": "employmentType",
+  "jobLocation_address_streetAddress": "jobLocation_address_addressLocality",
+  "description": "description",
+  "baseSalary_maxValue": "baseSalary_maxValue",
+  "title": "title",
+  "baseSalary_minValue": "baseSalary_minValue",
+  "hiringOrganization_name": "hiringOrganization_name",
+  "skills": "skills",
+  "jobBenefits": "jobBenefits",
+  "experienceRequirements": "experienceRequirements"
+}
