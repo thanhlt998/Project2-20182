@@ -1,5 +1,5 @@
 from .utils import flatten_dict, parse_attribute, date_normalize
-from .model import DecisionTreeModel, NaiveBayesModel
+from .model import DecisionTreeModel, NaiveBayesModel, LogisticRegressionModel
 from .preprocess import FeaturesTransformer
 import json
 import pickle
@@ -31,7 +31,7 @@ class JobSchemaDetection:
                 self.models[attribute]['nb'] = pickle.load(f)
                 f.close()
 
-            with open(f'{model_dir}/{attribute}/{attribute}_dtree.pickle', mode='rb') as f:
+            with open(f'{model_dir}/{attribute}/{attribute}_logistic.pickle', mode='rb') as f:
                 self.models[attribute]['dtree'] = pickle.load(f)
                 f.close()
 
@@ -152,8 +152,8 @@ class JobSchemaDetection:
         min_max_base_salary_mapping = {}
         if len(min_max_attributes) == 2:
             items = list(min_max_attributes.items())
-            v0 = int(re.search(r'\d+', items[0][1]).group(0))
-            v1 = int(re.search(r'\d+', items[1][1]).group(0))
+            v0 = int(re.search(r'\d+', str(items[0][1])).group(0))
+            v1 = int(re.search(r'\d+', str(items[1][1])).group(0))
             if v0 < v1:
                 min_max_base_salary_mapping[items[0][0]] = 'baseSalary_minValue'
                 min_max_base_salary_mapping[items[1][0]] = 'baseSalary_maxValue'

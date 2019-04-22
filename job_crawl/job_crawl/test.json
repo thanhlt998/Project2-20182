@@ -1,0 +1,48 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "JobPosting",
+  "title": "Nhân viên kinh doanh thiết bị văn phòng.",
+  "description": "- Giới thiệu và tư vấn tới khách hàng các sản phẩm của Công ty.\r\n- Tìm kiếm khách hàng mới và phát triển thị trường, đại lý, nhà phân phối.\r\n- Xây dựng, duy trì, phát triển mối quan hệ với các khách hàng.\r\n- Thương lượng, đàm phán với khách hàng và làm thủ tục kí kết hợp đồng với khách hàng.\r\n- Thực hiện các công việc khác do cấp trên yêu cầu.",
+  "jobBenefits": "- Lương 7.000.000VNĐ đến 10.000.000VNĐ hoặc lương trên 10.000.000 VNĐ theo thỏa thuận.\r\n- Cơ hội thăng tiến cao\r\n- Được đóng BHYT, BHXH theo quy định của nhà nước\r\n- Được làm việc trong môi trường năng động, chuyên nghiệp và hiệu quả\r\n- Tham gia các hoạt động đào tạo, nghỉ mát theo quy định của công ty",
+  "skills": "* Nam/Nữ Yêu thích và đam mê kinh doanh.\r\n* Kỹ năng giao tiếp tốt, năng động, đàm phán và thuyết phục tốt\r\n* Có khả năng làm việc độc lập và theo nhóm, chịu được áp lực công việc\r\n* Ưu tiên những người có kinh nghiệm trong lĩnh vực thiết bị văn phòng",
+  "qualifications": "Trung cấp",
+  "experienceRequirements": "1 năm",
+  "identifier": {
+    "@type": "PropertyValue",
+    "name": "Công Ty TNHH TM & công nghệ Việt Hưng G8 ",
+    "value": "4215401"
+  },
+  "datePosted": "2019-03-20",
+  "validThrough": "2019-04-16",
+  "employmentType": "FULL_TIME",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Công Ty TNHH TM & công nghệ Việt Hưng G8 ",
+    "sameAs": "https://vieclam24h.vn/danh-sach-tin-tuyen-dung-cong-ty-tnhh-tm-cong-nghe-viet-hung-g8-ntd4215401p1.html",
+    "logo": "https://vieclam24h.vn/upload/files_cua_nguoi_dung/logo/2019/03/27/1553651890_Logo.png"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "106 Đốc Ngữ, Ba Đình, Hà Nội",
+      "addressRegion": "Hà Nội",
+      "postalCode": "100000",
+      "addressCountry": "VN",
+      "addressLocality": "106 Đốc Ngữ, Ba Đình, Hà Nội"
+    }
+  },
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "VND",
+    "minValue": 7000000,
+    "maxValue": 9999999,
+    "unitText": "MONTH"
+  },
+  "occupationalCategory": [
+    "Marketing-PR",
+    "Bán hàng",
+    "Nhân viên kinh doanh"
+  ],
+  "url": "https://vieclam24h.vn/marketing-pr/nhan-vien-kinh-doanh-thiet-bi-van-phong-c53p0id3035523.html"
+}

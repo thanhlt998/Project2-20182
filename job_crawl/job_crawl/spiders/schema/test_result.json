@@ -1,0 +1,41 @@
+{
+  "mywork": {
+    "baseSalary_unitText": "baseSalary_unitText",
+    "jobLocation_address_addressCountry": "jobLocation_address_addressCountry",
+    "baseSalary_currency": "baseSalary_currency",
+    "employmentType": "employmentType",
+    "jobLocation_address_addressRegion": "jobLocation_address_addressRegion",
+    "baseSalary_minValue": "baseSalary_minValue",
+    "baseSalary_maxValue": "baseSalary_maxValue",
+    "educationRequirements": "qualifications",
+    "description": "description",
+    "datePosted": "datePosted",
+    "validThrough": "validThrough",
+    "hiringOrganization_name": "hiringOrganization_name",
+    "jobLocation_address_streetAddress": "jobLocation_address_addressLocality",
+    "experienceRequirements": "experienceRequirements",
+    "title": "title",
+    "jobBenefits": "jobBenefits",
+    "industry": "occupationalCategory"
+  },
+  "vieclam24h": {
+    "baseSalary_minValue": "baseSalary_minValue",
+    "baseSalary_maxValue": "baseSalary_maxValue",
+    "datePosted": "datePosted",
+    "validThrough": "validThrough",
+    "baseSalary_unitText": "baseSalary_unitText",
+    "jobLocation_address_addressCountry": "jobLocation_address_addressCountry",
+    "baseSalary_currency": "baseSalary_currency",
+    "employmentType": "employmentType",
+    "qualifications": "qualifications",
+    "jobBenefits": "jobBenefits",
+    "description": "description",
+    "hiringOrganization_name": "hiringOrganization_name",
+    "jobLocation_address_streetAddress": "jobLocation_address_addressLocality",
+    "experienceRequirements": "experienceRequirements",
+    "title": "title",
+    "jobLocation_address_addressRegion": "jobLocation_address_addressRegion",
+    "occupationalCategory": "occupationalCategory",
+    "skills": "skills"
+  }
+}

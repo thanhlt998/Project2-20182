@@ -9,14 +9,14 @@ import pymongo
 from job_crawl.items import JobItem
 import time
 
+
 class JobCrawlPipeline(object):
     def process_item(self, item, spider):
         return item
 
 
 class MongoPipeline(object):
-
-    collection_name = 'job_information'
+    collection_name = 'job_information1'
 
     def __init__(self, mongo_uri, mongo_db):
         self.mongo_uri = mongo_uri
@@ -48,9 +48,8 @@ class MongoPipeline(object):
         # if len(self.jobs_to_add) >= 2000:
         #     self.db[self.collection_name].insert_many(self.jobs_to_add)
         #     self.jobs_to_add.clear()
-        if isinstance(item, JobItem):
-            self.db[self.collection_name].insert_one(dict(item))
+        # if isinstance(item, JobItem):
+        if type(item) is dict:
+            self.db[self.collection_name].insert_one(item)
             self.no_items_added += 1
         return item
-
-

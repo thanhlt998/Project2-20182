@@ -6,7 +6,7 @@ import pickle
 import os
 
 
-# for directory in os.listdir('dataset1'):
+# for directory in os.listdir('dataset'):
 for directory in ['baseSalary_currency']:
     # Data path
     path = f'dataset/{directory}/data.txt'

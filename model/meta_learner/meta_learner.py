@@ -27,7 +27,7 @@ for directory in os.listdir('dataset'):
     y_prob_nb = [item[0] for item in model_nb.predict_proba(X_features_nb)]
     y_prob_ds = [item[0] for item in model_ds.predict_proba(X_features_ds)]
 
-    # Create dataset1 for meta-learner
+    # Create dataset for meta-learner
     with open(f'dataset/{directory}/meta_learner_data.txt', mode='w', encoding='utf8') as f:
         for i in range(50000):
             f.write('%s\t%f\t%f\t%d\n' % (data[i][0], (y_prob_nb[i]), (y_prob_ds[i]), abs(X_labels_nb[i] - 1)))

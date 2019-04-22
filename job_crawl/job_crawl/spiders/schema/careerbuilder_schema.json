@@ -1,0 +1,17 @@
+{
+  "datePosted": "validThrough",
+  "educationRequirements": "qualifications",
+  "jobLocation_address_addressRegion": "jobLocation_address_addressRegion",
+  "baseSalary_currency": "baseSalary_currency",
+  "jobLocation_address_addressCountry": "jobLocation_address_addressCountry",
+  "employmentType": "employmentType",
+  "validThrough": "datePosted",
+  "description": "description",
+  "industry": "occupationalCategory",
+  "jobLocation_address_streetAddress": "jobLocation_address_addressLocality",
+  "jobBenefits": "jobBenefits",
+  "hiringOrganization_name": "hiringOrganization_name",
+  "title": "title",
+  "workHours": "experienceRequirements",
+  "experienceRequirements": "skills"
+}

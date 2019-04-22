@@ -1,5 +1,6 @@
 import re
 import json
+import sys
 
 
 def load_dict(dict_file_name):
@@ -11,8 +12,8 @@ def load_dict(dict_file_name):
     return None
 
 
-CAREER_DICT = load_dict('job_crawl/dict/career.json')
-ADDRESS_DICT = load_dict('job_crawl/dict/address.json')
+CAREER_DICT = load_dict('job_crawl/spiders/utils/dict/address.json')
+ADDRESS_DICT = load_dict('job_crawl/spiders/utils/dict/address.json')
 
 
 def normalize_job(job):
@@ -31,11 +32,18 @@ def normalize_occupational_category(occupational_category):
         for careers in occupational_category:
             for career in careers.split(','):
                 career_tmp = re.sub("\\s*[-\\/]\\s*", " - ", career.strip())
-                normalized_occupational_category.append(CAREER_DICT.get(career_tmp, "Khác"))
+                career_normalized = CAREER_DICT.get(career_tmp)
+                if career_normalized is not None:
+                    normalized_occupational_category.append(career_normalized)
     else:
         for career in occupational_category.split(','):
             career_tmp = re.sub("\\s*[-\\/]\\s*", " - ", career.strip())
-            normalized_occupational_category.append(CAREER_DICT.get(career_tmp, "Khác"))
+            career_normalized = CAREER_DICT.get(career_tmp)
+            if career_normalized is not None:
+                normalized_occupational_category.append(career_normalized)
+
+    if len(normalized_occupational_category) == 0:
+        normalized_occupational_category.append('Khác')
     return list(set(normalized_occupational_category))
 
 

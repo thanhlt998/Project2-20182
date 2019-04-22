@@ -23,7 +23,7 @@ def load_data(fn):
 folder = 'meta_learner_data'
 weight = {}
 for directory in os.listdir(folder):
-    data_file_name = f'{folder}/{directory}/train.txt'
+    data_file_name = f'{folder}/{directory}/train_nb_logistic.txt'
     X, y = load_data(data_file_name)
 
     # X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3)
@@ -33,6 +33,6 @@ for directory in os.listdir(folder):
     print(f"Weights of {directory} ", model.coef_)
     weight[directory] = list(model.coef_)
 
-with open('weight.json', mode='w', encoding='utf8') as f:
+with open('weight_nb_logistic.json', mode='w', encoding='utf8') as f:
     json.dump(weight, f)
     f.close()

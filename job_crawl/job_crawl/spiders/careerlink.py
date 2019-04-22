@@ -1,10 +1,5 @@
 import scrapy
 from scrapy import Request
-from job_crawl.items import JobItem
-import pymongo
-import re
-from ..remove_similar_data.remove_similar_data import DataReduction
-from ..dict.load_dict import load_dict
 from .utils.utils import parse_json
 from pyMicrodata import pyMicrodata
 import json

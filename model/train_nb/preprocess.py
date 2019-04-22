@@ -46,4 +46,8 @@ class FeaturesTransformer(BaseEstimator, TransformerMixin):
                          token not in self.STOP_WORDS and token not in self.SPECIAL_CHARACTER])
 
     def transform(self, X, y=None, **fit_params):
-        return [self.remove_stop_words(self.tokenizer.tokenize(x)) for x in X]
+        return [self.remove_stop_words(self.tokenizer.tokenize(self.remove_html_tag(x))) for x in X]
+
+    @staticmethod
+    def remove_html_tag(text):
+        return re.sub(r'(<[^<]*>|&nbsp;)', ' ', text)

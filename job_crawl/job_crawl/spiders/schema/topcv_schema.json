@@ -1,0 +1,17 @@
+{
+  "baseSalary_currency": "baseSalary_currency",
+  "employmentType": "employmentType",
+  "validThrough": "validThrough",
+  "baseSalary_value_unitText": "baseSalary_unitText",
+  "datePosted": "datePosted",
+  "title": "title",
+  "jobLocation_address_addressCountry": "jobLocation_address_addressCountry",
+  "jobLocation_address_addressRegion": "jobLocation_address_addressRegion",
+  "jobLocation_address_streetAddress": "jobLocation_address_addressLocality",
+  "hiringOrganization_name": "hiringOrganization_name",
+  "baseSalary_value_minValue": "baseSalary_minValue",
+  "skills": "occupationalCategory",
+  "baseSalary_value_value": "baseSalary_maxValue",
+  "jobLocation_address_postalCode": "experienceRequirements",
+  "description": "description"
+}

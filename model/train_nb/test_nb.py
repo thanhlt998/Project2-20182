@@ -1,11 +1,11 @@
 from model import NaiveBayesModel
 from preprocess import FileReader, FeaturesTransformer
 import pickle
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import precision_recall_fscore_support
 import os
 
 
-for attribute in os.listdir('../dataset/'):
+for index, attribute in enumerate(os.listdir('../dataset/')):
     data_file_name = f'../dataset/{attribute}/test.txt'
 
     # Build feature extraction with available dictionary
@@ -21,5 +21,9 @@ for attribute in os.listdir('../dataset/'):
     # y_prob = model.clf.predict_proba(X_test)
 
     # Print accuracy result
-    print(f'Accuracy of {attribute}: %.2f' % (accuracy_score(y_test, y_pred)))
+    if index == 0:
+        print('%50s\t%10s\t%10s\t%10s' % ('Attribte', 'precision', 'recall', 'f1-score'))
+    precision, recall, fscore, _ = precision_recall_fscore_support(y_test, y_pred, average='micro')
+
+    print('%50s\t%10s\t%10s\t%10s' % (attribute, '%.2f' % (precision * 100), '%.2f' % (recall * 100), '%.2f' % (fscore * 100)))
 
